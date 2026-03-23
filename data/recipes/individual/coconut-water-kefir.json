@@ -1,0 +1,261 @@
+{
+  "id": "coconut-water-kefir",
+  "slug": "coconut-water-kefir",
+  "name": "Coconut Water Kefir",
+  "nameLocal": "ಎಳನೀರು ಕೆಫಿರ್",
+  "nameRomanized": "Elaneer Kefir",
+  "subtitle": "Tropical probiotic fizz from tender coconut water and water kefir grains",
+  "category": "beverage",
+  "subcategory": "probiotic soda",
+  "technique": "culture",
+  "region": "SE Asia / Tropical",
+  "country": "Thailand",
+  "countryCode": "TH",
+  "culturalGroup": "Southeast Asian / Tropical",
+  "difficulty": 1,
+  "tier": "beginner",
+  "tierLabel": "Literally Just Add Grains",
+  "prepTime": "5 min",
+  "fermentTimeMin": 24,
+  "fermentTimeMax": 48,
+  "fermentTimeUnit": "hours",
+  "totalTimeHuman": "24–48 hours",
+  "blrNote": "Tender coconuts (elaneer) available year-round from street vendors across Bengaluru. At BLR temps (25–28°C), ferments in ~24 hours. The natural sugars in coconut water feed the grains — no added sugar needed. Buy coconuts from vendors near KR Market or your neighbourhood pushcart.",
+  "seasonality": ["all"],
+  "ingredients": [
+    {
+      "name": "Fresh tender coconut water",
+      "nameLocal": "Elaneer / Nariyal Pani",
+      "amount": 750,
+      "unit": "ml",
+      "unitMetric": "750ml",
+      "category": "liquid",
+      "essential": true,
+      "substitutions": [
+        "Packaged coconut water (no preservatives, no added sugar — Raw Pressery or similar)",
+        "Young Thai coconut water"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Street coconut vendors everywhere in Bengaluru, year-round. ₹30–50 per tender coconut."
+        }
+      }
+    },
+    {
+      "name": "Water kefir grains (tibicos)",
+      "nameLocal": null,
+      "amount": 3,
+      "unit": "tbsp",
+      "unitMetric": "45g",
+      "category": "culture",
+      "essential": true,
+      "substitutions": [],
+      "localAvailability": {
+        "IN": {
+          "ease": "moderate",
+          "where": "Online fermentation communities, Instagram sellers, Facebook kefir groups in Bengaluru."
+        }
+      }
+    },
+    {
+      "name": "Sugar (optional)",
+      "nameLocal": "Sakkare / Cheeni",
+      "amount": 1,
+      "unit": "tsp",
+      "unitMetric": "5g",
+      "category": "sweetener",
+      "essential": false,
+      "substitutions": [
+        "Jaggery (bella) — adds minerals",
+        "Skip entirely — coconut water has enough natural sugar"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana store or supermarket"
+        }
+      }
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Glass jar (1L)",
+      "essential": true,
+      "notes": "Wide-mouth preferred. Avoid plastic for fermentation."
+    },
+    {
+      "name": "Plastic or nylon mesh strainer",
+      "essential": true,
+      "notes": "Fine mesh to catch the small translucent grains. Never use metal."
+    },
+    {
+      "name": "Cloth or paper towel + rubber band",
+      "essential": true,
+      "notes": "For covering the jar during fermentation — needs airflow but not insects."
+    }
+  ],
+  "tldr": "Pour fresh tender coconut water over water kefir grains, cover, ferment 24–48 hours, strain. Light, effervescent, tropical probiotic drink — no sugar needed.",
+  "steps": [
+    {
+      "step": 1,
+      "title": "Prepare the coconut water",
+      "instruction": "Crack open 2–3 tender coconuts and collect 750ml of fresh coconut water. If the coconut water is very cold (from a fridge), let it come to room temperature. Optionally dissolve 1 teaspoon of sugar into the coconut water for extra fermentation fuel, though this is usually unnecessary — tender coconut water has enough natural sugars.",
+      "duration": "5 min",
+      "tips": [
+        "Fresh tender coconut water is ideal — it has more natural sugars and nutrients than packaged varieties.",
+        "Avoid coconut water with preservatives or added sugar — these can stress the grains.",
+        "If using packaged coconut water, choose brands with nothing added (Raw Pressery, Cocofly)."
+      ],
+      "checkpoint": "750ml of room-temperature coconut water ready in a measuring jug"
+    },
+    {
+      "step": 2,
+      "title": "Add grains to coconut water",
+      "instruction": "Place 3 tablespoons of water kefir grains into a clean glass jar. Pour the coconut water over the grains. Leave 5cm headspace for CO₂. Cover with a breathable cloth secured with a rubber band.",
+      "duration": "2 min",
+      "tips": [
+        "The ratio is 3 tbsp grains per 750ml liquid — same as regular water kefir.",
+        "Don't seal the jar airtight during first ferment — CO₂ needs to escape.",
+        "If your grains have been in regular sugar water, they may take 1–2 batches to adapt to coconut water."
+      ],
+      "checkpoint": "Grains submerged in coconut water, jar covered with cloth"
+    },
+    {
+      "step": 3,
+      "title": "Ferment for 24–48 hours",
+      "instruction": "Place the jar in a warm spot away from direct sunlight. In Bengaluru, room temperature is perfect. Check at 24 hours — the liquid should taste less sweet, slightly tangy, and lightly fizzy. If you want more tang and fizz, go to 48 hours. The coconut water will become slightly cloudy.",
+      "duration": "24–48 hours",
+      "tips": [
+        "At BLR's 25–28°C, 24 hours is usually enough. The natural sugars in coconut water ferment quickly.",
+        "The liquid will become slightly cloudier and less sweet as fermentation progresses — that's normal.",
+        "Tiny bubbles clinging to the grains and jar sides mean fermentation is active and healthy."
+      ],
+      "checkpoint": "Coconut water is slightly cloudy, mildly tangy, and gently fizzy"
+    },
+    {
+      "step": 4,
+      "title": "Strain and serve",
+      "instruction": "Strain the fermented coconut water kefir through a plastic strainer into a clean bottle or glass. The grains go back into fresh coconut water or regular sugar water for the next batch. Serve chilled immediately, or bottle for a second ferment with lime or pandan for extra carbonation.",
+      "duration": "3 min",
+      "tips": [
+        "Coconut water kefir is best served ice-cold — the light tropical flavour is incredibly refreshing.",
+        "Grains may not multiply as fast in coconut water as in sugar water. Alternate batches with regular sugar water to keep grains healthy.",
+        "Store finished kefir in the fridge for up to 5 days — it will continue to slowly ferment and get tangier."
+      ],
+      "checkpoint": "Clear, bubbly coconut water kefir in a bottle. Grains transferred to fresh liquid."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Coconut_Water_being_poured.jpg/1280px-Coconut_Water_being_poured.jpg",
+      "caption": "Fresh tender coconut water — the base for coconut water kefir",
+      "attribution": "Midouryyy, CC BY-SA 4.0, via Wikimedia Commons",
+      "type": "hero",
+      "alt": "Fresh coconut water being poured from a tender coconut"
+    }
+  ],
+  "culturalContext": {
+    "story": "Coconut water kefir emerged where two traditions collided — the ancient grain-based fermentation of water kefir (from Mexico and Tibet) and the tropical abundance of tender coconuts in Southeast Asia and coastal India. In Bengaluru, where tender coconut vendors line every major road, this adaptation is a natural fit — turning a beloved street drink into a probiotic powerhouse.",
+    "historicalNote": "While water kefir grains have centuries of history, their use with coconut water is a modern adaptation popularized by health-conscious communities in tropical regions. In coastal Karnataka, Kerala, and Tamil Nadu, tender coconut water has always been considered a natural electrolyte and digestive aid — fermenting it simply amplifies those properties.",
+    "significance": "Coconut water kefir represents the beauty of fermentation: taking a local, abundant ingredient and transforming it into something more nutritious. For Bengaluru, where tender coconuts are available year-round for ₹30–50, this is one of the most accessible and affordable probiotic drinks you can make.",
+    "relatedTraditions": [
+      "Water kefir / Tibicos (Mexico)",
+      "Toddy / Kallu (fermented palm sap, South India)",
+      "Nata de coco (fermented coconut water, Philippines)",
+      "Tuba (fermented coconut sap, Philippines)"
+    ],
+    "funFact": "Tender coconut water is naturally sterile inside the fruit — it's so clean that it was used as emergency IV fluid during World War II and the Vietnam War. Fermenting this already-pure liquid with kefir grains creates a probiotic drink with a head start on hygiene."
+  },
+  "thingsToAccountFor": [
+    {
+      "title": "Grains may shrink in coconut water",
+      "description": "Coconut water has fewer minerals than sugar water with jaggery. If you ferment exclusively in coconut water, grains may slowly shrink. Alternate every 2–3 batches with regular sugar water (with jaggery) to keep grains healthy and growing.",
+      "severity": "important",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "BLR heat speeds fermentation",
+      "description": "At Bengaluru's 25–28°C, coconut water kefir can ferment in as little as 18–24 hours. Check early — over-fermented coconut water kefir tastes vinegary and loses its delicate tropical flavour.",
+      "severity": "important",
+      "appliesTo": ["blr"]
+    },
+    {
+      "title": "Avoid packaged coconut water with preservatives",
+      "description": "Preservatives (potassium sorbate, sodium benzoate) in some packaged coconut waters will inhibit or kill the kefir grains. Always check the label — the only ingredient should be coconut water.",
+      "severity": "warning",
+      "appliesTo": ["all"]
+    }
+  ],
+  "dehydratorIntegration": {
+    "applicable": false,
+    "method": "Not recommended — the delicate flavour of coconut water kefir does not survive dehydration. Enjoy fresh or frozen.",
+    "result": "N/A",
+    "shelfLife": "N/A",
+    "tips": [
+      "Freeze coconut water kefir into ice cubes or popsicle moulds for a probiotic frozen treat",
+      "Mix with fresh fruit before freezing for tropical probiotic ice pops"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Coconut Water Kefir with Lime",
+      "description": "After straining, add the juice of half a lime and a pinch of salt. Tastes like a probiotic nimbu pani with a tropical twist. Serve over ice.",
+      "region": "India / Fusion"
+    },
+    {
+      "name": "Coconut Water Kefir with Pandan",
+      "description": "Add a pandan leaf during fermentation for a fragrant, vanilla-like aroma. Common in Southeast Asian kitchens. Remove the leaf when straining.",
+      "region": "Southeast Asia"
+    },
+    {
+      "name": "Sparkling Coconut Kefir (2F)",
+      "description": "After straining, bottle the coconut water kefir in a swing-top bottle with 1 tsp sugar. Seal and leave for 12–24 hours for a naturally carbonated coconut soda. Burp carefully.",
+      "region": "Modern / Global"
+    }
+  ],
+  "relatedRecipes": [
+    "water-kefir-basic",
+    "coconut-milk-kefir",
+    "water-kefir-lime-soda"
+  ],
+  "tags": [
+    "beginner",
+    "vegan",
+    "probiotic",
+    "kefir",
+    "water-kefir",
+    "coconut",
+    "tropical",
+    "dairy-free",
+    "year-round",
+    "refreshing"
+  ],
+  "dietaryFlags": [
+    "gluten-free",
+    "vegan"
+  ],
+  "veganAdaptable": true,
+  "containsAllergens": [],
+  "sources": [
+    {
+      "title": "Coconut water — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Coconut_water",
+      "license": "CC BY-SA"
+    },
+    {
+      "title": "Tibicos — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tibicos",
+      "license": "CC BY-SA"
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=X9IHkFqnTIQ",
+      "title": "How to Make Coconut Water Kefir",
+      "channel": "Cultures for Health",
+      "type": "youtube"
+    }
+  ],
+  "citations": []
+}

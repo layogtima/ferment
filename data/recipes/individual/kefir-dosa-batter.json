@@ -1,0 +1,332 @@
+{
+  "id": "kefir-dosa-batter",
+  "slug": "kefir-dosa-batter",
+  "name": "Kefir Dosa Batter",
+  "nameLocal": "ಕೆಫಿರ್ ದೋಸೆ ಹಿಟ್ಟು",
+  "nameRomanized": "Kefir Dose Hittu",
+  "subtitle": "Traditional dosa batter supercharged with kefir whey for faster, more reliable fermentation",
+  "category": "grain",
+  "subcategory": "fermented batter",
+  "technique": "mixed-culture",
+  "region": "South Asia",
+  "country": "India",
+  "countryCode": "IN",
+  "culturalGroup": "South Indian",
+  "difficulty": 3,
+  "tier": "ambitious",
+  "tierLabel": "Getting Serious",
+  "prepTime": "30 min (grinding)",
+  "fermentTimeMin": 8,
+  "fermentTimeMax": 12,
+  "fermentTimeUnit": "hours",
+  "totalTimeHuman": "6h (soak) + 30 min (grind) + 8–12h (ferment)",
+  "blrNote": "A modern twist on Bengaluru's most beloved breakfast. Rice + urad dal from any kirana. Use the whey leftover from making kefir labneh or cream cheese. At BLR temps, batter ferments in 8h with kefir whey vs 12–16h without. In cooler months (Dec–Jan), the kefir whey boost is especially helpful.",
+  "seasonality": ["all"],
+  "ingredients": [
+    {
+      "name": "Idli rice",
+      "nameLocal": "Idli Akki",
+      "amount": 2,
+      "unit": "cups",
+      "unitMetric": "400g",
+      "category": "grain",
+      "essential": true,
+      "substitutions": [
+        "Parboiled rice (same thing, different name)",
+        "Regular raw rice (slightly different texture, still works)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana store, supermarket, or provision shop. Specifically labelled 'idli rice' in South India."
+        }
+      }
+    },
+    {
+      "name": "Urad dal (whole or split, skinless)",
+      "nameLocal": "Uddu Bele",
+      "amount": 0.5,
+      "unit": "cup",
+      "unitMetric": "100g",
+      "category": "legume",
+      "essential": true,
+      "substitutions": [
+        "Whole black urad (with skin — slightly different colour but works)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana store or supermarket"
+        }
+      }
+    },
+    {
+      "name": "Fenugreek seeds",
+      "nameLocal": "Menthya",
+      "amount": 1,
+      "unit": "tsp",
+      "unitMetric": "5g",
+      "category": "spice/seed",
+      "essential": false,
+      "substitutions": [
+        "Can be omitted — adds slight bitterness and helps fermentation"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana store or spice shop"
+        }
+      }
+    },
+    {
+      "name": "Kefir whey",
+      "nameLocal": null,
+      "amount": 60,
+      "unit": "ml",
+      "unitMetric": "60ml (1/4 cup)",
+      "category": "culture",
+      "essential": true,
+      "substitutions": [
+        "Finished milk kefir (2 tbsp — slightly different flavour but same effect)",
+        "Leftover dosa batter from previous batch"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "moderate",
+          "where": "Homemade — saved from straining kefir labneh or kefir cream cheese"
+        }
+      }
+    },
+    {
+      "name": "Salt",
+      "nameLocal": "Uppu / Namak",
+      "amount": 1.5,
+      "unit": "tsp",
+      "unitMetric": "9g",
+      "category": "seasoning",
+      "essential": true,
+      "substitutions": [],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana or supermarket"
+        }
+      }
+    },
+    {
+      "name": "Water",
+      "nameLocal": "Neeru",
+      "amount": null,
+      "unit": "as needed",
+      "unitMetric": "as needed",
+      "category": "liquid",
+      "essential": true,
+      "substitutions": [],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Tap — filtered is best for grinding"
+        }
+      }
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Wet grinder or mixer-grinder",
+      "essential": true,
+      "notes": "A traditional wet grinder gives the best texture. A high-powered mixer-grinder (Preethi, Butterfly) works too — grind in batches."
+    },
+    {
+      "name": "Large vessel for fermenting",
+      "essential": true,
+      "notes": "Stainless steel or ceramic. Leave room — the batter doubles in volume during fermentation."
+    },
+    {
+      "name": "Cast iron or non-stick tawa",
+      "essential": true,
+      "notes": "For making the dosas. A well-seasoned cast iron tawa gives the crispiest results."
+    }
+  ],
+  "tldr": "Soak rice and urad dal, grind smooth, add kefir whey + salt, ferment 8–12h. The kefir LAB jumpstart fermentation for faster, more reliable rise. Make crispy dosas.",
+  "steps": [
+    {
+      "step": 1,
+      "title": "Soak rice and dal",
+      "instruction": "Wash and soak idli rice in one bowl and urad dal + fenugreek seeds in another bowl. Cover with plenty of water. Soak for at least 6 hours or overnight.",
+      "duration": "6 hours (soaking)",
+      "tips": [
+        "Separate bowls for rice and dal — they soak at different rates and are ground to different textures.",
+        "Fenugreek seeds soak with the dal — they aid fermentation and add a subtle flavour.",
+        "In BLR's warm climate, 4–5 hours soaking is often sufficient. In cooler months, go the full 6 hours."
+      ],
+      "checkpoint": "Rice and dal are soft enough to crush between your fingers"
+    },
+    {
+      "step": 2,
+      "title": "Grind to smooth batter",
+      "instruction": "Drain the soaked rice and dal. Grind the urad dal first with minimal water until fluffy and smooth (5–8 min in a wet grinder). Then grind the rice to a slightly coarser consistency. Combine both in a large vessel.",
+      "duration": "20–30 min",
+      "tips": [
+        "Grind dal first — it needs to be light and fluffy. Add water sparingly, a tablespoon at a time.",
+        "Rice should be slightly grainy, not as smooth as dal — this gives dosas their signature crispiness.",
+        "The combined batter should be the consistency of thick pancake batter. It will thin slightly during fermentation."
+      ],
+      "checkpoint": "Combined batter is smooth, thick, and well-mixed"
+    },
+    {
+      "step": 3,
+      "title": "Add kefir whey and salt",
+      "instruction": "Add 1/4 cup kefir whey and 1.5 tsp salt to the batter. Mix thoroughly with your hand (the warmth of your hand helps activate fermentation). The kefir whey introduces lactic acid bacteria that jumpstart the fermentation process.",
+      "duration": "3 min",
+      "tips": [
+        "Kefir whey is the clear liquid you get from straining kefir labneh or cream cheese — don't discard it.",
+        "Mixing with your hand is traditional and practical — the natural bacteria on your skin also contribute to fermentation.",
+        "Don't skip the salt — it regulates fermentation speed and enhances flavour."
+      ],
+      "checkpoint": "Kefir whey and salt are evenly incorporated into the batter"
+    },
+    {
+      "step": 4,
+      "title": "Ferment the batter",
+      "instruction": "Cover the vessel loosely and leave in a warm spot for 8–12 hours. The batter should double in volume and develop a pleasantly sour aroma. At BLR temperatures, 8 hours is usually sufficient with kefir whey — check early.",
+      "duration": "8–12 hours",
+      "tips": [
+        "The kefir LAB significantly speed up fermentation — expect the batter to be ready 4–6 hours earlier than traditional wild-fermented batter.",
+        "Use a vessel at least twice the volume of your batter — it expands significantly.",
+        "Don't stir or disturb the batter while it's fermenting. The air bubbles trapped inside are what make dosas crispy."
+      ],
+      "checkpoint": "Batter has doubled in volume, surface has small bubbles, smells pleasantly sour"
+    },
+    {
+      "step": 5,
+      "title": "Make dosas",
+      "instruction": "Heat a cast iron or non-stick tawa on medium-high heat. Sprinkle a few drops of water — they should sizzle immediately. Pour a ladleful of batter in the centre and spread in a circular motion from inside out. Drizzle oil around the edges. Cook until the bottom is golden and crispy, then fold or serve flat.",
+      "duration": "2–3 min per dosa",
+      "tips": [
+        "The first dosa is always a sacrifice to the tawa gods — it seasons the pan. Don't be discouraged.",
+        "For crispy dosas, use a well-seasoned cast iron tawa and spread the batter thin.",
+        "Fermented batter keeps in the fridge for 3–4 days. It gets more sour each day — great for tangier dosas."
+      ],
+      "checkpoint": "Golden, crispy dosa with lacy edges — tangy aroma from the kefir-fermented batter"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Dose_or_Dosa_on_a_plate.jpg/1280px-Dose_or_Dosa_on_a_plate.jpg",
+      "caption": "Crispy dosa — Bengaluru's most beloved breakfast",
+      "attribution": "Miansari66, Public domain, via Wikimedia Commons",
+      "type": "hero",
+      "alt": "Golden crispy dosa served on a plate"
+    }
+  ],
+  "culturalContext": {
+    "story": "Dosa is the beating heart of South Indian breakfast culture, and Bengaluru is its undisputed capital. The traditional method relies on wild fermentation — ambient bacteria and yeasts in the air, on your hands, and in the grinding stone do the work. Adding kefir whey is a modern shortcut that introduces a concentrated dose of lactic acid bacteria, making fermentation faster and more predictable, especially in cooler weather.",
+    "historicalNote": "Dosa has been documented in South Indian literature since at least the 1st century CE. The Sangam-era Tamil text Perumpanuru mentions a dish called 'dosai.' The fermentation technique — soaking, grinding, and fermenting rice and lentil batter — is one of the oldest known uses of lacto-fermentation in grain preparation.",
+    "significance": "This recipe represents a bridge between ancient South Indian fermentation wisdom and modern probiotic science. Kefir whey provides the same Lactobacillus species that would naturally colonise the batter, but in higher concentration — a scientific boost to a 2000-year-old technique.",
+    "relatedTraditions": [
+      "Idli (steamed fermented rice-lentil cake, South India)",
+      "Appam (fermented rice batter pancake, Kerala)",
+      "Injera (fermented teff flatbread, Ethiopia)",
+      "Sourdough (fermented wheat bread, Europe)"
+    ],
+    "funFact": "Bengaluru's dosa batter ferments faster than in most other Indian cities because of the city's unique altitude (920m), warm temperatures, and high humidity — the perfect conditions for lactic acid bacteria. Adding kefir whey makes it almost foolproof."
+  },
+  "thingsToAccountFor": [
+    {
+      "title": "Kefir whey accelerates fermentation significantly",
+      "description": "With kefir whey, batter ferments in 8 hours at BLR temps vs 12–16 hours without. Check early to avoid over-fermentation, which makes the batter too sour and the dosas taste vinegary.",
+      "severity": "important",
+      "appliesTo": ["blr"]
+    },
+    {
+      "title": "Grinding consistency matters",
+      "description": "Urad dal must be ground fluffy and smooth — this creates the airiness. Rice should be slightly coarser — this creates the crispiness. Don't over-grind rice into a paste.",
+      "severity": "important",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Batter expands — use a large vessel",
+      "description": "The batter will double in volume during fermentation. Use a vessel at least twice as large as your batter volume, or you'll wake up to batter overflowing onto your kitchen counter.",
+      "severity": "warning",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "First dosa is always rough",
+      "description": "The first dosa from any batch seasons the tawa and absorbs excess oil. It rarely looks perfect. This is normal — the second dosa onwards will be beautiful.",
+      "severity": "info",
+      "appliesTo": ["all"]
+    }
+  ],
+  "dehydratorIntegration": {
+    "applicable": false,
+    "method": "Not applicable — dosa batter is best used fresh or refrigerated. Dehydrating would destroy the active fermentation.",
+    "result": "N/A",
+    "shelfLife": "N/A",
+    "tips": [
+      "Refrigerate unused batter for up to 3–4 days — it gets tangier each day",
+      "Freeze batter in portions for up to 1 month — thaw overnight in the fridge before use"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Ragi Kefir Dosa",
+      "description": "Replace 1/4 of the idli rice with ragi (finger millet) flour. Add after grinding. The kefir whey helps ferment the denser ragi batter. Earthy, nutty, and extra nutritious.",
+      "region": "Karnataka / South India"
+    },
+    {
+      "name": "Masala Kefir Dosa",
+      "description": "Fill the crispy kefir dosa with spiced potato masala (boiled potatoes tempered with mustard seeds, curry leaves, turmeric, and green chillies). The classic Bengaluru masala dosa, made with kefir-boosted batter.",
+      "region": "Karnataka / South India"
+    },
+    {
+      "name": "Kefir Uttapam",
+      "description": "Use the same kefir-fermented batter but make it thicker. Pour on tawa without spreading, top with diced onions, tomatoes, green chillies, and coriander. Cook like a thick pancake.",
+      "region": "South India"
+    }
+  ],
+  "relatedRecipes": [
+    "milk-kefir-basic",
+    "kefir-labneh",
+    "rejuvelac-grain"
+  ],
+  "tags": [
+    "ambitious",
+    "probiotic",
+    "kefir",
+    "grain",
+    "dosa",
+    "south-indian",
+    "breakfast",
+    "mixed-culture",
+    "year-round"
+  ],
+  "dietaryFlags": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "veganAdaptable": true,
+  "containsAllergens": [
+    "dairy"
+  ],
+  "sources": [
+    {
+      "title": "Dosa — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dosa",
+      "license": "CC BY-SA"
+    },
+    {
+      "title": "Kefir — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kefir",
+      "license": "CC BY-SA"
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=JeVg_7ZpKoE",
+      "title": "Crispy Dosa Recipe — Dosa Batter in Mixie",
+      "channel": "Hebbar's Kitchen",
+      "type": "youtube"
+    }
+  ],
+  "citations": []
+}

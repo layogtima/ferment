@@ -1,0 +1,288 @@
+{
+  "id": "kefir-cream-cheese",
+  "slug": "kefir-cream-cheese",
+  "name": "Kefir Cream Cheese",
+  "nameLocal": null,
+  "nameRomanized": "Kefir Cream Cheese",
+  "subtitle": "Dense, tangy, spreadable cream cheese from extra-strained milk kefir",
+  "category": "dairy",
+  "subcategory": "strained cultured dairy",
+  "technique": "culture",
+  "region": "Eastern Europe",
+  "country": null,
+  "countryCode": null,
+  "culturalGroup": "Eastern European",
+  "difficulty": 2,
+  "tier": "seasoned",
+  "tierLabel": "Building Confidence",
+  "prepTime": "10 min",
+  "fermentTimeMin": 24,
+  "fermentTimeMax": 48,
+  "fermentTimeUnit": "hours",
+  "totalTimeHuman": "24h (kefir) + 24–48h (strain)",
+  "blrNote": "This is essentially a longer version of kefir labneh. Strain for 24–48h in the fridge for the thickest result. Perfect on toast, stuffed in parathas, or as a dip base. Use Nandini or Heritage full-fat milk for the richest kefir base.",
+  "seasonality": ["all"],
+  "ingredients": [
+    {
+      "name": "Finished thick milk kefir",
+      "nameLocal": null,
+      "amount": 1,
+      "unit": "litre",
+      "unitMetric": "1L",
+      "category": "cultured dairy",
+      "essential": true,
+      "substitutions": [
+        "Double-fermented kefir (strain grains, then leave kefir at room temp another 12h for extra thickness)",
+        "Thick dahi / yogurt (less probiotic diversity)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "moderate",
+          "where": "Homemade from milk kefir grains — see milk-kefir-basic recipe"
+        }
+      }
+    },
+    {
+      "name": "Salt",
+      "nameLocal": "Uppu / Namak",
+      "amount": 1,
+      "unit": "tsp",
+      "unitMetric": "6g",
+      "category": "seasoning",
+      "essential": true,
+      "substitutions": [
+        "Sea salt",
+        "Pink Himalayan salt"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana or supermarket"
+        }
+      }
+    },
+    {
+      "name": "Garlic + herbs (optional)",
+      "nameLocal": null,
+      "amount": 2,
+      "unit": "cloves + 1 tbsp herbs",
+      "unitMetric": "10g garlic + 5g herbs",
+      "category": "flavouring",
+      "essential": false,
+      "substitutions": [
+        "Dried herb blend (Italian seasoning, herbes de Provence)",
+        "Chives and black pepper",
+        "Everything bagel seasoning"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Garlic from any vegetable vendor, herbs from supermarkets or grown at home"
+        }
+      }
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Double-layer muslin cloth or cheesecloth",
+      "essential": true,
+      "notes": "Double layer is important — single layer lets too much solid through for cream cheese consistency."
+    },
+    {
+      "name": "Large strainer or colander",
+      "essential": true,
+      "notes": "To hold the muslin over a bowl for extended draining."
+    },
+    {
+      "name": "Large bowl",
+      "essential": true,
+      "notes": "To catch the whey. You'll get a lot of whey from 1L of kefir — use a big bowl."
+    },
+    {
+      "name": "String or rubber band",
+      "essential": false,
+      "notes": "For tying the muslin bundle if hanging."
+    }
+  ],
+  "tldr": "Make thick kefir, salt it, strain through muslin for 24–48 hours in the fridge. The result: dense, tangy cream cheese loaded with probiotics. Season with herbs or keep plain.",
+  "steps": [
+    {
+      "step": 1,
+      "title": "Make thick kefir",
+      "instruction": "Start with a full 24-hour kefir ferment, or do a double ferment: make regular kefir, strain out the grains, then leave the kefir at room temperature for another 12 hours. You want the thickest, tangiest kefir possible — this is your cream cheese base.",
+      "duration": "24–36 hours (pre-step)",
+      "tips": [
+        "The thicker and tangier the starting kefir, the better the cream cheese. Don't use thin, mild kefir.",
+        "A double ferment (without grains for the second stage) gives maximum thickness and tang.",
+        "If your kefir has separated into curds and whey, that's actually ideal for cream cheese — it's already partway there."
+      ],
+      "checkpoint": "Kefir is very thick, tangy, and well-fermented"
+    },
+    {
+      "step": 2,
+      "title": "Salt the kefir",
+      "instruction": "Stir 1 teaspoon of salt thoroughly into the thick kefir. The salt draws out additional moisture during straining and seasons the final cream cheese. If adding garlic or herbs, mince and fold them in now.",
+      "duration": "3 min",
+      "tips": [
+        "Salt at this stage, not after straining — it distributes more evenly and aids moisture extraction.",
+        "If adding garlic, use freshly minced — pre-minced jarred garlic has a harsh flavour.",
+        "For a plain cream cheese, just salt. You can always season individual portions later."
+      ],
+      "checkpoint": "Salt (and optional flavourings) evenly mixed into the kefir"
+    },
+    {
+      "step": 3,
+      "title": "Line strainer with double muslin",
+      "instruction": "Place a strainer or colander over a large, deep bowl. Line with a double layer of muslin cloth, leaving generous overhang on all sides. The double layer is important — single muslin lets too much solid pass through for a cream-cheese consistency.",
+      "duration": "2 min",
+      "tips": [
+        "Dampen the muslin first — it clings to the strainer better and doesn't absorb your kefir.",
+        "Make sure the bowl is deep enough that the strainer sits well above the bottom — you'll collect 400–500ml of whey from 1L of kefir.",
+        "A nut milk bag also works well as an alternative to muslin."
+      ],
+      "checkpoint": "Double-muslin-lined strainer positioned over a deep bowl"
+    },
+    {
+      "step": 4,
+      "title": "Pour, tie, and strain in the fridge",
+      "instruction": "Pour the salted kefir into the muslin-lined strainer. Gather the corners of the muslin and tie with string. Place the entire setup in the fridge. Strain for 24–48 hours. At 24 hours you get a soft cream cheese; at 48 hours it's firm and dense.",
+      "duration": "24–48 hours",
+      "tips": [
+        "Must be in the fridge — room temperature straining for this long will over-sour the cream cheese, especially in BLR's warmth.",
+        "Check and empty the whey bowl at 12 and 24 hours — it fills up fast.",
+        "Save every drop of whey — it's probiotic-rich. Use in dosa batter, bread dough, smoothies, or as a plant fertiliser."
+      ],
+      "checkpoint": "After 24–48h: thick, dense mass in the muslin; large volume of whey in the bowl"
+    },
+    {
+      "step": 5,
+      "title": "Gather, season, and shape",
+      "instruction": "Unwrap the muslin. Transfer the cream cheese to a bowl. Taste and adjust salt. If desired, fold in additional herbs, spices, or garlic. Shape into a log, pack into a container, or serve as-is. Refrigerate.",
+      "duration": "5 min",
+      "tips": [
+        "Kefir cream cheese keeps in the fridge for 7–10 days in an airtight container.",
+        "For a smoother texture, beat with a fork or whisk for a minute — it becomes lighter and more spreadable.",
+        "Try it stuffed into a paratha: spread a layer on rolled-out dough, fold, roll again, and cook. Incredible."
+      ],
+      "checkpoint": "Dense, smooth, tangy cream cheese — spreadable and ready to eat"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Cream_cheese_on_bread.jpg/1280px-Cream_cheese_on_bread.jpg",
+      "caption": "Cream cheese spread — dense, tangy, and probiotic-rich",
+      "attribution": "Daderot, Public domain, via Wikimedia Commons",
+      "type": "hero",
+      "alt": "Thick white cream cheese spread on a slice of bread"
+    }
+  ],
+  "culturalContext": {
+    "story": "Cream cheese as we know it was first commercially produced in the US in 1872, but the concept of straining fermented milk into a thick, spreadable cheese is ancient. Eastern European and Central Asian cultures have been making tvorog and similar fresh cheeses from fermented milk for centuries. Kefir cream cheese returns to those roots — using a living kefir culture instead of industrial rennet or acid.",
+    "historicalNote": "In Eastern Europe, 'tvorog' (farmer's cheese) has been made by straining fermented milk for thousands of years. The technique is nearly identical to kefir cream cheese — ferment milk, strain the whey, and you have a fresh, tangy cheese. Kefir adds a more complex microbial profile than simple clabbered milk.",
+    "significance": "Kefir cream cheese is a gateway into the world of fresh cheesemaking. It requires no rennet, no special equipment, and no complex technique — just patience and good muslin cloth. The probiotic content far exceeds commercial cream cheese, making it both a culinary and a health achievement.",
+    "relatedTraditions": [
+      "Tvorog / Quark (Eastern Europe — fresh strained cheese)",
+      "Labneh (Middle East — strained yogurt)",
+      "Chakka / Hung Curd (India — strained dahi)",
+      "Paneer (India — acid-set fresh cheese, not fermented)"
+    ],
+    "funFact": "Commercial cream cheese is made with rennet or acid to coagulate the milk, then stabilisers and gums are added for texture. Kefir cream cheese achieves the same consistency through natural fermentation and gravity alone — no additives needed."
+  },
+  "thingsToAccountFor": [
+    {
+      "title": "Extended straining must be done in the fridge",
+      "description": "24–48 hours of straining at room temperature (especially at BLR temps) will produce an overly sour, unpleasant cream cheese. Always strain in the fridge.",
+      "severity": "important",
+      "appliesTo": ["blr"]
+    },
+    {
+      "title": "Start with the thickest kefir possible",
+      "description": "Thin kefir yields thin cream cheese. Use a 24-hour ferment or double ferment. The starting kefir should be the consistency of thick yogurt or thicker.",
+      "severity": "important",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Double-layer muslin is essential",
+      "description": "Single-layer muslin lets too many solids pass through, resulting in a grainy whey and a reduced yield. Always use double-layer for cream cheese.",
+      "severity": "warning",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Save the whey",
+      "description": "You'll get 400–500ml of probiotic whey from 1L of kefir. This is liquid gold — use it in dosa batter, bread dough, smoothies, soup stock, or as a plant fertiliser. Don't pour it down the drain.",
+      "severity": "info",
+      "appliesTo": ["all"]
+    }
+  ],
+  "dehydratorIntegration": {
+    "applicable": true,
+    "method": "Spread thin layer of kefir cream cheese on parchment paper. Dehydrate at 42–45°C for 14–18 hours until completely dry and crackly.",
+    "result": "Tangy cream cheese crisps or powder. Grind into powder for a probiotic seasoning, or break into chips for snacking.",
+    "shelfLife": "2–3 months in airtight container",
+    "tips": [
+      "Season with herbs, garlic powder, or everything bagel seasoning before dehydrating for flavoured crisps",
+      "The powder makes an excellent base for instant dips — reconstitute with a little sour cream or olive oil"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Garlic-Herb Cream Cheese",
+      "description": "Fold in 2 cloves minced garlic, fresh dill, and chives after straining. Classic combination — perfect on bagels, toast, or crackers.",
+      "region": "European / Global"
+    },
+    {
+      "name": "Everything Bagel Cream Cheese",
+      "description": "Mix in a tablespoon of everything bagel seasoning (sesame, poppy seeds, dried garlic, dried onion, salt). An American deli classic with a probiotic upgrade.",
+      "region": "North America"
+    },
+    {
+      "name": "Black Pepper + Truffle Cream Cheese",
+      "description": "Add freshly cracked black pepper and a few drops of truffle oil. Luxurious and earthy — serve on crostini or with roasted vegetables.",
+      "region": "European / Modern"
+    }
+  ],
+  "relatedRecipes": [
+    "milk-kefir-basic",
+    "kefir-labneh",
+    "kefir-butter"
+  ],
+  "tags": [
+    "seasoned",
+    "probiotic",
+    "kefir",
+    "dairy",
+    "cheese",
+    "strained",
+    "spread",
+    "year-round"
+  ],
+  "dietaryFlags": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "veganAdaptable": false,
+  "containsAllergens": [
+    "dairy"
+  ],
+  "sources": [
+    {
+      "title": "Cream Cheese — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cream_cheese",
+      "license": "CC BY-SA"
+    },
+    {
+      "title": "Kefir — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kefir",
+      "license": "CC BY-SA"
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=HTYIO0cjEnI",
+      "title": "How to Make Kefir Cheese",
+      "channel": "Cultures for Health",
+      "type": "youtube"
+    }
+  ],
+  "citations": []
+}

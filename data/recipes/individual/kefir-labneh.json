@@ -1,0 +1,281 @@
+{
+  "id": "kefir-labneh",
+  "slug": "kefir-labneh",
+  "name": "Kefir Labneh",
+  "nameLocal": null,
+  "nameRomanized": "Kefir Labneh",
+  "subtitle": "Thick, spreadable strained kefir — more probiotic than traditional labneh",
+  "category": "dairy",
+  "subcategory": "strained cultured dairy",
+  "technique": "culture",
+  "region": "Middle East / Levant",
+  "country": "Lebanon",
+  "countryCode": "LB",
+  "culturalGroup": "Levantine",
+  "difficulty": 2,
+  "tier": "seasoned",
+  "tierLabel": "Building Confidence",
+  "prepTime": "10 min",
+  "fermentTimeMin": 12,
+  "fermentTimeMax": 24,
+  "fermentTimeUnit": "hours",
+  "totalTimeHuman": "24h (kefir) + 12–24h (strain)",
+  "blrNote": "Similar to chakka/hung curd concept familiar to Indian kitchens. Muslin cloth from any local cloth shop. Pairs with roti, crackers, or use as a dip with olive oil + zaatar. At BLR temps, strain in the fridge to prevent over-souring.",
+  "seasonality": ["all"],
+  "ingredients": [
+    {
+      "name": "Finished milk kefir",
+      "nameLocal": null,
+      "amount": 500,
+      "unit": "ml",
+      "unitMetric": "500ml",
+      "category": "cultured dairy",
+      "essential": true,
+      "substitutions": [
+        "Thick yogurt or dahi (less probiotic diversity but works for texture)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "moderate",
+          "where": "Homemade from milk kefir grains — see milk-kefir-basic recipe"
+        }
+      }
+    },
+    {
+      "name": "Salt",
+      "nameLocal": "Uppu / Namak",
+      "amount": 0.5,
+      "unit": "tsp",
+      "unitMetric": "3g",
+      "category": "seasoning",
+      "essential": true,
+      "substitutions": [
+        "Pink Himalayan salt",
+        "Sea salt"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana or supermarket"
+        }
+      }
+    },
+    {
+      "name": "Fresh herbs (optional)",
+      "nameLocal": null,
+      "amount": 1,
+      "unit": "tbsp",
+      "unitMetric": "5g",
+      "category": "flavouring",
+      "essential": false,
+      "substitutions": [
+        "Dried herbs (dill, oregano, thyme)",
+        "Zaatar spice blend",
+        "Chaat masala"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Fresh herbs from any vegetable vendor, dried herbs from supermarkets"
+        }
+      }
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Muslin cloth or cheesecloth",
+      "essential": true,
+      "notes": "Double layer for finer straining. Available at any local cloth shop."
+    },
+    {
+      "name": "Large strainer or colander",
+      "essential": true,
+      "notes": "To hold the muslin cloth over a bowl for draining."
+    },
+    {
+      "name": "Large bowl",
+      "essential": true,
+      "notes": "To catch the whey that drains out. Save the whey — it's full of probiotics."
+    },
+    {
+      "name": "String or rubber band",
+      "essential": false,
+      "notes": "For tying the muslin into a bundle for hanging."
+    }
+  ],
+  "tldr": "Strain finished milk kefir through muslin cloth for 12–24 hours in the fridge. The result: thick, tangy, spreadable labneh packed with more probiotics than yogurt-based versions.",
+  "steps": [
+    {
+      "step": 1,
+      "title": "Make thick milk kefir",
+      "instruction": "Start with well-fermented, thick milk kefir. A 24-hour ferment or a double ferment (strain, then leave kefir without grains at room temperature for another 6–12 hours) gives the best base for labneh.",
+      "duration": "24 hours (pre-step)",
+      "tips": [
+        "Thicker kefir = better labneh. Don't use thin, under-fermented kefir.",
+        "A slightly over-fermented kefir (separated into curds and whey) actually works great — more tang.",
+        "You can also use kefir that's been in the fridge for a few days and gotten tangier."
+      ],
+      "checkpoint": "Kefir is thick, tangy, and well-fermented"
+    },
+    {
+      "step": 2,
+      "title": "Salt and prepare for straining",
+      "instruction": "Stir 1/2 teaspoon of salt into the finished kefir. Line a strainer or colander with a double layer of muslin cloth, leaving enough overhang to tie the cloth into a bundle.",
+      "duration": "3 min",
+      "tips": [
+        "Salt now rather than later — it draws out moisture and improves the final texture.",
+        "Dampen the muslin cloth before lining — it conforms to the strainer better.",
+        "Place the strainer over a deep bowl to catch all the whey."
+      ],
+      "checkpoint": "Salted kefir ready, muslin-lined strainer set over a bowl"
+    },
+    {
+      "step": 3,
+      "title": "Pour kefir and tie",
+      "instruction": "Pour the salted kefir into the muslin-lined strainer. Gather the corners of the muslin cloth and tie them together with string. You can either leave it in the strainer or hang the bundle from a kitchen cabinet handle over the bowl.",
+      "duration": "2 min",
+      "tips": [
+        "Hanging allows gravity to do the work more efficiently than just sitting in a strainer.",
+        "If hanging, make sure the bundle doesn't touch the whey collecting below.",
+        "A chopstick or wooden spoon laid across a deep pot works as a hanging bar."
+      ],
+      "checkpoint": "Kefir bundle is tied and positioned for draining"
+    },
+    {
+      "step": 4,
+      "title": "Strain in the fridge",
+      "instruction": "Place the entire setup (strainer over bowl, or hanging bundle over bowl) in the fridge. Strain for 12–24 hours. The longer you strain, the thicker the labneh. At 12 hours you get a spreadable consistency; at 24 hours it's dense and scoopable.",
+      "duration": "12–24 hours",
+      "tips": [
+        "Straining in the fridge prevents over-souring — important in BLR's warm climate.",
+        "Check at 12 hours — if it's the consistency you want, you can stop.",
+        "Save the whey! It's probiotic-rich. Use it in smoothies, chapati dough, or as a kefir dosa batter starter."
+      ],
+      "checkpoint": "Whey has drained, labneh is thick and holds its shape"
+    },
+    {
+      "step": 5,
+      "title": "Shape and serve",
+      "instruction": "Unwrap the muslin and transfer the labneh to a serving dish or storage container. Drizzle with olive oil and sprinkle with zaatar, herbs, or spices. Serve with flatbread, crackers, or vegetables.",
+      "duration": "3 min",
+      "tips": [
+        "Kefir labneh keeps in the fridge for up to 1 week in an airtight container.",
+        "For a classic Levantine presentation: spread on a plate, make a swirl with a spoon, pool olive oil in the centre, scatter zaatar.",
+        "Try it Indian-style: spread on hot roti with a sprinkle of chaat masala and a squeeze of lime."
+      ],
+      "checkpoint": "Smooth, thick labneh — tangy, creamy, ready to eat"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Labneh_%28Lebanese_yogurt%29.jpg/1280px-Labneh_%28Lebanese_yogurt%29.jpg",
+      "caption": "Labneh — thick, strained cultured dairy spread",
+      "attribution": "Radventures, CC BY 2.0, via Wikimedia Commons",
+      "type": "hero",
+      "alt": "Thick white labneh spread on a plate drizzled with olive oil"
+    }
+  ],
+  "culturalContext": {
+    "story": "Labneh is a staple of Levantine cuisine — a thick, tangy strained yogurt that appears on breakfast tables across Lebanon, Syria, Jordan, and Palestine. By using kefir instead of yogurt as the base, you get the same luxurious texture with a far more diverse probiotic profile — 50+ strains versus yogurt's handful.",
+    "historicalNote": "The word 'labneh' comes from the Arabic root 'laban' meaning milk or white. Straining yogurt has been practised in the Middle East for thousands of years as a preservation method — removing whey concentrates the solids and extends shelf life significantly.",
+    "significance": "Kefir labneh is a modern fermentation crossover — Caucasian kefir tradition meets Levantine straining technique. The concept is identical to Indian chakka (hung curd), showing how similar preservation methods evolved independently across dairy cultures worldwide.",
+    "relatedTraditions": [
+      "Chakka / Hung Curd (India)",
+      "Labneh (Lebanon, Syria, Jordan)",
+      "Greek Yogurt (Greece)",
+      "Skyr (Iceland)"
+    ],
+    "funFact": "In Lebanon, labneh balls preserved in olive oil (labneh ambaris) can last for months in the pantry. The same technique works with kefir labneh — roll into small balls, place in a jar, and cover with good olive oil."
+  },
+  "thingsToAccountFor": [
+    {
+      "title": "Strain in the fridge, not at room temperature",
+      "description": "At BLR temps, straining at room temperature will continue fermenting the labneh, making it overly sour. Always strain in the fridge for a balanced, creamy result.",
+      "severity": "important",
+      "appliesTo": ["blr"]
+    },
+    {
+      "title": "Save the whey",
+      "description": "The whey that drains out is liquid gold — packed with probiotics, protein, and minerals. Use it in smoothies, bread dough, dosa batter, or as a kefir starter for grains or vegetables.",
+      "severity": "info",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Muslin cloth quality matters",
+      "description": "Use a tight-weave muslin — loose weave lets too much solid through and you lose labneh into the whey. Double up the cloth if needed. Available cheaply at any cloth shop in Bengaluru.",
+      "severity": "warning",
+      "appliesTo": ["all"]
+    }
+  ],
+  "dehydratorIntegration": {
+    "applicable": true,
+    "method": "Spread thin layer of kefir labneh on parchment paper. Dehydrate at 42–45°C for 12–16 hours until fully dry.",
+    "result": "Tangy labneh crackers or powder. Grind into a probiotic seasoning powder for salads and dips.",
+    "shelfLife": "2–3 months in airtight container",
+    "tips": [
+      "Season with herbs and salt before dehydrating for flavoured labneh chips",
+      "Crumble dehydrated labneh over salads as a tangy, cheesy topping"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Herbed Labneh",
+      "description": "Fold in finely chopped fresh dill, minced garlic, and a drizzle of olive oil after straining. Classic Levantine herb labneh — perfect with warm pita.",
+      "region": "Lebanon / Levant"
+    },
+    {
+      "name": "Spiced Labneh",
+      "description": "Mix in chaat masala, roasted cumin powder, and a pinch of chilli flakes. An Indian twist that pairs beautifully with parathas or as a dip.",
+      "region": "India / Fusion"
+    },
+    {
+      "name": "Labneh Balls in Olive Oil",
+      "description": "Roll firm labneh into walnut-sized balls. Place in a glass jar and cover with extra-virgin olive oil. Add dried herbs, chilli flakes, or garlic cloves. Keeps for weeks in the fridge.",
+      "region": "Lebanon / Levant"
+    }
+  ],
+  "relatedRecipes": [
+    "milk-kefir-basic",
+    "kefir-cream-cheese",
+    "dahi-homemade"
+  ],
+  "tags": [
+    "seasoned",
+    "probiotic",
+    "kefir",
+    "dairy",
+    "strained",
+    "spread",
+    "levantine",
+    "year-round"
+  ],
+  "dietaryFlags": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "veganAdaptable": false,
+  "containsAllergens": [
+    "dairy"
+  ],
+  "sources": [
+    {
+      "title": "Labneh — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Labneh",
+      "license": "CC BY-SA"
+    },
+    {
+      "title": "Kefir — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kefir",
+      "license": "CC BY-SA"
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=FLd04qYVsQ4",
+      "title": "How to Make Labneh at Home",
+      "channel": "Middle Eats",
+      "type": "youtube"
+    }
+  ],
+  "citations": []
+}

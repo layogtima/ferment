@@ -1,0 +1,247 @@
+{
+  "id": "coconut-milk-kefir",
+  "slug": "coconut-milk-kefir",
+  "name": "Coconut Milk Kefir",
+  "nameLocal": null,
+  "nameRomanized": "Coconut Milk Kefir",
+  "subtitle": "Tropical probiotic kefir — dairy-free, creamy, and tangy",
+  "category": "dairy",
+  "subcategory": "cultured milk",
+  "technique": "culture",
+  "region": "Southeast Asia / Global",
+  "country": null,
+  "countryCode": null,
+  "culturalGroup": "Global vegan",
+  "difficulty": 2,
+  "tier": "seasoned",
+  "tierLabel": "Building Confidence",
+  "prepTime": "5 min",
+  "fermentTimeMin": 12,
+  "fermentTimeMax": 24,
+  "fermentTimeUnit": "hours",
+  "totalTimeHuman": "12–24 hours",
+  "blrNote": "Fresh coconut milk from KR Market is best. Canned (like Maggi or local brands) works too. At BLR temps, check at 12h — coconut milk ferments faster than dairy. The grains won't grow in coconut milk, so alternate with a dairy batch every 3–4 cycles to keep them healthy.",
+  "seasonality": ["all"],
+  "ingredients": [
+    {
+      "name": "Full-fat coconut milk",
+      "nameLocal": "Tengina Haalu",
+      "amount": 400,
+      "unit": "ml",
+      "unitMetric": "400ml",
+      "category": "non-dairy milk",
+      "essential": true,
+      "substitutions": [
+        "Fresh coconut milk (extracted at home — richer and preservative-free)",
+        "Canned coconut milk (Maggi, KLF Coconad, or similar — avoid 'lite' versions)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Fresh from KR Market coconut vendors, canned from any supermarket or BigBasket"
+        }
+      }
+    },
+    {
+      "name": "Milk kefir grains",
+      "nameLocal": null,
+      "amount": 1,
+      "unit": "tbsp",
+      "unitMetric": "10–15g",
+      "category": "culture",
+      "essential": true,
+      "substitutions": [
+        "Kefir starter powder (single-use, won't propagate)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "moderate",
+          "where": "Online fermentation communities, Instagram sellers, Facebook kefir groups in Bengaluru"
+        }
+      }
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Glass jar (500ml)",
+      "essential": true,
+      "notes": "Wide-mouth preferred. Avoid metal — kefir grains are sensitive to reactive metals."
+    },
+    {
+      "name": "Plastic or nylon mesh strainer",
+      "essential": true,
+      "notes": "Fine mesh to catch the grains. No metal strainers."
+    },
+    {
+      "name": "Cloth or paper towel + rubber band",
+      "essential": true,
+      "notes": "For covering the jar during fermentation."
+    },
+    {
+      "name": "Wooden or plastic spoon",
+      "essential": false,
+      "notes": "For stirring. Avoid metal contact with grains."
+    }
+  ],
+  "tldr": "Drop kefir grains into full-fat coconut milk, ferment 12–24h, strain. Dairy-free probiotic drink. Alternate with dairy milk every 3–4 batches to keep grains alive.",
+  "steps": [
+    {
+      "step": 1,
+      "title": "Add grains to coconut milk",
+      "instruction": "Place 1 tablespoon of milk kefir grains into a clean glass jar. Pour in 400ml of full-fat coconut milk (canned or fresh). Stir gently with a plastic or wooden spoon to distribute the grains.",
+      "duration": "2 min",
+      "tips": [
+        "Shake the coconut milk can well before opening — you want the fat fully mixed in, not separated.",
+        "If using fresh coconut milk, use it immediately after extracting for the best flavour and fat content.",
+        "The grains should have been in dairy milk recently (within the last 3–4 batches) for best results."
+      ],
+      "checkpoint": "Grains are submerged in coconut milk in a clean jar"
+    },
+    {
+      "step": 2,
+      "title": "Cover and ferment",
+      "instruction": "Cover the jar with a breathable cloth secured with a rubber band. Place in a spot away from direct sunlight. Ferment for 12–24 hours. Coconut milk ferments faster than dairy — start checking at 12 hours.",
+      "duration": "12–24 hours",
+      "tips": [
+        "At BLR temps (25–28°C), coconut milk often ferments in 12–16 hours — faster than dairy milk.",
+        "The finished kefir will be thicker than the starting coconut milk and slightly fizzy with a tangy, coconutty aroma.",
+        "If it separates into a thick layer and clear liquid, it's slightly over-fermented — still fine, just stir it together."
+      ],
+      "checkpoint": "Coconut milk has thickened, smells pleasantly tangy with a hint of coconut"
+    },
+    {
+      "step": 3,
+      "title": "Strain the grains",
+      "instruction": "Pour the fermented coconut kefir through a plastic or nylon strainer into a clean bowl. Gently stir to help the thick kefir pass through. Collect the grains from the strainer.",
+      "duration": "3 min",
+      "tips": [
+        "Coconut kefir is thicker than dairy kefir — be patient while straining.",
+        "Don't press the grains hard. Gentle agitation is enough.",
+        "The grains may look slightly different after coconut milk (less plump) — this is normal."
+      ],
+      "checkpoint": "Smooth coconut kefir in the bowl, grains recovered in the strainer"
+    },
+    {
+      "step": 4,
+      "title": "Restart and alternate with dairy",
+      "instruction": "Place the grains into fresh milk for the next batch. If you've done 3–4 consecutive coconut batches, do a dairy milk batch to restore the grains' health. Store finished coconut kefir in the fridge — it thickens further when cold.",
+      "duration": "2 min",
+      "tips": [
+        "Kefir grains cannot survive on coconut milk indefinitely — they need dairy lactose to thrive and grow.",
+        "A single dairy batch every 3–4 coconut batches keeps grains healthy for months.",
+        "Finished coconut kefir keeps in the fridge for 5–7 days. The tanginess increases over time."
+      ],
+      "checkpoint": "Grains placed in next batch of milk, finished coconut kefir refrigerated or served"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Coconut_milk.jpg/1280px-Coconut_milk.jpg",
+      "caption": "Coconut milk — the base for dairy-free kefir",
+      "attribution": "Phu Thinh Co, CC BY-SA 2.0, via Wikimedia Commons",
+      "type": "hero",
+      "alt": "Fresh coconut milk in a glass, white and creamy"
+    }
+  ],
+  "culturalContext": {
+    "story": "Coconut milk kefir represents the beautiful fusion of Caucasian fermentation tradition with tropical Southeast Asian ingredients. As plant-based eating gained momentum worldwide, fermenters discovered that milk kefir grains — originally evolved to feed on animal milk — could also ferment coconut milk, producing a tangy, probiotic-rich drink without dairy.",
+    "historicalNote": "Traditional kefir was always dairy-based, originating in the Caucasus Mountains. Coconut milk kefir is a modern adaptation, emerging in the 2000s as part of the global vegan and health food movements. It's particularly popular in Southeast Asia, where coconut is abundant and dairy is less common.",
+    "significance": "Coconut milk kefir bridges two worlds — the ancient probiotic tradition of kefir and the tropical abundance of coconut. It makes the powerful probiotic benefits of kefir accessible to those who are lactose intolerant or choose plant-based diets.",
+    "relatedTraditions": [
+      "Milk Kefir (Caucasus)",
+      "Coconut Yogurt (Southeast Asia)",
+      "Toddy / Kallu (fermented coconut sap, South India)",
+      "Water Kefir (Global)"
+    ],
+    "funFact": "Milk kefir grains placed in coconut milk will ferment it beautifully but won't grow or reproduce — they need the lactose in dairy milk for that. Think of coconut batches as a holiday for the grains, and dairy batches as their proper meal."
+  },
+  "thingsToAccountFor": [
+    {
+      "title": "Grains need dairy to survive long-term",
+      "description": "Kefir grains cannot reproduce or sustain themselves on coconut milk alone. After 3–4 coconut batches, run one dairy milk batch to restore grains. Skipping this will weaken and eventually kill the grains.",
+      "severity": "important",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Faster fermentation in BLR heat",
+      "description": "Coconut milk ferments faster than dairy at warm temperatures. At 25–28°C, check at 12 hours. Over-fermented coconut kefir separates and becomes very tart.",
+      "severity": "important",
+      "appliesTo": ["blr"]
+    },
+    {
+      "title": "Avoid lite or reduced-fat coconut milk",
+      "description": "Lite coconut milk has too much water and not enough fat for a good ferment. Use full-fat canned or fresh-pressed coconut milk for the best texture and flavour.",
+      "severity": "warning",
+      "appliesTo": ["all"]
+    }
+  ],
+  "dehydratorIntegration": {
+    "applicable": false,
+    "method": "Not recommended — coconut kefir is best consumed fresh. The high fat content makes dehydration impractical.",
+    "result": "N/A",
+    "shelfLife": "N/A",
+    "tips": [
+      "Freeze finished coconut kefir in ice cube trays for smoothie bowls",
+      "Use as a base for overnight chia puddings — it thickens beautifully in the fridge"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Golden Coconut Kefir",
+      "description": "Add 1/2 tsp turmeric + a pinch of black pepper during fermentation. Anti-inflammatory and vibrant golden colour. Strain out with the grains.",
+      "region": "South Asia / Fusion"
+    },
+    {
+      "name": "Pandan Coconut Kefir",
+      "description": "Add a pandan leaf to the jar during fermentation. Imparts a subtle, sweet, vanilla-like fragrance that complements the coconut beautifully.",
+      "region": "Southeast Asia"
+    },
+    {
+      "name": "Coconut Kefir Yogurt Bowl",
+      "description": "Chill thick coconut kefir overnight, then serve in a bowl topped with granola, fresh tropical fruit, and a drizzle of honey or coconut nectar.",
+      "region": "Global / Modern"
+    }
+  ],
+  "relatedRecipes": [
+    "milk-kefir-basic",
+    "coconut-water-kefir",
+    "dahi-homemade"
+  ],
+  "tags": [
+    "seasoned",
+    "probiotic",
+    "kefir",
+    "dairy-free",
+    "coconut",
+    "culture",
+    "vegan",
+    "year-round"
+  ],
+  "dietaryFlags": [
+    "gluten-free",
+    "vegan"
+  ],
+  "veganAdaptable": true,
+  "containsAllergens": [],
+  "sources": [
+    {
+      "title": "Kefir — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kefir",
+      "license": "CC BY-SA"
+    },
+    {
+      "title": "Coconut Milk — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Coconut_milk",
+      "license": "CC BY-SA"
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=JcRnO-s1nDM",
+      "title": "How to Make Coconut Milk Kefir",
+      "channel": "Cultures for Health",
+      "type": "youtube"
+    }
+  ],
+  "citations": []
+}

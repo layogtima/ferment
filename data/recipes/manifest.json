@@ -149,6 +149,66 @@
       "id": "fermented-sweet-corn",
       "slug": "fermented-sweet-corn",
       "file": "fermented-sweet-corn.json"
+    },
+    {
+      "id": "milk-kefir-basic",
+      "slug": "milk-kefir-basic",
+      "file": "milk-kefir-basic.json"
+    },
+    {
+      "id": "water-kefir-basic",
+      "slug": "water-kefir-basic",
+      "file": "water-kefir-basic.json"
+    },
+    {
+      "id": "coconut-milk-kefir",
+      "slug": "coconut-milk-kefir",
+      "file": "coconut-milk-kefir.json"
+    },
+    {
+      "id": "coconut-water-kefir",
+      "slug": "coconut-water-kefir",
+      "file": "coconut-water-kefir.json"
+    },
+    {
+      "id": "kefir-mango-lassi",
+      "slug": "kefir-mango-lassi",
+      "file": "kefir-mango-lassi.json"
+    },
+    {
+      "id": "water-kefir-lime-soda",
+      "slug": "water-kefir-lime-soda",
+      "file": "water-kefir-lime-soda.json"
+    },
+    {
+      "id": "kefir-labneh",
+      "slug": "kefir-labneh",
+      "file": "kefir-labneh.json"
+    },
+    {
+      "id": "kefir-butter",
+      "slug": "kefir-butter",
+      "file": "kefir-butter.json"
+    },
+    {
+      "id": "kefir-dosa-batter",
+      "slug": "kefir-dosa-batter",
+      "file": "kefir-dosa-batter.json"
+    },
+    {
+      "id": "kefir-fruit-soda",
+      "slug": "kefir-fruit-soda",
+      "file": "kefir-fruit-soda.json"
+    },
+    {
+      "id": "kefir-cream-cheese",
+      "slug": "kefir-cream-cheese",
+      "file": "kefir-cream-cheese.json"
+    },
+    {
+      "id": "water-kefir-ginger-ale",
+      "slug": "water-kefir-ginger-ale",
+      "file": "water-kefir-ginger-ale.json"
     }
   ]
 }

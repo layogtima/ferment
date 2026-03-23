@@ -1,0 +1,152 @@
+{
+  "id": "troubleshooting-kefir",
+  "slug": "troubleshooting-kefir",
+  "title": "Troubleshooting Kefir",
+  "subtitle": "Common problems, what causes them, and how to fix them",
+  "lastUpdated": "2026-03-23",
+  "tableOfContents": true,
+  "sections": [
+    {
+      "id": "intro",
+      "type": "paragraph",
+      "content": "Kefir is one of the most forgiving ferments you can make, but things can still go sideways — especially when you're starting out or dealing with Bengaluru's warm temperatures. The good news is that almost every kefir problem has a simple fix, and very few situations require you to discard your grains entirely [cite:c1]. This guide walks through the most common issues, explains what's happening, and tells you exactly how to fix it. For general grain maintenance, see [[article:kefir-grain-care]]."
+    },
+    {
+      "id": "too-sour",
+      "type": "heading",
+      "level": 2,
+      "content": "Kefir Too Sour"
+    },
+    {
+      "id": "too-sour-text",
+      "type": "paragraph",
+      "content": "Overly sour kefir is the single most common complaint, and it almost always means over-fermentation — the grains have consumed too much lactose and produced too much lactic acid. This happens when the fermentation time is too long, the grain-to-milk ratio is too high, or the ambient temperature is too warm. The fix is straightforward: reduce fermentation time (try 12–16 hours instead of 24), use fewer grains relative to milk, or ferment in a cooler spot. In Bengaluru's summer months, you may need to do all three. If your kefir has already gone too sour, it's still perfectly safe — use it in smoothies where fruit and honey will balance the tartness [[article:kefir-in-tropical-climates]]."
+    },
+    {
+      "id": "too-thin",
+      "type": "heading",
+      "level": 2,
+      "content": "Kefir Too Thin or Watery"
+    },
+    {
+      "id": "too-thin-text",
+      "type": "paragraph",
+      "content": "If your kefir is thin and pourable like milk rather than thick and creamy, it's under-fermented. The grains haven't had enough time or there aren't enough of them to fully convert the milk. Increase your fermentation time by a few hours, add more grains, or use a smaller volume of milk. Also check your milk — ultra-pasteurised (UHT) milk sometimes produces thinner kefir because the aggressive heat treatment alters the protein structure. Try switching to regular pasteurised whole milk (Nandini full-cream works excellently in BLR) [[recipe:milk-kefir-basic]]."
+    },
+    {
+      "id": "curds-and-whey",
+      "type": "heading",
+      "level": 2,
+      "content": "Kefir Separating into Curds and Whey"
+    },
+    {
+      "id": "curds-and-whey-text",
+      "type": "paragraph",
+      "content": "When you see your kefir has separated into thick white curds floating in a yellowish liquid (whey), it has simply over-fermented. This is not dangerous and the kefir is still perfectly good to consume [cite:c2]. You can either stir or blend it back together for a smooth consistency, or strain and use the whey separately (it's excellent for soaking grains, making bread, or watering plants). To prevent separation, reduce the fermentation time or grain ratio. In BLR's warm weather, this can happen surprisingly fast — sometimes in as little as 10–12 hours."
+    },
+    {
+      "id": "grains-not-growing",
+      "type": "heading",
+      "level": 2,
+      "content": "Grains Not Growing"
+    },
+    {
+      "id": "grains-not-growing-text",
+      "type": "paragraph",
+      "content": "Healthy kefir grains should grow steadily, roughly doubling every 1–3 weeks. If your grains have stagnated, consider these factors: they may need more minerals (for water kefir, add a pinch of unrefined salt or a clean eggshell), the water may be chlorinated (use filtered water and let it sit uncovered for 24 hours to off-gas chlorine), or the milk may lack sufficient fat and protein (switch to full-cream milk). Newly acquired grains, especially those shipped through the mail, may take 2–4 weeks to adjust to their new environment before they begin growing. Patience is key."
+    },
+    {
+      "id": "grains-shrinking",
+      "type": "heading",
+      "level": 2,
+      "content": "Grains Shrinking"
+    },
+    {
+      "id": "grains-shrinking-text",
+      "type": "paragraph",
+      "content": "Shrinking grains are stressed grains. The most common causes are: consistently high temperatures (above 30 °C for extended periods), the wrong type of milk (very low fat or heavily processed), contact with reactive metals (aluminium, copper), or chlorinated water. Identify and remove the stressor. Move the ferment to a cooler spot, switch to full-cream pasteurised milk, replace any metal utensils with plastic or silicone, and use filtered water. It may take the grains a few weeks to recover, but they are resilient organisms and will usually bounce back."
+    },
+    {
+      "id": "off-smell",
+      "type": "heading",
+      "level": 2,
+      "content": "Off Smell or Taste"
+    },
+    {
+      "id": "off-smell-text",
+      "type": "paragraph",
+      "content": "Learning to distinguish normal kefir smells from problematic ones takes a little practice. Kefir should smell tangy, slightly yeasty, and pleasantly sour — like a stronger version of yogurt. A mild \"brewery\" smell is normal, especially in warm weather when the yeast component is more active. What's not normal: a strong rotten or putrid smell (like spoiled meat), a nail polish / acetone smell (acetic acid overproduction — too warm, too long), or a vomit-like odour (butyric acid — grain contamination). If the smell is merely strong but within the tangy/yeasty spectrum, the kefir is fine. If it's genuinely putrid, discard the batch but try the grains in fresh milk — they often recover."
+    },
+    {
+      "id": "yeasty-smell",
+      "type": "heading",
+      "level": 2,
+      "content": "Yeasty or Cheesy Smell"
+    },
+    {
+      "id": "yeasty-smell-text",
+      "type": "paragraph",
+      "content": "An overly yeasty or cheesy aroma indicates that the yeast component of your kefir grains has become dominant relative to the bacteria [cite:c1]. This commonly happens in warm conditions (very relevant for BLR fermenters), when grains are stressed, or after a period of irregular feeding. To rebalance: gently rinse the grains once in cool filtered water (this washes off excess yeast from the surface), reduce fermentation temperature, and maintain a consistent daily feeding schedule. The balance should restore within 3–5 batches. Note that rinsing grains should be a targeted intervention, not a daily habit — regular rinsing can strip beneficial bacteria."
+    },
+    {
+      "id": "mold",
+      "type": "heading",
+      "level": 2,
+      "content": "Mold on Surface"
+    },
+    {
+      "id": "mold-text",
+      "type": "paragraph",
+      "content": "True mould on kefir is rare because the acidic, anaerobic environment strongly inhibits mould growth. If you see a fuzzy, coloured growth (green, black, pink, or white and fuzzy) on the surface of your kefir or on the grains themselves, discard both the liquid and the grains — mould sends invisible hyphae deep into the culture and cannot be removed [cite:c2]. However, be careful to distinguish mould from kahm yeast, which appears as a thin, flat, wrinkly white film on the surface. Kahm yeast is harmless (though it can taste unpleasant) and is more common in water kefir. Skim it off and continue. See [[article:mold-vs-kahm-when-to-worry]] for visual identification."
+    },
+    {
+      "id": "carbonation-issues",
+      "type": "heading",
+      "level": 2,
+      "content": "Carbonation Issues in Second Ferment"
+    },
+    {
+      "id": "carbonation-text",
+      "type": "paragraph",
+      "content": "If your second ferment isn't building carbonation, three factors are usually responsible: not enough residual sugar for the microbes to consume and produce CO₂ (add more fruit or a pinch of sugar), the container isn't sealed tightly enough (use swing-top bottles or tight-fitting lids), or the temperature is too low (below 18 °C, CO₂ production drops significantly). In BLR, temperature is rarely the problem — in fact, the opposite issue is more common: over-carbonation from fast fermentation in warm conditions. Always use pressure-rated bottles and burp them at least once daily, especially in summer [[article:kefir-second-ferments]]."
+    },
+    {
+      "id": "tropical-callout",
+      "type": "callout",
+      "style": "tip",
+      "title": "BLR-Specific Troubleshooting",
+      "content": "Most kefir problems in Bengaluru trace back to temperature. If your kefir is consistently too sour, separating, or developing off-flavours, try the fridge method: ferment in the refrigerator for 24–48 hours instead of on the counter. It gives you much more control and produces a milder, creamier kefir. Many experienced BLR fermenters use the fridge method year-round, not just in summer. See [[article:kefir-in-tropical-climates]] for seasonal strategies."
+    }
+  ],
+  "citations": [
+    {
+      "id": "c1",
+      "text": "Farnworth, Edward R. \"Kefir — a complex probiotic.\" Food Science and Technology Bulletin: Functional Foods, 2(1), 1–17.",
+      "source": "Food Science and Technology Bulletin",
+      "author": "Edward R. Farnworth",
+      "year": 2005,
+      "license": "Journal Article"
+    },
+    {
+      "id": "c2",
+      "text": "Prado, Maria R., et al. \"Milk kefir: composition, microbial cultures, biological activities, and related products.\" Frontiers in Microbiology, 6, 1177.",
+      "source": "Frontiers in Microbiology",
+      "author": "Maria R. Prado et al.",
+      "year": 2015,
+      "license": "Journal Article"
+    },
+    {
+      "id": "c3",
+      "text": "Bourrie, Benjamin C.T., et al. \"The Microbiota and Health Promoting Characteristics of the Fermented Beverage Kefir.\" Frontiers in Microbiology, 7, 647.",
+      "source": "Frontiers in Microbiology",
+      "author": "Benjamin C.T. Bourrie et al.",
+      "year": 2016,
+      "license": "Journal Article"
+    }
+  ],
+  "seeAlso": {
+    "articles": ["kefir-grain-care", "kefir-in-tropical-climates", "what-is-kefir", "mold-vs-kahm-when-to-worry"],
+    "recipes": ["milk-kefir-basic", "water-kefir-basic"]
+  },
+  "tags": ["kefir", "troubleshooting", "problems", "solutions", "beginner"]
+}

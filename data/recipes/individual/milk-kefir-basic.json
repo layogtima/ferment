@@ -1,0 +1,257 @@
+{
+  "id": "milk-kefir-basic",
+  "slug": "milk-kefir-basic",
+  "name": "Milk Kefir",
+  "nameLocal": "ಮಿಲ್ಕ್ ಕೆಫಿರ್",
+  "nameRomanized": "Milk Kefir",
+  "subtitle": "The ancient Caucasian probiotic that puts yogurt to shame",
+  "category": "dairy",
+  "subcategory": "cultured milk",
+  "technique": "culture",
+  "region": "Europe",
+  "country": "Georgia",
+  "countryCode": "GE",
+  "culturalGroup": "Caucasian",
+  "difficulty": 1,
+  "tier": "beginner",
+  "tierLabel": "Literally Just Add Grains",
+  "prepTime": "5 min",
+  "fermentTimeMin": 12,
+  "fermentTimeMax": 24,
+  "fermentTimeUnit": "hours",
+  "totalTimeHuman": "12–24 hours",
+  "blrNote": "At Bengaluru's 25–28°C, kefir ferments fast — check at 12 hours. In summer (30°C+), ferment in the coolest room or use the fridge method (48h in the fridge for a milder, creamier result). Nandini full-fat milk works beautifully. Kefir grains are available from home fermenters on Instagram and local Facebook groups in Bengaluru.",
+  "seasonality": ["all"],
+  "ingredients": [
+    {
+      "name": "Full-fat milk",
+      "nameLocal": "Halu / Doodh",
+      "amount": 500,
+      "unit": "ml",
+      "unitMetric": "500ml",
+      "category": "dairy",
+      "essential": true,
+      "substitutions": [
+        "A2 milk (richer flavour)",
+        "Pasteurised milk (avoid UHT — the ultra-high heat damages proteins kefir grains need)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Nandini booths, Heritage, Arokya, or any supermarket"
+        }
+      }
+    },
+    {
+      "name": "Milk kefir grains",
+      "nameLocal": null,
+      "amount": 1,
+      "unit": "tbsp",
+      "unitMetric": "10–15g",
+      "category": "culture",
+      "essential": true,
+      "substitutions": [
+        "Kefir starter powder (single-use, weaker probiotic profile)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "moderate",
+          "where": "Online fermentation communities, Instagram sellers, Facebook kefir groups in Bengaluru. Not commonly found in stores."
+        }
+      }
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Glass jar (500ml–1L)",
+      "essential": true,
+      "notes": "Wide-mouth is easier for straining. Avoid metal — kefir grains don't like reactive metals."
+    },
+    {
+      "name": "Plastic or nylon mesh strainer",
+      "essential": true,
+      "notes": "Use plastic or nylon, not metal. Fine mesh to catch the grains."
+    },
+    {
+      "name": "Cloth or paper towel + rubber band",
+      "essential": true,
+      "notes": "For covering the jar — kefir needs airflow but not insects."
+    },
+    {
+      "name": "Wooden or plastic spoon",
+      "essential": false,
+      "notes": "For stirring. Avoid metal contact with grains."
+    }
+  ],
+  "tldr": "Drop kefir grains into milk, cover, wait 12–24 hours, strain, drink. The grains go back in fresh milk. Repeat forever.",
+  "steps": [
+    {
+      "step": 1,
+      "title": "Add grains to milk",
+      "instruction": "Place 1 tablespoon of milk kefir grains into a clean glass jar. Pour in 500ml of room-temperature or slightly cool full-fat milk. Do not heat the milk — kefir grains are added to fresh milk, unlike dahi which needs warmed milk.",
+      "duration": "2 min",
+      "tips": [
+        "The ratio is roughly 1 tbsp grains per 500ml milk. More grains = faster ferment.",
+        "Use room-temperature milk, not cold from the fridge — the grains activate faster.",
+        "If your grains have been in the fridge, let them come to room temperature first for 30 minutes."
+      ],
+      "checkpoint": "Grains are submerged in milk in a clean jar"
+    },
+    {
+      "step": 2,
+      "title": "Cover and ferment",
+      "instruction": "Cover the jar with a breathable cloth or paper towel secured with a rubber band. Place in a spot away from direct sunlight — a kitchen shelf or countertop works. Leave undisturbed for 12–24 hours.",
+      "duration": "12–24 hours",
+      "tips": [
+        "In BLR's warmth (25°C+), start checking at 12 hours. Over-fermented kefir separates into curds and whey — still safe, just tangier.",
+        "A slightly cooler spot (under 25°C) gives a creamier, milder kefir. An AC room works well.",
+        "Don't seal the jar airtight — kefir produces CO₂ and needs to breathe during primary fermentation."
+      ],
+      "checkpoint": "Milk has thickened slightly and smells pleasantly tangy (like yogurt but yeastier)"
+    },
+    {
+      "step": 3,
+      "title": "Strain the grains",
+      "instruction": "Place a plastic or nylon strainer over a clean bowl or jar. Pour the fermented kefir through the strainer. Gently shake or stir with a plastic spoon to help the kefir pass through. The grains remain in the strainer.",
+      "duration": "3 min",
+      "tips": [
+        "Don't press the grains hard — be gentle. They're living organisms.",
+        "If the kefir has separated into thick curds and thin whey, it's over-fermented. Still perfectly drinkable — just more sour. Blend it smooth.",
+        "The grains should look like small cauliflower florets. They'll grow over time — a sign of happy grains."
+      ],
+      "checkpoint": "Smooth kefir in the bowl, plump grains in the strainer"
+    },
+    {
+      "step": 4,
+      "title": "Restart and enjoy",
+      "instruction": "Transfer the strained grains directly into a fresh jar of milk to start the next batch. No need to rinse them. Your finished kefir is ready to drink immediately, or refrigerate it — cold kefir thickens further and the flavour mellows overnight.",
+      "duration": "2 min",
+      "tips": [
+        "Never rinse grains with water — it disrupts their microbial balance. Just move them to fresh milk.",
+        "Kefir keeps in the fridge for 1–2 weeks, getting tangier over time.",
+        "If you need a break, put grains in fresh milk and refrigerate. They'll slow down and keep for 1–2 weeks. Change the milk weekly."
+      ],
+      "checkpoint": "New batch started, finished kefir stored or served"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Kefir_grains.jpg/1280px-Kefir_grains.jpg",
+      "caption": "Milk kefir grains — the living SCOBY",
+      "attribution": "A. Kniesel, CC BY-SA 3.0, via Wikimedia Commons",
+      "type": "hero",
+      "alt": "Close-up of milk kefir grains, resembling small cauliflower florets"
+    }
+  ],
+  "culturalContext": {
+    "story": "Kefir originates from the Caucasus Mountains — the borderlands of Georgia, Russia, and Turkey. For centuries, shepherds carried kefir in leather bags tied to their doorways, where passing visitors would knock the bag and keep the grains agitated. The word 'kefir' likely derives from the Turkish 'keyif,' meaning 'feeling good' — and for good reason. It contains 50+ strains of bacteria and yeast, compared to yogurt's 2–7.",
+    "historicalNote": "Legend has it that the Prophet Muhammad gave kefir grains to the Orthodox people of the Caucasus and taught them how to make kefir. The grains were considered a gift from Allah and were never sold — only shared. This tradition of gifting grains continues in fermentation communities worldwide.",
+    "significance": "Kefir is one of the most probiotic-rich foods on the planet. Unlike yogurt, kefir contains both bacteria and beneficial yeasts, creating a symbiotic colony (SCOBY) that cannot be manufactured — only grown and shared. Each grain is a living ecosystem passed between humans for centuries.",
+    "relatedTraditions": [
+      "Dahi / Yogurt (India)",
+      "Matsoni (Georgia)",
+      "Ayran (Turkey)",
+      "Kumis (Central Asia — fermented mare's milk)"
+    ],
+    "funFact": "Kefir grains are not actually grains — they're a polysaccharide matrix called kefiran, produced by the bacteria themselves, that houses the entire microbial community. No one has successfully created kefir grains from scratch in a lab. They can only be grown from existing grains."
+  },
+  "thingsToAccountFor": [
+    {
+      "title": "Bengaluru heat = faster fermentation",
+      "description": "At 25–28°C, kefir ferments significantly faster than in cooler European climates. Start checking at 12 hours. If it separates into curds and whey, it's over-fermented but still safe — blend it smooth or use in baking.",
+      "severity": "important",
+      "appliesTo": ["blr"]
+    },
+    {
+      "title": "Avoid metal contact",
+      "description": "Kefir grains are sensitive to reactive metals. Use glass jars, plastic strainers, and wooden or plastic spoons. Stainless steel is generally fine, but avoid aluminium, copper, and cast iron.",
+      "severity": "important",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Grains multiplying too fast",
+      "description": "Healthy grains grow 5–10% per batch. In BLR's warmth, they may grow even faster. Share extras with friends, blend them into smoothies (they're edible and probiotic), or store in milk in the fridge as backup.",
+      "severity": "info",
+      "appliesTo": ["blr"]
+    },
+    {
+      "title": "UHT milk doesn't work well",
+      "description": "Ultra-high temperature processed milk (tetra-pack long-life milk) has denatured proteins that kefir grains struggle with. Use fresh pasteurised milk — Nandini, Heritage, or Arokya work well.",
+      "severity": "warning",
+      "appliesTo": ["all"]
+    }
+  ],
+  "dehydratorIntegration": {
+    "applicable": false,
+    "method": "Not recommended — kefir grains are living cultures that die when dehydrated. The finished kefir liquid can be used as-is or frozen into ice cubes.",
+    "result": "N/A",
+    "shelfLife": "N/A",
+    "tips": [
+      "Freeze finished kefir in ice cube trays for smoothies",
+      "Kefir grains can be frozen as a backup — coat in dry milk powder and freeze in a zip-lock bag. They may take a few batches to revive."
+    ]
+  },
+  "variations": [
+    {
+      "name": "Cardamom Kefir",
+      "description": "Add 2–3 crushed green cardamom pods during fermentation. Strain out with the grains. A South Asian twist that works beautifully.",
+      "region": "South Asia / Fusion"
+    },
+    {
+      "name": "Thick Kefir (Double Ferment)",
+      "description": "After straining, leave the finished kefir (without grains) at room temperature for another 6–12 hours. It thickens further and develops a more complex, tangy flavour.",
+      "region": "Caucasus"
+    },
+    {
+      "name": "Fridge Kefir (Slow Method)",
+      "description": "Place grains in milk in the fridge for 48–72 hours. Slower fermentation produces a milder, creamier kefir. Perfect for BLR summers when room temperature is too warm.",
+      "region": "Modern / Adaptation"
+    }
+  ],
+  "relatedRecipes": [
+    "dahi-homemade",
+    "water-kefir-basic",
+    "kefir-mango-lassi",
+    "kefir-labneh",
+    "coconut-milk-kefir"
+  ],
+  "tags": [
+    "beginner",
+    "daily",
+    "probiotic",
+    "kefir",
+    "dairy",
+    "culture",
+    "year-round",
+    "high-protein"
+  ],
+  "dietaryFlags": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "veganAdaptable": false,
+  "containsAllergens": [
+    "dairy"
+  ],
+  "sources": [
+    {
+      "title": "Kefir — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kefir",
+      "license": "CC BY-SA"
+    },
+    {
+      "title": "Bourrie, B.C.T. et al. \"The Microbiota and Health Promoting Characteristics of the Fermented Beverage Kefir.\" Frontiers in Microbiology, 2016.",
+      "url": "https://doi.org/10.3389/fmicb.2016.00647",
+      "license": "CC BY"
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=2mSSEUOBpSQ",
+      "title": "How to Make Milk Kefir at Home",
+      "channel": "Cultures for Health",
+      "type": "youtube"
+    }
+  ],
+  "citations": []
+}

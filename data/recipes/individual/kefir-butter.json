@@ -1,0 +1,281 @@
+{
+  "id": "kefir-butter",
+  "slug": "kefir-butter",
+  "name": "Kefir Cultured Butter",
+  "nameLocal": null,
+  "nameRomanized": "Kefir Cultured Butter",
+  "subtitle": "Tangy, complex cultured butter churned from kefir-fermented cream",
+  "category": "dairy",
+  "subcategory": "cultured butter",
+  "technique": "culture",
+  "region": "Europe",
+  "country": null,
+  "countryCode": null,
+  "culturalGroup": "Scandinavian / Eastern European",
+  "difficulty": 3,
+  "tier": "ambitious",
+  "tierLabel": "Getting Serious",
+  "prepTime": "20 min",
+  "fermentTimeMin": 12,
+  "fermentTimeMax": 24,
+  "fermentTimeUnit": "hours",
+  "totalTimeHuman": "24h (culture cream) + 20 min (churn)",
+  "blrNote": "Use Nandini or Amul fresh cream (not cooking cream — it must be at least 35% fat). The kefir culture adds a subtle tanginess reminiscent of traditional makhan. In BLR's warmth, the cream ferments in 12–16 hours. Chill everything thoroughly before churning — warm cream won't separate properly.",
+  "seasonality": ["all"],
+  "ingredients": [
+    {
+      "name": "Heavy / fresh cream",
+      "nameLocal": "Kalimari / Malai",
+      "amount": 500,
+      "unit": "ml",
+      "unitMetric": "500ml",
+      "category": "dairy",
+      "essential": true,
+      "substitutions": [
+        "Amul fresh cream (must be 35%+ fat — avoid low-fat or cooking cream)",
+        "Cream collected from boiling full-fat milk over several days"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "moderate",
+          "where": "Nandini fresh cream, Amul fresh cream from supermarkets. Not all shops stock high-fat cream — call ahead."
+        }
+      }
+    },
+    {
+      "name": "Milk kefir grains or finished kefir",
+      "nameLocal": null,
+      "amount": 2,
+      "unit": "tbsp",
+      "unitMetric": "30ml",
+      "category": "culture",
+      "essential": true,
+      "substitutions": [
+        "2 tbsp finished milk kefir (easier than using grains directly in cream)",
+        "Cultured buttermilk (less probiotic diversity)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "moderate",
+          "where": "Homemade milk kefir — see milk-kefir-basic recipe. Grains from online fermentation communities."
+        }
+      }
+    },
+    {
+      "name": "Salt (optional)",
+      "nameLocal": "Uppu / Namak",
+      "amount": 0.5,
+      "unit": "tsp",
+      "unitMetric": "3g",
+      "category": "seasoning",
+      "essential": false,
+      "substitutions": [
+        "Flaky sea salt (Maldon or similar)",
+        "Pink Himalayan salt"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana or supermarket"
+        }
+      }
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Glass jar (750ml–1L)",
+      "essential": true,
+      "notes": "For fermenting the cream. Wide-mouth preferred."
+    },
+    {
+      "name": "Stand mixer, food processor, or hand mixer",
+      "essential": true,
+      "notes": "For churning. A food processor works fastest. Hand-shaking in a jar also works but takes 15–20 minutes of vigorous shaking."
+    },
+    {
+      "name": "Fine mesh strainer or cheesecloth",
+      "essential": true,
+      "notes": "For separating butter from buttermilk."
+    },
+    {
+      "name": "Bowl of ice water",
+      "essential": true,
+      "notes": "For washing the butter — this removes residual buttermilk and extends shelf life."
+    }
+  ],
+  "tldr": "Ferment heavy cream with kefir for 12–24 hours, chill thoroughly, churn until butter separates, wash in ice water, salt and shape. Rich, tangy cultured butter.",
+  "steps": [
+    {
+      "step": 1,
+      "title": "Culture the cream",
+      "instruction": "Pour 500ml of heavy cream into a clean glass jar. Add 2 tablespoons of finished milk kefir (or place kefir grains directly in the cream). Stir gently, cover with a cloth, and leave at room temperature for 12–24 hours.",
+      "duration": "12–24 hours",
+      "tips": [
+        "Using finished kefir liquid is easier than grains — grains can get lost in thick cream.",
+        "The cream will thicken and develop a pleasant tangy aroma when ready.",
+        "At BLR temps, 12–16 hours is usually sufficient. Don't over-ferment or the butter will be too sour."
+      ],
+      "checkpoint": "Cream is slightly thickened, tangy-smelling, and visibly cultured"
+    },
+    {
+      "step": 2,
+      "title": "Chill the cultured cream",
+      "instruction": "Refrigerate the cultured cream for at least 2–3 hours, or overnight. The cream must be very cold (under 10°C) before churning — warm cream won't separate into butter and buttermilk properly.",
+      "duration": "2–3 hours (fridge)",
+      "tips": [
+        "This step is critical — skipping the chill is the most common reason butter won't form.",
+        "Chill the mixing bowl and beaters too for best results.",
+        "In BLR's warmth, the cream warms up fast once out of the fridge — work quickly."
+      ],
+      "checkpoint": "Cream is thoroughly cold, bowl and tools are chilled"
+    },
+    {
+      "step": 3,
+      "title": "Churn until butter separates",
+      "instruction": "Pour the cold cultured cream into a food processor, stand mixer, or large jar. Process on high speed (or shake vigorously). The cream will go through stages: liquid → whipped cream → grainy → suddenly splits into butter clumps + buttermilk. This takes 5–10 minutes in a machine, 15–20 by hand.",
+      "duration": "5–20 min",
+      "tips": [
+        "Cover the mixer with a towel — buttermilk splashes everywhere when the butter suddenly separates.",
+        "Don't stop at the whipped cream stage — keep going until you see distinct yellow butter clumps in white liquid.",
+        "If using a jar, fill only 1/3 full and shake vigorously. A marble or clean glass ball inside speeds things up."
+      ],
+      "checkpoint": "Butter has visibly separated into yellow clumps swimming in thin, white buttermilk"
+    },
+    {
+      "step": 4,
+      "title": "Wash the butter",
+      "instruction": "Strain the butter from the buttermilk (save the buttermilk — it's probiotic-rich cultured buttermilk). Place the butter in a bowl of ice water. Knead and press it with a spatula or your hands, squeezing out milky water. Drain, add fresh ice water, and repeat 2–3 times until the water runs clear.",
+      "duration": "5 min",
+      "tips": [
+        "Washing removes residual buttermilk, which would cause the butter to spoil faster.",
+        "The buttermilk you saved is true cultured buttermilk — far better than store-bought. Use it for pancakes, baking, or marinades.",
+        "Keep the water icy — warm hands and warm water will melt the butter."
+      ],
+      "checkpoint": "Butter is firm, smooth, and the wash water runs clear"
+    },
+    {
+      "step": 5,
+      "title": "Season, shape, and store",
+      "instruction": "Pat the butter dry with a clean cloth. Add salt to taste if desired — work it in by folding and pressing. Shape into a log using parchment paper or press into a mould. Refrigerate or freeze.",
+      "duration": "5 min",
+      "tips": [
+        "Unsalted cultured butter keeps 1–2 weeks in the fridge. Salted lasts 3–4 weeks.",
+        "Freeze in portions for up to 3 months.",
+        "Try it on hot rice — the kefir tang with steaming rice is incredible, reminiscent of traditional makhan."
+      ],
+      "checkpoint": "Golden, tangy cultured butter — shaped, seasoned, and ready"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Homemade_butter.jpg/1280px-Homemade_butter.jpg",
+      "caption": "Homemade cultured butter — rich and tangy",
+      "attribution": "Meal Makeover Moms, CC BY-ND 2.0, via Wikimedia Commons",
+      "type": "hero",
+      "alt": "Golden homemade butter shaped into a round on a wooden board"
+    }
+  ],
+  "culturalContext": {
+    "story": "Cultured butter has been the standard in Scandinavian and Eastern European countries for centuries — cream was naturally fermented by ambient bacteria before churning. The result is a butter with a complex, tangy flavour that sweet cream butter simply cannot match. Using kefir as the culture adds an even deeper probiotic dimension.",
+    "historicalNote": "Before refrigeration, cream was collected over several days, naturally souring as it waited. Churning this cultured cream produced tangy butter that also kept longer. In India, a similar tradition exists — malai collected daily from boiled milk is churned into makhan, which is then clarified into ghee.",
+    "significance": "Kefir cultured butter represents the intersection of two ancient dairy traditions: Caucasian kefir fermentation and European butter-making. The result is a living butter that contains probiotics not found in any commercial butter.",
+    "relatedTraditions": [
+      "Makhan (Indian homemade butter)",
+      "Smor (Scandinavian cultured butter)",
+      "Beurre de Baratte (French churned butter)",
+      "Ghee (clarified butter, India)"
+    ],
+    "funFact": "Most European butter is cultured (fermented cream), while most American butter is sweet cream (unfermented). This is why French butter tastes so different from American butter — it's not just the fat content, it's the fermentation."
+  },
+  "thingsToAccountFor": [
+    {
+      "title": "Cream must be at least 35% fat",
+      "description": "Low-fat cream or cooking cream will not churn into butter. You need heavy cream with at least 35% fat content. Nandini fresh cream and Amul fresh cream work. Check the label — 'cooking cream' is usually only 20-25% fat.",
+      "severity": "important",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Chill everything before churning",
+      "description": "The cream, bowl, and beaters must all be cold. In BLR's warm climate, butter can melt back into cream during churning if things aren't cold enough. Work quickly once out of the fridge.",
+      "severity": "important",
+      "appliesTo": ["blr"]
+    },
+    {
+      "title": "Wash thoroughly for longer shelf life",
+      "description": "Residual buttermilk left in the butter will cause it to go rancid within days. Wash 3 times in ice water until the water runs clear. This extends fridge life from days to weeks.",
+      "severity": "warning",
+      "appliesTo": ["all"]
+    }
+  ],
+  "dehydratorIntegration": {
+    "applicable": false,
+    "method": "Not applicable — butter is a fat product and cannot be dehydrated. Clarify into ghee for extended shelf life instead.",
+    "result": "N/A",
+    "shelfLife": "N/A",
+    "tips": [
+      "Clarify kefir cultured butter into ghee — heat gently until milk solids separate and brown, then strain. The ghee will have a subtle tangy depth.",
+      "Freeze butter in portioned pats wrapped in parchment for up to 3 months."
+    ]
+  },
+  "variations": [
+    {
+      "name": "Herb Butter",
+      "description": "Fold in minced garlic, fresh thyme, and parsley after washing. Roll into a log and chill. Slice rounds onto grilled meats, fish, or steamed vegetables.",
+      "region": "French / European"
+    },
+    {
+      "name": "Spiced Butter (Jeera-Hing)",
+      "description": "Toast cumin seeds and add a pinch of hing (asafoetida) to the butter. A South Indian twist — incredible melted over hot dal rice.",
+      "region": "South India / Fusion"
+    },
+    {
+      "name": "Honey Butter",
+      "description": "Whip in 1–2 tablespoons of raw honey after washing. Sweet, tangy, and creamy — perfect on warm toast, dosas, or pancakes.",
+      "region": "Global / Modern"
+    }
+  ],
+  "relatedRecipes": [
+    "milk-kefir-basic",
+    "kefir-labneh",
+    "kefir-cream-cheese"
+  ],
+  "tags": [
+    "ambitious",
+    "probiotic",
+    "kefir",
+    "dairy",
+    "butter",
+    "cultured",
+    "european",
+    "year-round"
+  ],
+  "dietaryFlags": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "veganAdaptable": false,
+  "containsAllergens": [
+    "dairy"
+  ],
+  "sources": [
+    {
+      "title": "Cultured Butter — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Butter#Cultured_butter",
+      "license": "CC BY-SA"
+    },
+    {
+      "title": "Kefir — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kefir",
+      "license": "CC BY-SA"
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=GkLP3iMfiYg",
+      "title": "How to Make Cultured Butter at Home",
+      "channel": "Joshua Weissman",
+      "type": "youtube"
+    }
+  ],
+  "citations": []
+}

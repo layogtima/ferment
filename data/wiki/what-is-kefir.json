@@ -1,0 +1,154 @@
+{
+  "id": "what-is-kefir",
+  "slug": "what-is-kefir",
+  "title": "What Is Kefir?",
+  "subtitle": "A living symbiotic culture that puts yogurt's probiotic count to shame",
+  "lastUpdated": "2026-03-23",
+  "infobox": {
+    "title": "Kefir",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Kefir_glass.jpg",
+      "caption": "A glass of freshly strained milk kefir — tangy, creamy, and teeming with life",
+      "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+    },
+    "facts": [
+      { "label": "Origin", "value": "Caucasus Mountains" },
+      { "label": "Type", "value": "SCOBY-based ferment (symbiotic culture of bacteria and yeast)" },
+      { "label": "Probiotic strains", "value": "50+ identified species", "link": "health-benefits-of-kefir" },
+      { "label": "pH range", "value": "3.5–4.6", "link": "ph-levels-fermentation" },
+      { "label": "Fermentation time", "value": "12–48 hours" },
+      { "label": "Base liquids", "value": "Milk (cow, goat, buffalo) or sugar water" },
+      { "label": "Also known as", "value": "Kephir, kéfir, búlgaros, tibicos (water kefir)" }
+    ]
+  },
+  "tableOfContents": true,
+  "sections": [
+    {
+      "id": "intro",
+      "type": "paragraph",
+      "content": "Kefir is a tangy, slightly effervescent fermented drink produced by adding kefir grains — a unique symbiotic culture of bacteria and yeast (SCOBY) — to milk or sugar water [cite:c1]. Unlike yogurt, which typically contains 2–7 bacterial strains, kefir harbours a complex ecosystem of over 50 species of lactic acid bacteria, acetic acid bacteria, and yeasts working in concert. The result is a drink with unparalleled probiotic diversity, a pleasantly sour flavour, and a creamy or fizzy texture depending on whether you're making [[article:milk-kefir-vs-water-kefir]]. Originating in the Caucasus Mountains thousands of years ago, kefir has spread across the globe and is now one of the most popular home ferments worldwide."
+    },
+    {
+      "id": "milk-vs-water",
+      "type": "heading",
+      "level": 2,
+      "content": "Milk Kefir vs Water Kefir"
+    },
+    {
+      "id": "milk-vs-water-text",
+      "type": "paragraph",
+      "content": "The word \"kefir\" actually refers to two quite different fermented drinks made with two biologically distinct sets of grains. Milk kefir grains ferment animal milk (or sometimes coconut milk) into a thick, tangy, yogurt-like beverage. Water kefir grains (also called tibicos) ferment sugar water, fruit juice, or coconut water into a light, fizzy probiotic soda. Despite sharing the name, the two grain types are composed of different microbial communities and are not interchangeable [[article:milk-kefir-vs-water-kefir]]."
+    },
+    {
+      "id": "milk-vs-water-table",
+      "type": "table",
+      "caption": "Quick comparison: milk kefir vs water kefir",
+      "headers": ["Property", "Milk Kefir", "Water Kefir"],
+      "rows": [
+        ["Base liquid", "Animal milk (cow, goat, buffalo)", "Sugar water, juice, coconut water"],
+        ["Grain appearance", "White, cauliflower-like, rubbery", "Translucent, crystal-like, smaller"],
+        ["Flavour", "Tangy, creamy, slightly yeasty", "Mildly sweet, lightly tart, fizzy"],
+        ["Probiotic strains", "50+ (bacteria and yeasts)", "10–15 (bacteria and yeasts)"],
+        ["Fermentation time", "12–24 hours", "24–48 hours"],
+        ["Dietary suitability", "Contains dairy (some lactose-intolerant people tolerate it)", "Dairy-free, vegan"]
+      ]
+    },
+    {
+      "id": "kefir-scoby",
+      "type": "heading",
+      "level": 2,
+      "content": "The Kefir SCOBY"
+    },
+    {
+      "id": "kefir-scoby-text",
+      "type": "paragraph",
+      "content": "Kefir grains are not cereal grains — they are small, gelatinous masses composed of a polysaccharide matrix called kefiran, within which dozens of species of bacteria and yeast live in a stable, self-perpetuating symbiosis [cite:c2]. This makes kefir grains a true SCOBY (Symbiotic Culture of Bacteria and Yeast), similar in concept to a kombucha mother but structurally and microbiologically distinct. The kefiran matrix provides a physical scaffold that holds the microbial community together and protects it from environmental stress. When placed in fresh milk or sugar water, the grains metabolise sugars, produce lactic acid and CO₂, and gradually grow — doubling in mass roughly every 1–2 weeks under ideal conditions."
+    },
+    {
+      "id": "kefir-scoby-callout",
+      "type": "callout",
+      "style": "info",
+      "title": "Kefiran — More Than Just Structure",
+      "content": "Kefiran, the polysaccharide that forms the grain matrix, is itself a bioactive compound. Research suggests it has antimicrobial, anti-inflammatory, and wound-healing properties [cite:c3]. When you consume kefir, you're ingesting dissolved kefiran along with the live bacteria — a benefit that probiotic capsules simply cannot replicate."
+    },
+    {
+      "id": "nutritional-profile",
+      "type": "heading",
+      "level": 2,
+      "content": "Nutritional Profile"
+    },
+    {
+      "id": "nutritional-profile-text",
+      "type": "paragraph",
+      "content": "Milk kefir is nutritionally similar to the milk it's made from, but fermentation enhances several aspects. LAB partially digest lactose (making kefir tolerable for many lactose-intolerant individuals), synthesise B vitamins and vitamin K2, and increase the bioavailability of calcium and other minerals [cite:c4]. The following values are approximate for one cup (240 ml) of whole-milk kefir."
+    },
+    {
+      "id": "nutritional-table",
+      "type": "table",
+      "caption": "Approximate nutrition per 240 ml whole-milk kefir",
+      "headers": ["Nutrient", "Amount", "% Daily Value"],
+      "rows": [
+        ["Calories", "150 kcal", "—"],
+        ["Protein", "8–11 g", "16–22%"],
+        ["Fat", "8 g", "10%"],
+        ["Carbohydrates", "11 g", "4%"],
+        ["Calcium", "300 mg", "25%"],
+        ["Vitamin B12", "0.7 µg", "29%"],
+        ["Vitamin K2", "Present (variable)", "—"],
+        ["Probiotics", "10⁹–10¹⁰ CFU", "—"]
+      ]
+    },
+    {
+      "id": "getting-started",
+      "type": "heading",
+      "level": 2,
+      "content": "Getting Started"
+    },
+    {
+      "id": "getting-started-callout",
+      "type": "callout",
+      "style": "tip",
+      "title": "Ready to Make Your First Batch?",
+      "content": "Making kefir at home is one of the simplest fermentation projects you can start. All you need is a jar, some kefir grains (ask a friend, join a local BLR fermentation group, or order online), and milk or sugar water. Check out [[recipe:milk-kefir-basic]] for a step-by-step dairy kefir recipe, or [[recipe:water-kefir-basic]] if you prefer a dairy-free fizzy drink. For grain maintenance tips, see [[article:kefir-grain-care]]."
+    }
+  ],
+  "citations": [
+    {
+      "id": "c1",
+      "text": "Bourrie, Benjamin C.T., et al. \"The Microbiota and Health Promoting Characteristics of the Fermented Beverage Kefir.\" Frontiers in Microbiology, 7, 647.",
+      "source": "Frontiers in Microbiology",
+      "author": "Benjamin C.T. Bourrie et al.",
+      "year": 2016,
+      "license": "Journal Article"
+    },
+    {
+      "id": "c2",
+      "text": "Garrote, Graciela L., Abraham, Analía G., and De Antoni, Graciela L. \"Chemical and microbiological characterisation of kefir grains.\" Journal of Dairy Research, 68(4), 639–652.",
+      "source": "Journal of Dairy Research",
+      "author": "Graciela L. Garrote, Analía G. Abraham, Graciela L. De Antoni",
+      "year": 2001,
+      "license": "Journal Article"
+    },
+    {
+      "id": "c3",
+      "text": "Maeda, Hiroshi, et al. \"Structural characterization and biological activities of an exopolysaccharide kefiran produced by Lactobacillus kefiranofaciens.\" Journal of Agricultural and Food Chemistry, 52(17), 5533–5538.",
+      "source": "Journal of Agricultural and Food Chemistry",
+      "author": "Hiroshi Maeda et al.",
+      "year": 2004,
+      "license": "Journal Article"
+    },
+    {
+      "id": "c4",
+      "text": "Farnworth, Edward R. \"Kefir — a complex probiotic.\" Food Science and Technology Bulletin: Functional Foods, 2(1), 1–17.",
+      "source": "Food Science and Technology Bulletin",
+      "author": "Edward R. Farnworth",
+      "year": 2005,
+      "license": "Journal Article"
+    }
+  ],
+  "seeAlso": {
+    "articles": ["milk-kefir-vs-water-kefir", "kefir-grain-care", "health-benefits-of-kefir"],
+    "recipes": ["milk-kefir-basic", "water-kefir-basic"]
+  },
+  "tags": ["kefir", "probiotics", "introduction", "dairy", "water-kefir"]
+}

@@ -1,0 +1,292 @@
+{
+  "id": "water-kefir-ginger-ale",
+  "slug": "water-kefir-ginger-ale",
+  "name": "Water Kefir Ginger Ale",
+  "nameLocal": "ವಾಟರ್ ಕೆಫಿರ್ ಶುಂಠಿ ಏಲ್",
+  "nameRomanized": "Water Kefir Shunthi Ale",
+  "subtitle": "A naturally carbonated probiotic ginger ale — real ginger, real fizz, no junk",
+  "category": "beverage",
+  "subcategory": "probiotic soda",
+  "technique": "culture",
+  "region": "Global / Modern",
+  "country": null,
+  "countryCode": null,
+  "culturalGroup": "Global fermentation community",
+  "difficulty": 1,
+  "tier": "beginner",
+  "tierLabel": "Grate, Squeeze, Seal",
+  "prepTime": "10 min",
+  "fermentTimeMin": 36,
+  "fermentTimeMax": 72,
+  "fermentTimeUnit": "hours",
+  "totalTimeHuman": "24–48 hours (1F) + 12–24 hours (2F)",
+  "blrNote": "Fresh ginger (shunti/adrak) available year-round at any market in Bengaluru for ₹10–20 for a large piece. This recipe cross-pollinates beautifully with the ginger bug starter — similar flavour profile, different fermentation technique. At BLR temps, the 2F builds strong carbonation in 12 hours.",
+  "seasonality": ["all"],
+  "ingredients": [
+    {
+      "name": "Finished water kefir (first ferment)",
+      "nameLocal": null,
+      "amount": 750,
+      "unit": "ml",
+      "unitMetric": "750ml",
+      "category": "liquid",
+      "essential": true,
+      "substitutions": [],
+      "localAvailability": {
+        "IN": {
+          "ease": "moderate",
+          "where": "Make at home using water kefir grains (see water-kefir-basic recipe)."
+        }
+      }
+    },
+    {
+      "name": "Fresh ginger root",
+      "nameLocal": "Shunti / Adrak",
+      "amount": 30,
+      "unit": "g",
+      "unitMetric": "30g (2-inch piece)",
+      "category": "spice",
+      "essential": true,
+      "substitutions": [
+        "Dry ginger powder (1 tsp) — less aromatic but works in a pinch"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any sabziwala, kirana store, or market — year-round, ₹10–20 for a generous piece"
+        }
+      }
+    },
+    {
+      "name": "Fresh lemon",
+      "nameLocal": "Nimbe / Nimbu",
+      "amount": 1,
+      "unit": "whole",
+      "unitMetric": "30ml juice",
+      "category": "fruit",
+      "essential": true,
+      "substitutions": [
+        "Lime (slightly more tart, equally good)",
+        "Skip for a pure ginger flavour"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any sabziwala or market — year-round"
+        }
+      }
+    },
+    {
+      "name": "Sugar or jaggery (2F fuel)",
+      "nameLocal": "Sakkare / Bella",
+      "amount": 1,
+      "unit": "tbsp",
+      "unitMetric": "15g",
+      "category": "sweetener",
+      "essential": false,
+      "substitutions": [
+        "Honey (adds its own flavour — use after 2F to avoid antimicrobial effects on cultures)",
+        "Skip if 1F water kefir still has residual sweetness"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana store"
+        }
+      }
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Glass jar (1L) for first ferment",
+      "essential": true,
+      "notes": "Wide-mouth jar for the base water kefir."
+    },
+    {
+      "name": "Plastic or nylon mesh strainer",
+      "essential": true,
+      "notes": "For straining grains after 1F and ginger bits after 2F."
+    },
+    {
+      "name": "Fine grater or microplane",
+      "essential": true,
+      "notes": "For grating fresh ginger finely — releases maximum flavour."
+    },
+    {
+      "name": "Swing-top glass bottles (500ml)",
+      "essential": true,
+      "notes": "For second fermentation. Must be pressure-rated glass."
+    },
+    {
+      "name": "Cloth cover + rubber band",
+      "essential": true,
+      "notes": "For covering the first ferment jar."
+    }
+  ],
+  "tldr": "Make base water kefir, strain the grains, add grated fresh ginger + lemon juice to a bottle, seal for 12–24h. Strain and serve cold — a real ginger ale with live probiotics and natural carbonation.",
+  "steps": [
+    {
+      "step": 1,
+      "title": "Make base water kefir (1F)",
+      "instruction": "Follow the water-kefir-basic recipe to make 750ml of first-ferment water kefir. Ferment for 24–48 hours. Strain the grains into fresh sugar water for their next batch. Reserve the grain-free water kefir liquid for the ginger ale.",
+      "duration": "24–48 hours",
+      "tips": [
+        "A slightly sweet 1F (24h) gives a rounder, more balanced ginger ale. A dry 1F (48h) gives a sharper, drier ginger beer style.",
+        "Use jaggery for the 1F — its molasses notes complement ginger beautifully.",
+        "See [[recipe:water-kefir-basic]] for the full first ferment technique."
+      ],
+      "checkpoint": "750ml of strained, grain-free water kefir liquid ready"
+    },
+    {
+      "step": 2,
+      "title": "Prepare ginger and lemon",
+      "instruction": "Peel and finely grate 30g of fresh ginger (a 2-inch piece). Squeeze the juice of 1 lemon (about 30ml). Optionally dissolve 1 tbsp sugar or jaggery in a splash of warm water for extra sweetness and carbonation fuel.",
+      "duration": "5 min",
+      "tips": [
+        "Finely grated ginger gives maximum surface area for flavour extraction. A microplane is ideal.",
+        "For extra ginger heat, don't peel the ginger — the skin adds a spicy edge.",
+        "The lemon brightens the ginger flavour and adds a citrus dimension. Don't skip it."
+      ],
+      "checkpoint": "Finely grated ginger and fresh lemon juice ready"
+    },
+    {
+      "step": 3,
+      "title": "Bottle for second ferment (2F)",
+      "instruction": "Divide the grated ginger and lemon juice between your swing-top bottles. Add the optional sugar water. Pour in the strained water kefir, leaving 3–4cm headspace. Seal the swing-top lids firmly. Place at room temperature away from sunlight.",
+      "duration": "3 min",
+      "tips": [
+        "Ginger is high in fermentable compounds — it helps build vigorous carbonation. Be ready for fizzy bottles.",
+        "Leave adequate headspace — CO₂ needs room. Overfilled bottles are dangerous.",
+        "Shake bottles gently after sealing to distribute the ginger."
+      ],
+      "checkpoint": "Sealed swing-top bottles with water kefir, ginger, and lemon"
+    },
+    {
+      "step": 4,
+      "title": "Ferment, strain, and serve",
+      "instruction": "Let the sealed bottles ferment at room temperature for 12–24 hours. Burp every 12 hours by briefly opening the cap. Once carbonation is to your liking, move to the fridge to chill for at least 1 hour. Open carefully over a sink, strain out the ginger bits, and serve ice-cold. Garnish with a lemon wheel.",
+      "duration": "12–24 hours + 1 hour chill",
+      "tips": [
+        "At BLR temps, 12 hours often gives strong carbonation. Check early — ginger really drives the fizz.",
+        "For a clear ginger ale, strain through a fine muslin cloth to remove all ginger fibres.",
+        "Keeps in the fridge for up to 5 days, slowly mellowing in ginger intensity and losing fizz."
+      ],
+      "checkpoint": "Fizzy, gingery, golden ale served ice-cold with a lemon garnish"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ginger_ale.jpg/1280px-Ginger_ale.jpg",
+      "caption": "Ginger ale — the water kefir version is naturally fermented with real ginger",
+      "attribution": "Evan Amos, Public Domain, via Wikimedia Commons",
+      "type": "hero",
+      "alt": "A glass of golden ginger ale with bubbles and a ginger root alongside"
+    }
+  ],
+  "culturalContext": {
+    "story": "Ginger ale has been brewed since the mid-1800s, originating in Ireland and spreading to North America. The original versions were far more intensely gingery than today's commercial brands, which are mostly sugar water with artificial flavouring. Water kefir ginger ale brings back the original spirit — real ginger, real fermentation, real flavour. In India, where ginger is a kitchen staple used in chai, cooking, and Ayurvedic medicine, this recipe feels immediately at home.",
+    "historicalNote": "Traditional ginger beer (the ancestor of ginger ale) was made with a 'ginger beer plant' — a symbiotic culture similar to kefir grains. The technique of fermenting ginger with a living culture is centuries old. Using water kefir grains is a modern revival of this ancient principle.",
+    "significance": "This recipe bridges two traditions: the water kefir grain culture from Mexico/Tibet and the ginger fermentation traditions of Britain, India, and the Caribbean. In Bengaluru, where fresh ginger is inexpensive and omnipresent, this is one of the easiest and most satisfying probiotic sodas to make.",
+    "relatedTraditions": [
+      "Ginger beer (Britain / Caribbean)",
+      "Ginger bug (wild-fermented ginger starter)",
+      "Adrak chai (Indian ginger tea)",
+      "Agua de Tibicos (Mexican water kefir)"
+    ],
+    "funFact": "The 'burn' you feel from fresh ginger is caused by gingerol — a compound that activates the same pain receptors (TRPV1) as capsaicin in chillies. When ginger is fermented, some gingerol converts to zingerone, which is sweeter and less pungent — this is why fermented ginger ale has a smoother heat than raw ginger juice."
+  },
+  "thingsToAccountFor": [
+    {
+      "title": "Ginger drives fast carbonation",
+      "description": "Fresh ginger contains natural yeasts and fermentable compounds that turbocharge the second ferment. In BLR heat, ginger ale bottles can build pressure in as little as 8–10 hours. Burp frequently and check early.",
+      "severity": "important",
+      "appliesTo": ["blr"]
+    },
+    {
+      "title": "Bottle pressure safety",
+      "description": "As with all second ferments, use proper swing-top bottles. Ginger ale builds more pressure than plain fruit sodas due to ginger's bioactive compounds. Always burp every 12 hours and open over a sink.",
+      "severity": "critical",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Ginger intensity varies",
+      "description": "Young, fresh ginger is milder and juicier. Older, more fibrous ginger is hotter and more pungent. Adjust the amount based on your ginger's age and your heat preference. Start with 20g if you're unsure.",
+      "severity": "info",
+      "appliesTo": ["all"]
+    }
+  ],
+  "dehydratorIntegration": {
+    "applicable": false,
+    "method": "Not applicable — this is a carbonated beverage. However, the ginger bits strained after 2F can be dehydrated into candied ginger chips.",
+    "result": "N/A",
+    "shelfLife": "N/A",
+    "tips": [
+      "Dehydrate strained ginger bits at 55°C for 6–8 hours for spicy probiotic ginger chips",
+      "Freeze the ginger ale into ice cubes for adding ginger-probiotic punch to cocktails or chai"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Turmeric-Ginger Ale",
+      "description": "Add 1 tsp grated fresh turmeric (or ½ tsp powder) along with the ginger. Golden colour, anti-inflammatory boost, earthy warmth. A Jamu-inspired twist from Indonesian tradition.",
+      "region": "Indonesia / Ayurvedic fusion"
+    },
+    {
+      "name": "Lemongrass-Ginger Ale",
+      "description": "Add 2 stalks of lemongrass (bruised and chopped) to the 2F along with ginger. Fragrant, citrusy, and Southeast Asian-inspired. Lemongrass grows easily in Bengaluru gardens.",
+      "region": "Southeast Asia / Fusion"
+    },
+    {
+      "name": "Ginger-Honey Switchel Style",
+      "description": "After 2F, stir in 1 tbsp raw honey and 1 tbsp apple cider vinegar. A probiotic take on switchel (haymaker's punch) — the old American farm drink for hydration and energy.",
+      "region": "Colonial America / Fusion"
+    }
+  ],
+  "relatedRecipes": [
+    "water-kefir-basic",
+    "ginger-bug-starter",
+    "water-kefir-lime-soda"
+  ],
+  "tags": [
+    "beginner",
+    "vegan",
+    "probiotic",
+    "kefir",
+    "water-kefir",
+    "ginger",
+    "soda",
+    "carbonated",
+    "second-ferment",
+    "dairy-free",
+    "year-round",
+    "refreshing",
+    "spicy"
+  ],
+  "dietaryFlags": [
+    "gluten-free",
+    "vegan"
+  ],
+  "veganAdaptable": true,
+  "containsAllergens": [],
+  "sources": [
+    {
+      "title": "Ginger ale — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ginger_ale",
+      "license": "CC BY-SA"
+    },
+    {
+      "title": "Tibicos — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tibicos",
+      "license": "CC BY-SA"
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=dqMY_gLH7O4",
+      "title": "How to Make Water Kefir — Ginger Ale Flavour",
+      "channel": "Cultures for Health",
+      "type": "youtube"
+    }
+  ],
+  "citations": []
+}

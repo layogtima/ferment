@@ -22,6 +22,14 @@
     { "id": "mold-vs-kahm-when-to-worry", "slug": "mold-vs-kahm-when-to-worry", "file": "mold-vs-kahm-when-to-worry.json" },
     { "id": "modern-fermentation-equipment", "slug": "modern-fermentation-equipment", "file": "modern-fermentation-equipment.json" },
     { "id": "scaling-fermentation-batches", "slug": "scaling-fermentation-batches", "file": "scaling-fermentation-batches.json" },
-    { "id": "storing-and-preserving-ferments", "slug": "storing-and-preserving-ferments", "file": "storing-and-preserving-ferments.json" }
+    { "id": "storing-and-preserving-ferments", "slug": "storing-and-preserving-ferments", "file": "storing-and-preserving-ferments.json" },
+    { "id": "what-is-kefir", "slug": "what-is-kefir", "file": "what-is-kefir.json" },
+    { "id": "milk-kefir-vs-water-kefir", "slug": "milk-kefir-vs-water-kefir", "file": "milk-kefir-vs-water-kefir.json" },
+    { "id": "kefir-grain-care", "slug": "kefir-grain-care", "file": "kefir-grain-care.json" },
+    { "id": "kefir-in-tropical-climates", "slug": "kefir-in-tropical-climates", "file": "kefir-in-tropical-climates.json" },
+    { "id": "health-benefits-of-kefir", "slug": "health-benefits-of-kefir", "file": "health-benefits-of-kefir.json" },
+    { "id": "troubleshooting-kefir", "slug": "troubleshooting-kefir", "file": "troubleshooting-kefir.json" },
+    { "id": "kefir-second-ferments", "slug": "kefir-second-ferments", "file": "kefir-second-ferments.json" },
+    { "id": "history-of-kefir", "slug": "history-of-kefir", "file": "history-of-kefir.json" }
   ]
 }

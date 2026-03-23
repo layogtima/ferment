@@ -67,10 +67,14 @@ const FilterPanelComponent = {
     categories() {
       return [
         { id: 'vegetable', label: 'Vegetables', emoji: '🥬' },
+        { id: 'dairy', label: 'Dairy', emoji: '🥛' },
+        { id: 'beverage', label: 'Beverages', emoji: '🍵' },
         { id: 'sauce', label: 'Sauces', emoji: '🫗' },
         { id: 'paste', label: 'Pastes', emoji: '🫙' },
         { id: 'condiment', label: 'Condiments', emoji: '🧂' },
-        { id: 'drink', label: 'Drinks', emoji: '🍵' },
+        { id: 'drink', label: 'Drinks', emoji: '🧃' },
+        { id: 'starter', label: 'Starters', emoji: '🦠' },
+        { id: 'grain', label: 'Grains', emoji: '🌾' },
         { id: 'powder', label: 'Powders', emoji: '✨' },
         { id: 'preserve', label: 'Preserves', emoji: '🍯' }
       ];
@@ -80,9 +84,11 @@ const FilterPanelComponent = {
       return [
         { id: 'brine', label: 'Brine', emoji: '💧' },
         { id: 'dry-salt', label: 'Dry Salt', emoji: '🧂' },
+        { id: 'culture', label: 'Culture', emoji: '🫧' },
         { id: 'paste', label: 'Paste', emoji: '🫗' },
         { id: 'mash', label: 'Mash', emoji: '🥄' },
         { id: 'dry-ferment', label: 'Dry Ferment', emoji: '🌬️' },
+        { id: 'wild-ferment', label: 'Wild Ferment', emoji: '🍃' },
         { id: 'mixed-culture', label: 'Mixed Culture', emoji: '🦠' }
       ];
     },

@@ -1,0 +1,269 @@
+{
+  "id": "kefir-fruit-soda",
+  "slug": "kefir-fruit-soda",
+  "name": "Kefir Fruit Soda",
+  "nameLocal": "ಕೆಫಿರ್ ಹಣ್ಣಿನ ಸೋಡಾ",
+  "nameRomanized": "Kefir Hannina Soda",
+  "subtitle": "Water kefir second-fermented with seasonal tropical fruits — endless flavour possibilities",
+  "category": "beverage",
+  "subcategory": "probiotic soda",
+  "technique": "culture",
+  "region": "Global / Modern",
+  "country": null,
+  "countryCode": null,
+  "culturalGroup": "Global fermentation community",
+  "difficulty": 1,
+  "tier": "beginner",
+  "tierLabel": "Just Add Fruit",
+  "prepTime": "10 min",
+  "fermentTimeMin": 36,
+  "fermentTimeMax": 72,
+  "fermentTimeUnit": "hours",
+  "totalTimeHuman": "24–48 hours (1F) + 12–24 hours (2F)",
+  "blrNote": "Seasonal fruit from KR Market or Hopcoms — guava (year-round), mango (Apr–Jun), pineapple (year-round), jamun (May–Jul), passion fruit (year-round from Nilgiris vendors). At BLR temps (25–28°C), 2F can be done in just 12 hours. Bengaluru's tropical fruit abundance makes this the most versatile recipe in the water kefir repertoire.",
+  "seasonality": ["all"],
+  "ingredients": [
+    {
+      "name": "Finished water kefir (first ferment)",
+      "nameLocal": null,
+      "amount": 750,
+      "unit": "ml",
+      "unitMetric": "750ml",
+      "category": "liquid",
+      "essential": true,
+      "substitutions": [],
+      "localAvailability": {
+        "IN": {
+          "ease": "moderate",
+          "where": "Make at home using water kefir grains (see water-kefir-basic recipe)."
+        }
+      }
+    },
+    {
+      "name": "Seasonal fruit (guava, mango, pineapple, jamun, passion fruit, or litchi)",
+      "nameLocal": "Hannu / Phal",
+      "amount": 100,
+      "unit": "g",
+      "unitMetric": "100g",
+      "category": "fruit",
+      "essential": true,
+      "substitutions": [
+        "Any ripe, sweet fruit — berries, peach, papaya, sapota (chikoo)",
+        "Fruit juice (50ml) as a quicker alternative to whole fruit",
+        "Frozen fruit (thawed) works well outside of season"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "KR Market, Hopcoms, any fruit vendor. Guava and pineapple are year-round. Mango Apr–Jun, jamun May–Jul, litchi May–Jun."
+        }
+      }
+    },
+    {
+      "name": "Sugar (optional 2F fuel)",
+      "nameLocal": "Sakkare / Cheeni",
+      "amount": 1,
+      "unit": "tsp",
+      "unitMetric": "5g",
+      "category": "sweetener",
+      "essential": false,
+      "substitutions": [
+        "Skip if fruit is very ripe and sweet — the fruit sugars provide enough fuel"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana store"
+        }
+      }
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Glass jar (1L) for first ferment",
+      "essential": true,
+      "notes": "Wide-mouth jar for the base water kefir."
+    },
+    {
+      "name": "Plastic or nylon mesh strainer",
+      "essential": true,
+      "notes": "For straining grains after 1F and fruit bits after 2F."
+    },
+    {
+      "name": "Swing-top glass bottles (500ml)",
+      "essential": true,
+      "notes": "For second fermentation. Must be pressure-rated glass — never use recycled jars."
+    },
+    {
+      "name": "Cloth cover + rubber band",
+      "essential": true,
+      "notes": "For covering the first ferment jar."
+    }
+  ],
+  "tldr": "Make base water kefir, strain the grains, add chopped or mashed seasonal fruit to a bottle, seal for 12–24 hours of second ferment. Strain out fruit bits and serve a fizzy, fruity probiotic soda.",
+  "steps": [
+    {
+      "step": 1,
+      "title": "Make base water kefir (1F)",
+      "instruction": "Follow the water-kefir-basic recipe to make 750ml of first-ferment water kefir. Ferment for 24–48 hours. Strain the grains and transfer them to fresh sugar water for the next batch. You now have grain-free water kefir liquid ready for flavouring.",
+      "duration": "24–48 hours",
+      "tips": [
+        "A 24-hour 1F with residual sweetness gives the fruit 2F more fuel and a sweeter final soda.",
+        "A 48-hour 1F is drier and tangier — better for very sweet fruits like mango or litchi.",
+        "See [[recipe:water-kefir-basic]] for the full first ferment technique."
+      ],
+      "checkpoint": "750ml of strained, grain-free water kefir liquid ready"
+    },
+    {
+      "step": 2,
+      "title": "Add fruit to bottles",
+      "instruction": "Chop, mash, or muddle 100g of your chosen seasonal fruit. Divide between swing-top bottles. For softer fruits (mango, passion fruit), mash lightly. For firmer fruits (guava, pineapple), chop into small pieces. Optionally add 1 tsp sugar per bottle.",
+      "duration": "5 min",
+      "tips": [
+        "Softer, riper fruit releases more sugar and flavour — use the ripest fruit you have.",
+        "Mashing or chopping increases surface area for better flavour extraction and faster carbonation.",
+        "Don't fill more than 15% of the bottle with fruit — too much creates excessive pressure."
+      ],
+      "checkpoint": "Bottles with chopped/mashed fruit at the bottom"
+    },
+    {
+      "step": 3,
+      "title": "Second ferment (2F)",
+      "instruction": "Pour the strained water kefir into the bottles over the fruit. Leave 3–4cm headspace. Seal the swing-top lids firmly. Place at room temperature away from sunlight for 12–24 hours. Burp bottles every 12 hours by briefly opening the cap to release pressure.",
+      "duration": "12–24 hours",
+      "tips": [
+        "At BLR temps (25–28°C), 12 hours is often enough for good carbonation. Check by burping — if you hear a strong hiss, it's ready.",
+        "High-sugar fruits (mango, litchi, grape) carbonate faster and build more pressure. Burp more frequently.",
+        "Keep bottles in a closed cupboard or box as a safety measure during 2F."
+      ],
+      "checkpoint": "Bottles hiss when burped, fruit has infused colour and flavour into the liquid"
+    },
+    {
+      "step": 4,
+      "title": "Strain fruit and serve",
+      "instruction": "Open bottles carefully over a sink (they may fizz vigorously). Strain out the fruit bits through a fine mesh strainer into glasses or a clean bottle. Chill in the fridge for at least an hour before serving. The cold stabilises carbonation and improves flavour.",
+      "duration": "2 min + 1 hour chill",
+      "tips": [
+        "The strained fruit bits are still edible — eat them as a probiotic snack or add to smoothies.",
+        "Different fruits give different colours: jamun gives deep purple, mango gives golden, guava gives pink, passion fruit gives yellow.",
+        "Keeps in the fridge for 3–5 days in a sealed bottle. Slowly loses fizz over time."
+      ],
+      "checkpoint": "Clear, colourful, fizzy fruit soda served ice-cold"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Water_kefir.jpg/1280px-Water_kefir.jpg",
+      "caption": "Fruit-flavoured water kefir soda — naturally carbonated with seasonal tropical fruits",
+      "attribution": "Ltshears, CC BY-SA 3.0, via Wikimedia Commons",
+      "type": "hero",
+      "alt": "Bottles of colourful fruit-infused water kefir soda"
+    }
+  ],
+  "culturalContext": {
+    "story": "The idea of flavouring fermented beverages with local fruit is ancient and universal. In Mexico, agua de tibicos was traditionally made with whatever fruit was in season — cactus fruit, lime, guava. In Bengaluru, with its year-round access to tropical fruits, the same principle applies: water kefir becomes a canvas for whatever the market has today.",
+    "historicalNote": "Second fermentation with fruit is a technique shared across many cultures: Belgian lambic beers use cherries (kriek) and raspberries (framboise), English ginger beer uses lemon, and Mexican tepache uses pineapple. The principle is universal — fruit sugar + sealed vessel = natural carbonation and flavour.",
+    "significance": "This is the most flexible recipe in the water kefir family. Once you master the basic technique, every trip to the fruit market becomes an opportunity for a new flavour. In Bengaluru, with KR Market's extraordinary variety of seasonal fruits, you could make a different soda every week for a year.",
+    "relatedTraditions": [
+      "Agua de Tibicos (Mexico — fruit water kefir)",
+      "Tepache (Mexico — fermented pineapple)",
+      "Kvass (Russia — fermented beetroot/bread)",
+      "Shrub (Colonial America — fruit vinegar soda)"
+    ],
+    "funFact": "Jamun (Java plum) makes one of the most striking water kefir sodas — deep purple, slightly astringent, and unmistakably Indian. It's available in Bengaluru markets for only 6–8 weeks a year (May–July), making jamun kefir soda a seasonal delicacy worth planning for."
+  },
+  "thingsToAccountFor": [
+    {
+      "title": "Fruit sugar varies wildly",
+      "description": "Different fruits have very different sugar contents. High-sugar fruits (mango, litchi, grape) build pressure much faster than low-sugar fruits (guava, lime). Adjust your 2F time accordingly — check high-sugar fruit sodas earlier.",
+      "severity": "important",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Bottle pressure safety",
+      "description": "As with all second ferments, use proper swing-top bottles and burp every 12 hours. In BLR heat, fruit sodas can build pressure very fast. When in doubt, 2F in the fridge — slower but safer.",
+      "severity": "critical",
+      "appliesTo": ["blr", "all"]
+    },
+    {
+      "title": "Fruit bits can clog bottle necks",
+      "description": "Chopped fruit can float up and block the bottle neck, creating uneven pressure. Use mashed or muddled fruit, or wrap chopped fruit in a small muslin bag for easy removal.",
+      "severity": "info",
+      "appliesTo": ["all"]
+    }
+  ],
+  "dehydratorIntegration": {
+    "applicable": false,
+    "method": "Not applicable — this is a carbonated beverage. However, the fruit bits strained after 2F can be dehydrated into probiotic fruit leather.",
+    "result": "N/A",
+    "shelfLife": "N/A",
+    "tips": [
+      "Dehydrate strained fruit bits at 45°C for 8–10 hours for probiotic fruit leather",
+      "Freeze the soda into popsicle moulds for fruity probiotic ice pops"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Guava-Chilli Soda",
+      "description": "Use ripe pink guava (100g mashed) with 1 small green chilli (slit). The heat from the chilli and the sweetness of the guava create a complex, spicy-sweet probiotic soda. Remove chilli after 12 hours.",
+      "region": "India / Mexican-inspired"
+    },
+    {
+      "name": "Pineapple-Ginger Soda",
+      "description": "Use 100g chopped pineapple with 1 tsp grated fresh ginger. Overlaps with tepache flavours but uses water kefir grains instead of wild ferment. Tropical and warming.",
+      "region": "Global / Tropical"
+    },
+    {
+      "name": "Jamun Soda",
+      "description": "Use 100g ripe jamun (java plum), lightly mashed. Produces a stunning deep purple soda with a tart, slightly astringent flavour. Seasonal May–July only. Add a pinch of black salt for a chaat-like twist.",
+      "region": "India / Seasonal"
+    }
+  ],
+  "relatedRecipes": [
+    "water-kefir-basic",
+    "water-kefir-lime-soda",
+    "tepache-pineapple"
+  ],
+  "tags": [
+    "beginner",
+    "vegan",
+    "probiotic",
+    "kefir",
+    "water-kefir",
+    "fruit",
+    "soda",
+    "carbonated",
+    "second-ferment",
+    "dairy-free",
+    "seasonal",
+    "tropical",
+    "refreshing"
+  ],
+  "dietaryFlags": [
+    "gluten-free",
+    "vegan"
+  ],
+  "veganAdaptable": true,
+  "containsAllergens": [],
+  "sources": [
+    {
+      "title": "Tibicos — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tibicos",
+      "license": "CC BY-SA"
+    },
+    {
+      "title": "Laureys, D. and De Vuyst, L. \"Microbial Species Diversity, Community Dynamics, and Metabolite Kinetics of Water Kefir Fermentation.\" Applied and Environmental Microbiology, 2014.",
+      "url": "https://doi.org/10.1128/AEM.01755-14",
+      "license": "Journal Article"
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=dqMY_gLH7O4",
+      "title": "How to Make Water Kefir — Flavouring with Fruit",
+      "channel": "Cultures for Health",
+      "type": "youtube"
+    }
+  ],
+  "citations": []
+}

@@ -1,0 +1,314 @@
+{
+  "id": "water-kefir-basic",
+  "slug": "water-kefir-basic",
+  "name": "Water Kefir",
+  "nameLocal": "ವಾಟರ್ ಕೆಫಿರ್",
+  "nameRomanized": "Water Kefir",
+  "subtitle": "A naturally fizzy probiotic soda — no dairy required",
+  "category": "beverage",
+  "subcategory": "probiotic soda",
+  "technique": "culture",
+  "region": "Americas",
+  "country": "Mexico",
+  "countryCode": "MX",
+  "culturalGroup": "Mexican / Tibetan",
+  "difficulty": 1,
+  "tier": "beginner",
+  "tierLabel": "Literally Just Add Sugar",
+  "prepTime": "10 min",
+  "fermentTimeMin": 24,
+  "fermentTimeMax": 48,
+  "fermentTimeUnit": "hours",
+  "totalTimeHuman": "24–48 hours",
+  "blrNote": "Water kefir loves BLR's warmth — expect vigorous fermentation in 24 hours. Use filtered water (Bengaluru's hard water can stress the grains). Jaggery (bella) makes an excellent sugar source and adds minerals the grains thrive on. Available at every kirana store.",
+  "seasonality": ["all"],
+  "ingredients": [
+    {
+      "name": "Water kefir grains (tibicos)",
+      "nameLocal": null,
+      "amount": 3,
+      "unit": "tbsp",
+      "unitMetric": "45g",
+      "category": "culture",
+      "essential": true,
+      "substitutions": [],
+      "localAvailability": {
+        "IN": {
+          "ease": "moderate",
+          "where": "Online fermentation communities, Instagram sellers, Facebook kefir groups. Less common than milk kefir grains in India."
+        }
+      }
+    },
+    {
+      "name": "Unrefined sugar or jaggery",
+      "nameLocal": "Bella / Gur",
+      "amount": 50,
+      "unit": "g",
+      "unitMetric": "50g",
+      "category": "sweetener",
+      "essential": true,
+      "substitutions": [
+        "White sugar (works but less minerals for grains)",
+        "Palm jaggery / Karupatti (rich in minerals, darker flavour)",
+        "Coconut sugar"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana store, supermarket. Jaggery is ubiquitous."
+        }
+      }
+    },
+    {
+      "name": "Filtered or mineral water",
+      "nameLocal": "Neeru",
+      "amount": 750,
+      "unit": "ml",
+      "unitMetric": "750ml",
+      "category": "liquid",
+      "essential": true,
+      "substitutions": [
+        "Boiled and cooled tap water (remove chlorine)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any RO filter at home, or use Bisleri/Kinley mineral water"
+        }
+      }
+    },
+    {
+      "name": "Lemon slice",
+      "nameLocal": "Nimbe",
+      "amount": 1,
+      "unit": "slice",
+      "unitMetric": "1 slice",
+      "category": "flavouring",
+      "essential": false,
+      "substitutions": [
+        "Lime slice",
+        "Skip entirely — optional mineral boost"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any sabziwala or market"
+        }
+      }
+    },
+    {
+      "name": "Dried fig or apricot",
+      "nameLocal": "Anjeer",
+      "amount": 1,
+      "unit": "piece",
+      "unitMetric": "1 piece",
+      "category": "flavouring",
+      "essential": false,
+      "substitutions": [
+        "Raisin (3–4 pieces)",
+        "Dried date",
+        "Skip entirely — optional mineral and nitrogen source"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any dry fruits shop or supermarket"
+        }
+      }
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Glass jar (1L)",
+      "essential": true,
+      "notes": "Wide-mouth preferred. Avoid plastic for fermentation — glass is inert."
+    },
+    {
+      "name": "Plastic or nylon mesh strainer",
+      "essential": true,
+      "notes": "Fine mesh to catch the small, translucent grains. Never use metal."
+    },
+    {
+      "name": "Cloth or paper towel + rubber band",
+      "essential": true,
+      "notes": "For covering during first ferment. Needs airflow."
+    },
+    {
+      "name": "Swing-top bottle (for optional 2F)",
+      "essential": false,
+      "notes": "For second fermentation with added flavours and carbonation."
+    }
+  ],
+  "tldr": "Dissolve sugar in water, add water kefir grains, wait 24–48h, strain. You get a lightly fizzy, mildly sweet probiotic drink. The grains go into fresh sugar water.",
+  "steps": [
+    {
+      "step": 1,
+      "title": "Dissolve the sugar",
+      "instruction": "Dissolve 50g of jaggery or unrefined sugar in 200ml of warm water. Stir until fully dissolved. Top up with the remaining 550ml of cool filtered water so the final mixture is at room temperature. The water should not be warm when you add the grains.",
+      "duration": "5 min",
+      "tips": [
+        "Never add grains to warm or hot water — it kills them. The dissolved sugar water must be room temperature or cooler.",
+        "Jaggery gives the grains extra minerals (calcium, iron, magnesium) that they need. It's the best sugar source in India.",
+        "If using white sugar, add a tiny pinch of baking soda or a drop of mineral water for trace minerals."
+      ],
+      "checkpoint": "Clear to amber sugar water at room temperature"
+    },
+    {
+      "step": 2,
+      "title": "Add grains and extras",
+      "instruction": "Pour the sugar water into a clean glass jar. Add the water kefir grains. Optionally add a slice of lemon and a dried fig — these provide minerals and nitrogen that help the grains thrive. Cover with cloth and a rubber band.",
+      "duration": "3 min",
+      "tips": [
+        "The lemon provides citric acid, which the grains like. The dried fruit provides nitrogen and minerals.",
+        "Don't overfill the jar — leave 5cm of headspace for CO₂ production.",
+        "Water kefir grains are small and translucent, like tiny crystals — very different from milk kefir grains."
+      ],
+      "checkpoint": "Grains and extras floating in sugar water, jar covered with cloth"
+    },
+    {
+      "step": 3,
+      "title": "Ferment",
+      "instruction": "Place the jar in a warm spot away from direct sunlight. In Bengaluru, room temperature is perfect. Ferment for 24–48 hours. You'll see tiny bubbles forming — that's carbonation. Taste at 24 hours: it should be mildly sweet and slightly tangy. The longer you go, the less sweet and more sour it becomes.",
+      "duration": "24–48 hours",
+      "tips": [
+        "At BLR's 25–28°C, 24 hours usually produces a nicely balanced drink. 48 hours will be quite dry and tart.",
+        "If it's very hot (30°C+), check at 18 hours. Over-fermented water kefir tastes like vinegar.",
+        "A few bubbles clinging to the grains and sides of the jar means fermentation is active."
+      ],
+      "checkpoint": "Lightly fizzy, mildly sweet-tart liquid. Less sweet than the starting sugar water."
+    },
+    {
+      "step": 4,
+      "title": "Strain and serve",
+      "instruction": "Remove the lemon slice and dried fruit (discard them). Strain the water kefir through a plastic strainer into a clean bottle or jar. The grains go back into fresh sugar water for the next batch. Drink the water kefir immediately, or bottle it for a second ferment with fruit.",
+      "duration": "5 min",
+      "tips": [
+        "Water kefir is ready to drink now — it's a light, refreshing probiotic soda. Chill it first for the best experience.",
+        "For more carbonation, do a second ferment: bottle the strained kefir with a little fruit juice, seal tightly, and leave for 12–24 hours. See the [[recipe:water-kefir-lime-soda]] recipe.",
+        "Grains should look plump and translucent. If they're shrinking, add more minerals (switch from white sugar to jaggery)."
+      ],
+      "checkpoint": "Clear, bubbly probiotic water in a bottle. Grains transferred to fresh sugar water."
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Water_kefir_grains.jpg/1280px-Water_kefir_grains.jpg",
+      "caption": "Water kefir grains — translucent crystal-like tibicos",
+      "attribution": "Supplied, CC BY-SA 4.0, via Wikimedia Commons",
+      "type": "hero",
+      "alt": "Translucent water kefir grains (tibicos) in a glass jar"
+    }
+  ],
+  "culturalContext": {
+    "story": "Water kefir grains — also called tibicos, tibi, or Japanese water crystals — are thought to originate from the Opuntia (prickly pear) cactus pads in Mexico, where they were found growing naturally on the sugary surface. They were traditionally fermented with piloncillo (unrefined cane sugar) and agua fresca fruits. The grains spread to Tibet, Japan, and eventually worldwide.",
+    "historicalNote": "Unlike milk kefir grains, which have a single well-documented origin in the Caucasus, water kefir grains have been independently discovered in multiple cultures — Mexico, Tibet, and the Caucasus. This suggests they may form spontaneously in certain sugar-rich environments.",
+    "significance": "Water kefir is the gateway to dairy-free probiotic fermentation. It's vegan, endlessly customisable, and produces a naturally carbonated drink that can replace commercial sodas. In tropical climates like Bengaluru's, it's an ideal probiotic because it ferments fast and is refreshing cold.",
+    "relatedTraditions": [
+      "Tepache (Mexico — fermented pineapple)",
+      "Ginger bug (wild-fermented ginger starter)",
+      "Jun tea (green tea + honey ferment)",
+      "Kombucha (tea + sugar ferment)"
+    ],
+    "funFact": "Water kefir grains are made of dextran — a polysaccharide produced by Lactobacillus brevis. Unlike gelatin or pectin, dextran is produced by the bacteria themselves, making the grains a self-building home for their microbial community."
+  },
+  "thingsToAccountFor": [
+    {
+      "title": "Bengaluru water hardness",
+      "description": "Bengaluru's water is moderately hard (high TDS). While some minerals are good for the grains, excessive chlorine or chloramine in tap water can damage them. Use RO-filtered water or boil and cool tap water first.",
+      "severity": "important",
+      "appliesTo": ["blr"]
+    },
+    {
+      "title": "Don't use honey",
+      "description": "Raw honey has antimicrobial properties that can damage water kefir grains. Stick to sugar, jaggery, or coconut sugar.",
+      "severity": "warning",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Bottle bombs during 2F",
+      "description": "Second fermentation in sealed bottles builds significant pressure. Use proper swing-top bottles (not recycled glass jars). Burp bottles every 12 hours. In BLR heat, carbonation builds fast — keep 2F bottles in the fridge if you're nervous.",
+      "severity": "critical",
+      "appliesTo": ["blr"]
+    },
+    {
+      "title": "Grains not growing",
+      "description": "If grains are shrinking or not multiplying, they need more minerals. Switch from white sugar to jaggery, add a pinch of sea salt, or add a clean eggshell (rinsed, boiled) to the jar for calcium.",
+      "severity": "info",
+      "appliesTo": ["all"]
+    }
+  ],
+  "dehydratorIntegration": {
+    "applicable": false,
+    "method": "Water kefir grains are living cultures — do not dehydrate. The liquid can be frozen into ice pops.",
+    "result": "N/A",
+    "shelfLife": "N/A",
+    "tips": [
+      "Freeze water kefir into popsicle moulds with fresh fruit for a probiotic summer treat",
+      "Backup grains by freezing in a small amount of sugar water in a zip-lock bag"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Jaggery Water Kefir",
+      "description": "Replace white sugar with an equal amount of jaggery (bella). Produces a deeper, molasses-like flavour and gives grains extra minerals. A natural Indian adaptation.",
+      "region": "India / Adaptation"
+    },
+    {
+      "name": "Coconut Sugar Water Kefir",
+      "description": "Use coconut sugar for a caramel-noted base. Slightly lower mineral content than jaggery but a milder, more universally appealing flavour.",
+      "region": "SE Asia / Adaptation"
+    },
+    {
+      "name": "Agua de Tibicos (Traditional Mexican)",
+      "description": "Ferment with piloncillo (Mexican unrefined sugar), a slice of lime, and a few prickly pear pieces. The original preparation from the Opuntia cactus tradition.",
+      "region": "Mexico"
+    }
+  ],
+  "relatedRecipes": [
+    "milk-kefir-basic",
+    "water-kefir-lime-soda",
+    "water-kefir-ginger-ale",
+    "kefir-fruit-soda",
+    "coconut-water-kefir",
+    "tepache-pineapple",
+    "ginger-bug-starter"
+  ],
+  "tags": [
+    "beginner",
+    "vegan",
+    "probiotic",
+    "kefir",
+    "water-kefir",
+    "soda",
+    "dairy-free",
+    "year-round",
+    "refreshing"
+  ],
+  "dietaryFlags": [
+    "gluten-free",
+    "vegan"
+  ],
+  "veganAdaptable": true,
+  "containsAllergens": [],
+  "sources": [
+    {
+      "title": "Tibicos — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tibicos",
+      "license": "CC BY-SA"
+    },
+    {
+      "title": "Laureys, D. and De Vuyst, L. \"Microbial Species Diversity, Community Dynamics, and Metabolite Kinetics of Water Kefir Fermentation.\" Applied and Environmental Microbiology, 2014.",
+      "url": "https://doi.org/10.1128/AEM.01755-14",
+      "license": "Journal Article"
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=dqMY_gLH7O4",
+      "title": "How to Make Water Kefir",
+      "channel": "Cultures for Health",
+      "type": "youtube"
+    }
+  ],
+  "citations": []
+}

@@ -1,0 +1,298 @@
+{
+  "id": "water-kefir-lime-soda",
+  "slug": "water-kefir-lime-soda",
+  "name": "Water Kefir Lime Soda",
+  "nameLocal": "ವಾಟರ್ ಕೆಫಿರ್ ಲೈಮ್ ಸೋಡಾ",
+  "nameRomanized": "Water Kefir Lime Soda",
+  "subtitle": "A naturally carbonated probiotic lime soda — like healthy nimbu pani with fizz",
+  "category": "beverage",
+  "subcategory": "probiotic soda",
+  "technique": "culture",
+  "region": "Latin America-inspired",
+  "country": "Mexico",
+  "countryCode": "MX",
+  "culturalGroup": "Latin American / Global",
+  "difficulty": 2,
+  "tier": "seasoned",
+  "tierLabel": "Second Ferment Territory",
+  "prepTime": "10 min",
+  "fermentTimeMin": 36,
+  "fermentTimeMax": 72,
+  "fermentTimeUnit": "hours",
+  "totalTimeHuman": "24–48 hours (1F) + 12–24 hours (2F)",
+  "blrNote": "Limes and pudina (mint) available year-round at any sabziwala in Bengaluru. In BLR heat, the second ferment builds pressure FAST — burp bottles every 12 hours or keep in the fridge. Use proper swing-top bottles only — never use recycled glass jars or thin bottles. The heat can turn this into a fizz bomb if you're not careful.",
+  "seasonality": ["all"],
+  "ingredients": [
+    {
+      "name": "Finished water kefir (first ferment)",
+      "nameLocal": null,
+      "amount": 750,
+      "unit": "ml",
+      "unitMetric": "750ml",
+      "category": "liquid",
+      "essential": true,
+      "substitutions": [],
+      "localAvailability": {
+        "IN": {
+          "ease": "moderate",
+          "where": "Make at home using water kefir grains (see water-kefir-basic recipe)."
+        }
+      }
+    },
+    {
+      "name": "Fresh limes",
+      "nameLocal": "Nimbe / Nimbu",
+      "amount": 2,
+      "unit": "whole",
+      "unitMetric": "60ml juice",
+      "category": "fruit",
+      "essential": true,
+      "substitutions": [
+        "Lemons (milder, less tart)",
+        "Gondhoraj lime (Bengal lime — intensely fragrant)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any sabziwala, market, or supermarket — year-round"
+        }
+      }
+    },
+    {
+      "name": "Fresh mint leaves",
+      "nameLocal": "Pudina",
+      "amount": 8,
+      "unit": "leaves",
+      "unitMetric": "8 leaves",
+      "category": "herb",
+      "essential": false,
+      "substitutions": [
+        "Tulsi (holy basil) leaves — herbal, peppery",
+        "Skip for a simpler lime soda"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any vegetable vendor or grow your own — pudina grows aggressively in BLR"
+        }
+      }
+    },
+    {
+      "name": "Sugar or jaggery (for 2F fuel)",
+      "nameLocal": "Sakkare / Bella",
+      "amount": 1,
+      "unit": "tsp",
+      "unitMetric": "5g",
+      "category": "sweetener",
+      "essential": false,
+      "substitutions": [
+        "Skip if water kefir still has residual sweetness"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana store"
+        }
+      }
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Glass jar (1L) for first ferment",
+      "essential": true,
+      "notes": "Wide-mouth jar for the base water kefir ferment."
+    },
+    {
+      "name": "Plastic or nylon mesh strainer",
+      "essential": true,
+      "notes": "For straining out the water kefir grains after first ferment."
+    },
+    {
+      "name": "Swing-top glass bottles (500ml)",
+      "essential": true,
+      "notes": "CRITICAL: Use proper swing-top (Grolsch-style) bottles rated for pressure. Never use recycled jars or thin glass — they can explode."
+    },
+    {
+      "name": "Cloth cover + rubber band",
+      "essential": true,
+      "notes": "For the first ferment jar cover."
+    }
+  ],
+  "tldr": "Make a base water kefir (1F), strain the grains, add fresh lime juice + mint to the bottle, seal for a second ferment (12–24h). The result: a naturally carbonated, fizzy, probiotic lime soda.",
+  "steps": [
+    {
+      "step": 1,
+      "title": "Make the base water kefir (1F)",
+      "instruction": "Follow the water-kefir-basic recipe to make 750ml of first-ferment water kefir. Dissolve 50g jaggery or sugar in warm water, cool, add water kefir grains, and ferment for 24–48 hours under a cloth cover. The base should taste mildly sweet-tart and lightly fizzy.",
+      "duration": "24–48 hours",
+      "tips": [
+        "A slightly sweeter 1F (24h) gives the 2F more fuel for carbonation. A drier 1F (48h) will be less fizzy but tangier.",
+        "See the [[recipe:water-kefir-basic]] recipe for full details on first ferment technique.",
+        "Use jaggery for extra minerals and a richer flavour base for the lime soda."
+      ],
+      "checkpoint": "Mildly sweet-tart, lightly bubbly base water kefir ready"
+    },
+    {
+      "step": 2,
+      "title": "Strain the grains",
+      "instruction": "Strain the first-ferment water kefir through a plastic strainer into a clean jug or bowl. Transfer the grains to fresh sugar water for their next batch. You now have 750ml of grain-free water kefir liquid.",
+      "duration": "3 min",
+      "tips": [
+        "Always remove grains before second ferment — the pressure and acidity of 2F can damage them.",
+        "Be gentle with the grains — they're living organisms.",
+        "The strained liquid should be clear to slightly amber, depending on the sugar used."
+      ],
+      "checkpoint": "Clear water kefir liquid in a jug, grains safely in fresh sugar water"
+    },
+    {
+      "step": 3,
+      "title": "Add lime and mint to bottles",
+      "instruction": "Juice 2 fresh limes (about 60ml juice). Divide the lime juice and mint leaves between your swing-top bottles. Optionally add 1 tsp sugar per bottle for extra carbonation fuel. Pour in the strained water kefir, leaving 3–4cm headspace at the top.",
+      "duration": "5 min",
+      "tips": [
+        "Leave adequate headspace — CO₂ needs room. Overfilled bottles are more likely to explode.",
+        "Lightly bruise the mint leaves before adding — this releases more essential oils.",
+        "Strain the lime juice to remove seeds and pulp, which can create nucleation points for excessive fizz."
+      ],
+      "checkpoint": "Swing-top bottles filled with water kefir, lime juice, and mint — headspace left"
+    },
+    {
+      "step": 4,
+      "title": "Second ferment (2F) — seal and carbonate",
+      "instruction": "Seal the swing-top bottles firmly. Place at room temperature away from direct sunlight. In Bengaluru, 12–24 hours is sufficient for strong carbonation. Burp the bottles every 12 hours by briefly opening the swing-top to release excess pressure, then resealing.",
+      "duration": "12–24 hours",
+      "tips": [
+        "CRITICAL: In BLR heat (25–30°C), pressure builds fast. Always burp every 12 hours. If you hear intense hissing when you open, it's time to move to the fridge.",
+        "Open bottles over a sink — well-carbonated water kefir soda can geyser when opened.",
+        "Keep a towel over the bottle when opening for the first time, just in case."
+      ],
+      "checkpoint": "Audible hiss when burped, visible carbonation bubbles rushing to the surface"
+    },
+    {
+      "step": 5,
+      "title": "Chill and serve",
+      "instruction": "Once carbonation is to your liking, move bottles to the fridge. Cold temperatures halt fermentation and stabilise the carbonation. Serve ice-cold, straining out the mint leaves if desired. Garnish with a fresh lime wheel and mint sprig.",
+      "duration": "2 hours (chill) + 2 min (serve)",
+      "tips": [
+        "Cold carbonated water kefir lime soda is addictively refreshing — a genuine replacement for commercial sodas.",
+        "The lime flavour develops over 24 hours in the fridge — day-two soda often tastes even better.",
+        "Keeps in the fridge for up to 5 days, slowly losing carbonation over time."
+      ],
+      "checkpoint": "Fizzy, tangy, refreshing lime soda served ice-cold"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Lime_Juice_%284811832943%29.jpg/1280px-Lime_Juice_%284811832943%29.jpg",
+      "caption": "Fizzy lime soda — the water kefir version is naturally carbonated and probiotic",
+      "attribution": "Christian Kadluba, CC BY-SA 2.0, via Wikimedia Commons",
+      "type": "hero",
+      "alt": "A glass of fizzy lime soda with fresh lime wedges and mint"
+    }
+  ],
+  "culturalContext": {
+    "story": "The concept of second-fermenting water kefir with citrus draws from Latin American traditions of Agua de Tibicos — the original water kefir drink from Mexico, often flavoured with lime and piloncillo. In India, nimbu pani (lime water) is the universal summer cooler. This recipe bridges both worlds — a probiotic, naturally fizzy nimbu pani made with living cultures instead of artificial carbonation.",
+    "historicalNote": "Second fermentation — the technique of adding flavourings and sealing in a bottle to build carbonation — is shared across many fermentation traditions: champagne, kombucha, ginger beer, and water kefir. The principle is the same everywhere: residual sugars + sealed container = natural CO₂.",
+    "significance": "This recipe represents the leap from basic fermentation to flavour crafting. The second ferment is where water kefir becomes truly exciting — you can create any flavour of probiotic soda you can imagine. Lime is the gateway flavour that teaches you pressure management and flavour balance.",
+    "relatedTraditions": [
+      "Nimbu pani / Lime soda (India)",
+      "Agua de Tibicos (Mexico)",
+      "Limonada (Latin America)",
+      "Ginger beer (Caribbean — similar 2F technique)"
+    ],
+    "funFact": "The CO₂ in naturally fermented sodas dissolves more uniformly into the liquid than force-carbonated drinks. This creates smaller, finer bubbles — which is why fermented sodas feel 'silkier' and less 'bitey' than commercial sparkling water."
+  },
+  "thingsToAccountFor": [
+    {
+      "title": "Bottle pressure and safety",
+      "description": "Second fermentation in sealed bottles creates real pressure. In BLR's heat, pressure builds dangerously fast. ALWAYS use proper swing-top glass bottles rated for pressure. NEVER use recycled jars, thin glass, or plastic bottles. Burp every 12 hours. Keep bottles in a closed cupboard or box as a safety measure.",
+      "severity": "critical",
+      "appliesTo": ["blr", "all"]
+    },
+    {
+      "title": "Use real glass swing-top bottles",
+      "description": "Grolsch-style swing-top bottles with rubber gaskets are designed for pressure. They're available online (Amazon, UrbanPot) or at homebrew supply shops. Invest in proper bottles before attempting any second fermentation.",
+      "severity": "critical",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Lime acidity and flavour balance",
+      "description": "Lime juice adds acidity that intensifies during 2F. Start with 2 limes per 750ml and adjust in future batches. Too much lime can make the soda harshly sour.",
+      "severity": "info",
+      "appliesTo": ["all"]
+    }
+  ],
+  "dehydratorIntegration": {
+    "applicable": false,
+    "method": "Not applicable — this is a carbonated beverage that cannot be dehydrated.",
+    "result": "N/A",
+    "shelfLife": "N/A",
+    "tips": [
+      "Freeze into ice cubes for a probiotic lime ice addition to drinks",
+      "Freeze into popsicle moulds with extra mint for lime soda ice pops"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Jaljeera Water Kefir Soda",
+      "description": "Add 1 tsp jaljeera masala to the second ferment instead of mint. A spicy, cumin-forward probiotic soda that tastes like street-style jaljeera with a fizzy kick.",
+      "region": "North India / Fusion"
+    },
+    {
+      "name": "Kokum Lime Kefir Soda",
+      "description": "Add 2–3 pieces of wet kokum (amsul) along with lime juice during 2F. The kokum adds a deep purple colour and a tart, fruity complexity. A Konkan coast twist.",
+      "region": "Coastal Karnataka / Konkan"
+    },
+    {
+      "name": "Raw Mango (Kairi) Kefir Soda",
+      "description": "Replace lime with grated raw green mango (kairi) and a pinch of rock salt. Seasonal (March–May) and explosively tangy. Like aam panna meets probiotic soda.",
+      "region": "Pan-Indian / Seasonal"
+    }
+  ],
+  "relatedRecipes": [
+    "water-kefir-basic",
+    "water-kefir-ginger-ale",
+    "kefir-fruit-soda"
+  ],
+  "tags": [
+    "seasoned",
+    "probiotic",
+    "kefir",
+    "water-kefir",
+    "soda",
+    "lime",
+    "carbonated",
+    "second-ferment",
+    "dairy-free",
+    "vegan",
+    "year-round",
+    "refreshing"
+  ],
+  "dietaryFlags": [
+    "gluten-free",
+    "vegan"
+  ],
+  "veganAdaptable": true,
+  "containsAllergens": [],
+  "sources": [
+    {
+      "title": "Tibicos — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tibicos",
+      "license": "CC BY-SA"
+    },
+    {
+      "title": "Second Fermentation — The Fermentation Association",
+      "url": "https://fermentation.org/second-fermentation/",
+      "license": "Fair Use"
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=dqMY_gLH7O4",
+      "title": "How to Make Water Kefir — Second Ferment",
+      "channel": "Cultures for Health",
+      "type": "youtube"
+    }
+  ],
+  "citations": []
+}

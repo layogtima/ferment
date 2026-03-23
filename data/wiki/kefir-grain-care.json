@@ -1,0 +1,198 @@
+{
+  "id": "kefir-grain-care",
+  "slug": "kefir-grain-care",
+  "title": "Kefir Grain Care & Maintenance",
+  "subtitle": "How to keep your grains happy, growing, and fermenting for years",
+  "lastUpdated": "2026-03-23",
+  "tableOfContents": true,
+  "sections": [
+    {
+      "id": "intro",
+      "type": "paragraph",
+      "content": "Kefir grains are living organisms — a symbiotic community of bacteria and yeast held together in a polysaccharide matrix — and like any living thing, they need consistent care to thrive [cite:c1]. The good news is that kefir grains are remarkably resilient. With a basic daily routine, they will ferment reliably for years, even decades, growing steadily and producing delicious kefir batch after batch. This guide covers everything you need to know about keeping your grains healthy, from daily feeding to long-term storage and troubleshooting."
+    },
+    {
+      "id": "daily-care",
+      "type": "heading",
+      "level": 2,
+      "content": "Daily Care"
+    },
+    {
+      "id": "daily-care-text",
+      "type": "paragraph",
+      "content": "The daily routine for milk kefir grains is beautifully simple: strain, pour fresh milk, wait. Every 12–24 hours (depending on temperature and your taste preference), strain the finished kefir through a plastic or nylon mesh strainer into a clean jar. The grains stay in the strainer. Place the grains into a fresh jar with new milk, cover loosely (a cloth secured with a rubber band works perfectly), and leave at room temperature. That's it. For water kefir grains, the process is similar but the cycle is typically 24–48 hours: strain the grains from the finished water kefir, dissolve fresh sugar in water, let it cool, add the grains, and cover [[recipe:water-kefir-basic]]."
+    },
+    {
+      "id": "grain-to-milk-ratio",
+      "type": "heading",
+      "level": 2,
+      "content": "The Grain-to-Milk Ratio"
+    },
+    {
+      "id": "grain-to-milk-text",
+      "type": "paragraph",
+      "content": "The ratio of grains to milk is the single most important variable in kefir making. Too many grains and the kefir over-ferments quickly, becoming excessively sour and separating into curds and whey. Too few and it under-ferments, staying thin and sweet [cite:c2]. Adjust the ratio based on your climate and taste preference."
+    },
+    {
+      "id": "grain-ratio-table",
+      "type": "table",
+      "caption": "Recommended grain-to-milk ratios by climate",
+      "headers": ["Climate / Temp", "Grain Ratio", "Expected Ferment Time", "Result"],
+      "rows": [
+        ["Cool (15–18 °C)", "1 Tbsp grains : 2 cups milk", "24–36 hours", "Mild, creamy kefir"],
+        ["Moderate (18–22 °C)", "1 Tbsp grains : 2–3 cups milk", "18–24 hours", "Classic tangy kefir"],
+        ["Warm (22–26 °C)", "1 Tbsp grains : 3–4 cups milk", "12–18 hours", "Tangy, slightly tart"],
+        ["Hot / BLR summer (26–30 °C)", "1 Tbsp grains : 4–5 cups milk", "8–12 hours", "Watch closely — can over-ferment fast"]
+      ]
+    },
+    {
+      "id": "temperature-management",
+      "type": "heading",
+      "level": 2,
+      "content": "Temperature Management"
+    },
+    {
+      "id": "temperature-text",
+      "type": "paragraph",
+      "content": "Kefir grains prefer 18–24 °C for a balanced fermentation that produces good flavour without excessive sourness. Below 15 °C, fermentation slows dramatically. Above 28 °C, the yeast component becomes overactive, the bacteria-to-yeast balance shifts, and off-flavours can develop. Temperature management is therefore one of the most important aspects of grain care, especially in warmer climates [[article:temperature-and-fermentation]]."
+    },
+    {
+      "id": "tropical-callout",
+      "type": "callout",
+      "style": "tip",
+      "title": "BLR Fermenters — Tropical Heat Strategy",
+      "content": "Bengaluru's year-round temperatures of 22–30 °C mean your kefir will ferment faster than recipes written for European or North American kitchens suggest. In summer months (April–May), consider fermenting in the fridge (slower but controllable), reducing your grain ratio, or fermenting for shorter periods. See [[article:kefir-in-tropical-climates]] for a month-by-month Bengaluru guide."
+    },
+    {
+      "id": "going-on-holiday",
+      "type": "heading",
+      "level": 2,
+      "content": "Going on Holiday"
+    },
+    {
+      "id": "holiday-text",
+      "type": "paragraph",
+      "content": "Life doesn't always allow daily grain feeding, and that's fine. Kefir grains are hardy and can survive periods of dormancy. You have three main options for storing grains when you can't tend to them."
+    },
+    {
+      "id": "holiday-list",
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "**Fridge storage (1–3 weeks)**: Place grains in fresh milk (generous amount — at least 3 cups per tablespoon of grains) and refrigerate. The cold slows fermentation dramatically. Change the milk weekly if storing longer than a week.",
+        "**Freezing (1–6 months)**: Rinse grains gently in filtered water, pat dry, place in a small zip-lock bag with a little dry milk powder, and freeze. Grains may take 2–3 batches to fully reactivate after thawing.",
+        "**Dehydrating (6–12+ months)**: Rinse grains, pat dry on a clean cloth or parchment paper, and leave in a cool, dry spot for 3–5 days until completely hard and dry. Store in a sealed bag in the fridge. Rehydration takes 5–7 days of daily milk changes."
+      ]
+    },
+    {
+      "id": "reviving-dormant",
+      "type": "heading",
+      "level": 2,
+      "content": "Reviving Dormant Grains"
+    },
+    {
+      "id": "reviving-text",
+      "type": "paragraph",
+      "content": "Whether your grains have been in the fridge, freezer, or dehydrated, the revival process follows the same principle: patient, repeated feeding with fresh milk until the grains regain their full vigour."
+    },
+    {
+      "id": "reviving-list",
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Place grains in a small amount of fresh milk (1 cup per tablespoon of grains) at room temperature.",
+        "After 24 hours, strain and discard the milk (it may smell off or taste flat — this is normal during reactivation).",
+        "Add fresh milk and repeat. Do this for 3–7 days.",
+        "When the kefir starts tasting tangy and slightly sour within 24 hours, the grains have fully reactivated.",
+        "If grains were dehydrated, the first batch or two may take 48 hours. Be patient — they almost always come back."
+      ]
+    },
+    {
+      "id": "multiplying-grains",
+      "type": "heading",
+      "level": 2,
+      "content": "Multiplying Grains"
+    },
+    {
+      "id": "multiplying-text",
+      "type": "paragraph",
+      "content": "Healthy, well-fed kefir grains grow continuously, typically doubling in mass every 1–3 weeks depending on temperature, milk quality, and grain health [cite:c1]. This growth is a sign that everything is working well. In Bengaluru's warm climate, grains often grow faster than in cooler regions, and you may find yourself with an excess within a month or two of starting."
+    },
+    {
+      "id": "extra-grains",
+      "type": "heading",
+      "level": 2,
+      "content": "What to Do with Extra Grains"
+    },
+    {
+      "id": "extra-grains-list",
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "**Share them**: The traditional way. Kefir grains have been gifted, never sold, for centuries. Post in a local Bengaluru fermentation group and someone will be grateful to receive them.",
+        "**Eat them**: Kefir grains are edible and nutritious. They have a slightly chewy, mildly sour texture. Blend them into smoothies for an extra probiotic boost.",
+        "**Feed your pets**: Dogs enjoy kefir grains and benefit from the probiotics. Start with small amounts.",
+        "**Compost them**: They make excellent compost additions, enriching the microbial life of your soil.",
+        "**Blend into smoothies**: Add a tablespoon of extra grains to your morning smoothie for a probiotic-dense addition."
+      ]
+    },
+    {
+      "id": "healthy-vs-unhealthy",
+      "type": "heading",
+      "level": 2,
+      "content": "Signs of Healthy vs Unhealthy Grains"
+    },
+    {
+      "id": "healthy-table",
+      "type": "table",
+      "caption": "How to tell if your grains are thriving or struggling",
+      "headers": ["Indicator", "Healthy Grains", "Unhealthy / Stressed Grains"],
+      "rows": [
+        ["Appearance", "Plump, white to pale cream, cauliflower-like clusters", "Slimy, discoloured (brown/pink), mushy or flat"],
+        ["Smell", "Clean, slightly yeasty, pleasantly sour", "Rotten, putrid, or strongly cheesy"],
+        ["Growth", "Steadily increasing in mass", "Stagnant or shrinking"],
+        ["Kefir produced", "Thick, tangy, consistent batch to batch", "Thin, watery, inconsistent, or doesn't ferment"],
+        ["Texture", "Firm, rubbery, bouncy when squeezed", "Mushy, crumbly, falling apart"],
+        ["Ferment time", "Predictable — same time each day", "Erratic — varies wildly between batches"]
+      ]
+    },
+    {
+      "id": "metal-warning",
+      "type": "callout",
+      "style": "warning",
+      "title": "Avoid Metal Contact",
+      "content": "Kefir grains should not come into prolonged contact with reactive metals. Use plastic, nylon, or silicone strainers and stainless steel or glass jars. Aluminium, copper, and iron can react with the acidic kefir and potentially harm the grain culture. A brief touch with a stainless steel spoon is fine, but don't leave grains sitting in a metal strainer or bowl. For more troubleshooting, see [[article:troubleshooting-kefir]]."
+    }
+  ],
+  "citations": [
+    {
+      "id": "c1",
+      "text": "Garrote, Graciela L., Abraham, Analía G., and De Antoni, Graciela L. \"Chemical and microbiological characterisation of kefir grains.\" Journal of Dairy Research, 68(4), 639–652.",
+      "source": "Journal of Dairy Research",
+      "author": "Graciela L. Garrote, Analía G. Abraham, Graciela L. De Antoni",
+      "year": 2001,
+      "license": "Journal Article"
+    },
+    {
+      "id": "c2",
+      "text": "Farnworth, Edward R. \"Kefir — a complex probiotic.\" Food Science and Technology Bulletin: Functional Foods, 2(1), 1–17.",
+      "source": "Food Science and Technology Bulletin",
+      "author": "Edward R. Farnworth",
+      "year": 2005,
+      "license": "Journal Article"
+    },
+    {
+      "id": "c3",
+      "text": "Prado, Maria R., et al. \"Milk kefir: composition, microbial cultures, biological activities, and related products.\" Frontiers in Microbiology, 6, 1177.",
+      "source": "Frontiers in Microbiology",
+      "author": "Maria R. Prado et al.",
+      "year": 2015,
+      "license": "Journal Article"
+    }
+  ],
+  "seeAlso": {
+    "articles": ["what-is-kefir", "troubleshooting-kefir", "kefir-in-tropical-climates", "milk-kefir-vs-water-kefir"],
+    "recipes": ["milk-kefir-basic", "water-kefir-basic"]
+  },
+  "tags": ["kefir", "grain-care", "maintenance", "troubleshooting", "beginner"]
+}

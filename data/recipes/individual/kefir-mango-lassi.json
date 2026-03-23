@@ -1,0 +1,286 @@
+{
+  "id": "kefir-mango-lassi",
+  "slug": "kefir-mango-lassi",
+  "name": "Kefir Mango Lassi",
+  "nameLocal": "ಕೆಫಿರ್ ಮಾವಿನ ಲಸ್ಸಿ",
+  "nameRomanized": "Kefir Maavina Lassi",
+  "subtitle": "Tangy probiotic kefir meets ripe Alphonso mangoes — the lassi upgrade",
+  "category": "beverage",
+  "subcategory": "lassi",
+  "technique": "culture",
+  "region": "South Asia",
+  "country": "India",
+  "countryCode": "IN",
+  "culturalGroup": "South Asian fusion",
+  "difficulty": 1,
+  "tier": "beginner",
+  "tierLabel": "Literally Just Blend",
+  "prepTime": "5 min",
+  "fermentTimeMin": 12,
+  "fermentTimeMax": 24,
+  "fermentTimeUnit": "hours",
+  "totalTimeHuman": "12–24 hours (kefir) + 5 min (blend)",
+  "blrNote": "Peak mango season is April–June. Badami mangoes from KR Market are ideal — they're Bengaluru's answer to Alphonso, with a rich, fragrant sweetness. Use pre-made milk kefir from your ongoing batch. Off-season, use frozen mango pulp from Nature's Basket or Amazon.",
+  "seasonality": ["summer", "spring"],
+  "ingredients": [
+    {
+      "name": "Finished milk kefir",
+      "nameLocal": "ಮಿಲ್ಕ್ ಕೆಫಿರ್",
+      "amount": 300,
+      "unit": "ml",
+      "unitMetric": "300ml",
+      "category": "dairy",
+      "essential": true,
+      "substitutions": [
+        "Thick dahi / yogurt (less probiotic diversity but works)",
+        "Store-bought kefir (Milky Mist or similar)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "moderate",
+          "where": "Make at home from milk kefir grains (see milk-kefir-basic recipe), or buy Milky Mist kefir from supermarkets."
+        }
+      }
+    },
+    {
+      "name": "Ripe mango (Alphonso or Badami)",
+      "nameLocal": "Maavu / Aam",
+      "amount": 1,
+      "unit": "large",
+      "unitMetric": "200g pulp",
+      "category": "fruit",
+      "essential": true,
+      "substitutions": [
+        "Frozen mango pulp (200g)",
+        "Raspuri mango (sweeter, less aromatic)",
+        "Canned Alphonso pulp (Ratna or Kohinoor brand)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "KR Market, Hopcoms, any fruit vendor. Badami Apr–Jun, Alphonso Apr–May, Raspuri May–Jun."
+        }
+      }
+    },
+    {
+      "name": "Green cardamom",
+      "nameLocal": "Yalakki / Elaichi",
+      "amount": 2,
+      "unit": "pods",
+      "unitMetric": "seeds from 2 pods",
+      "category": "spice",
+      "essential": false,
+      "substitutions": [
+        "Cardamom powder (¼ tsp)",
+        "Skip for a simpler flavour"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana store or spice shop"
+        }
+      }
+    },
+    {
+      "name": "Honey or sugar",
+      "nameLocal": "Jenu / Shahad",
+      "amount": 1,
+      "unit": "tbsp",
+      "unitMetric": "15g",
+      "category": "sweetener",
+      "essential": false,
+      "substitutions": [
+        "Jaggery (bella) — earthy sweetness",
+        "Skip entirely if mango is very ripe and sweet"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any supermarket or kirana store"
+        }
+      }
+    },
+    {
+      "name": "Ice cubes",
+      "nameLocal": null,
+      "amount": 4,
+      "unit": "cubes",
+      "unitMetric": "4 cubes",
+      "category": "other",
+      "essential": false,
+      "substitutions": [
+        "Use frozen mango chunks instead for a thicker lassi"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Your freezer"
+        }
+      }
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Blender or mixie",
+      "essential": true,
+      "notes": "Any standard Indian mixie jar works perfectly."
+    },
+    {
+      "name": "Tall glasses",
+      "essential": true,
+      "notes": "Serve in tall glasses for the classic lassi presentation."
+    }
+  ],
+  "tldr": "Blend finished milk kefir with ripe mango, cardamom, and a touch of honey. A probiotic-rich twist on the classic mango lassi — tangy, creamy, and deeply satisfying.",
+  "steps": [
+    {
+      "step": 1,
+      "title": "Prepare the kefir",
+      "instruction": "Use 300ml of finished milk kefir from your ongoing batch (see milk-kefir-basic recipe). If you don't have homemade kefir, store-bought plain kefir works. The kefir should be well-chilled from the fridge — cold kefir blends into a better lassi.",
+      "duration": "1 min",
+      "tips": [
+        "A 24-hour kefir that's tangy but not over-fermented gives the best flavour balance with sweet mango.",
+        "If your kefir has separated slightly, just shake or stir it smooth before measuring.",
+        "Thick, well-fermented kefir makes a creamier lassi than thin, under-fermented kefir."
+      ],
+      "checkpoint": "300ml of cold, smooth milk kefir measured and ready"
+    },
+    {
+      "step": 2,
+      "title": "Blend with mango and spices",
+      "instruction": "Peel and chop the mango (or measure 200g of pulp). Add to the blender with the kefir, seeds from 2 cardamom pods, honey or sugar to taste, and ice cubes. Blend on high for 30–60 seconds until completely smooth and frothy.",
+      "duration": "3 min",
+      "tips": [
+        "Taste before adding sweetener — ripe Badami or Alphonso mangoes are often sweet enough on their own.",
+        "Crush the cardamom seeds slightly before adding for maximum fragrance.",
+        "For a thicker, shake-like consistency, use frozen mango chunks instead of fresh + ice."
+      ],
+      "checkpoint": "Smooth, vibrant orange-yellow lassi with visible froth on top"
+    },
+    {
+      "step": 3,
+      "title": "Serve chilled",
+      "instruction": "Pour into tall glasses. Optionally garnish with a pinch of cardamom powder, a few saffron strands, or thin mango slices. Serve immediately — the probiotic cultures are most active when fresh.",
+      "duration": "1 min",
+      "tips": [
+        "Kefir mango lassi is best consumed fresh — the live cultures begin to change the flavour within a few hours.",
+        "If making in advance, store in the fridge for up to 4 hours. Stir before serving as it may separate slightly.",
+        "The tangy kefir cuts through the mango sweetness beautifully — if it's too tart, add more honey."
+      ],
+      "checkpoint": "Cold, frothy, vibrant mango kefir lassi in glasses, ready to drink"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Mango_Lassi.jpg/1280px-Mango_Lassi.jpg",
+      "caption": "Mango lassi — made with kefir for a probiotic upgrade",
+      "attribution": "Asha Susan, CC BY-SA 4.0, via Wikimedia Commons",
+      "type": "hero",
+      "alt": "Glass of vibrant orange mango lassi topped with cardamom"
+    }
+  ],
+  "culturalContext": {
+    "story": "Lassi is one of India's oldest beverages — a blend of dahi and water that has cooled the subcontinent for millennia. The mango lassi is a Punjabi speciality that became globally famous through Indian restaurants worldwide. This version replaces dahi with milk kefir, adding 50+ strains of probiotics to an already-beloved drink. It's a fusion that honours tradition while amplifying nutrition.",
+    "historicalNote": "The word 'lassi' derives from the Hindi 'lassī,' which comes from the Sanskrit 'lakṣikā.' Lassi has been drunk in the Punjab region for thousands of years, originally as a simple salted buttermilk. The sweet mango version is a more recent (20th century) innovation that became a global ambassador for Indian cuisine.",
+    "significance": "In Bengaluru, mango season (April–June) is a cultural event. Every household has its favourite variety and its favourite mango preparation. Replacing dahi with kefir in a mango lassi is a small change with big probiotic benefits — the tangy kefir actually complements mango better than mild dahi.",
+    "relatedTraditions": [
+      "Lassi (Punjab — traditional salted or sweet)",
+      "Aam Ras (Gujarat — pure mango pulp)",
+      "Mango Mastani (Pune — mango milkshake)",
+      "Ayran (Turkey — salted yogurt drink)"
+    ],
+    "funFact": "India produces over 50% of the world's mangoes. The Alphonso variety — considered the 'king of mangoes' — was named after Afonso de Albuquerque, a Portuguese general who introduced grafting techniques to Goa in the 1500s."
+  },
+  "thingsToAccountFor": [
+    {
+      "title": "Seasonality matters",
+      "description": "The best kefir mango lassi requires ripe, in-season mangoes (April–June in Bengaluru). Off-season mangoes lack the sweetness and aroma to balance kefir's tang. Use frozen pulp outside the season.",
+      "severity": "important",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Don't heat the kefir",
+      "description": "Never heat or cook the kefir — high temperatures kill the probiotic cultures. Always blend cold and serve immediately.",
+      "severity": "warning",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Kefir tang balance",
+      "description": "If your kefir is very tangy (over-fermented), the lassi may taste too sour. Use a milder 12-hour kefir, or add extra sweetener to balance.",
+      "severity": "info",
+      "appliesTo": ["all"]
+    }
+  ],
+  "dehydratorIntegration": {
+    "applicable": false,
+    "method": "Not applicable — this is a fresh blended beverage best consumed immediately.",
+    "result": "N/A",
+    "shelfLife": "N/A",
+    "tips": [
+      "Freeze kefir mango lassi into popsicle moulds for probiotic mango ice pops",
+      "Freeze in ice cube trays and blend later for a quick smoothie base"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Rose Kefir Lassi",
+      "description": "Replace mango with 1 tbsp rose syrup (rooh afza) and a handful of soaked sabja (basil) seeds. A fragrant, pink, Mughlai-inspired probiotic drink.",
+      "region": "North India / Mughlai"
+    },
+    {
+      "name": "Saffron Kefir Lassi",
+      "description": "Steep a generous pinch of saffron in 2 tbsp warm milk for 10 minutes. Blend into the kefir with sugar and a pinch of cardamom. Rich, golden, aromatic.",
+      "region": "Rajasthan / North India"
+    },
+    {
+      "name": "Salted Kefir Lassi (Namkeen)",
+      "description": "Skip the mango and sweetener. Blend kefir with roasted cumin powder, black salt, and fresh mint. The savoury counterpart — essentially a probiotic chaas.",
+      "region": "Punjab / Pan-Indian"
+    }
+  ],
+  "relatedRecipes": [
+    "milk-kefir-basic",
+    "dahi-homemade"
+  ],
+  "tags": [
+    "beginner",
+    "probiotic",
+    "kefir",
+    "mango",
+    "lassi",
+    "dairy",
+    "seasonal",
+    "summer",
+    "quick",
+    "south-asian"
+  ],
+  "dietaryFlags": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "veganAdaptable": false,
+  "containsAllergens": [
+    "dairy"
+  ],
+  "sources": [
+    {
+      "title": "Lassi — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lassi",
+      "license": "CC BY-SA"
+    },
+    {
+      "title": "Kefir — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kefir",
+      "license": "CC BY-SA"
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=ZGVxM_PFvac",
+      "title": "Mango Lassi Recipe",
+      "channel": "Hebbar's Kitchen",
+      "type": "youtube"
+    }
+  ],
+  "citations": []
+}
