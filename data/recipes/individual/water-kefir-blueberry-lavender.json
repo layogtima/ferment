@@ -1,0 +1,265 @@
+{
+  "id": "water-kefir-blueberry-lavender",
+  "slug": "water-kefir-blueberry-lavender",
+  "name": "Blueberry Lavender Water Kefir",
+  "nameLocal": null,
+  "nameRomanized": null,
+  "subtitle": "Deep purple floral-berry probiotic soda with dried lavender and fresh blueberries",
+  "category": "beverage",
+  "subcategory": "probiotic soda",
+  "technique": "culture",
+  "region": "Europe / Modern",
+  "country": "France",
+  "countryCode": "FR",
+  "culturalGroup": "European / Modern Fermentation",
+  "difficulty": 1,
+  "tier": "beginner",
+  "tierLabel": "Easy Second Ferment",
+  "prepTime": "10 min",
+  "fermentTimeMin": 24,
+  "fermentTimeMax": 48,
+  "fermentTimeUnit": "hours",
+  "totalTimeHuman": "24–48 hours (2F only)",
+  "blrNote": "Fresh blueberries are increasingly available in Bengaluru — Ooty-grown and imported varieties at Nature's Basket, Foodhall, and BigBasket for ₹200–400 per punnet. Frozen blueberries work just as well and are more affordable. Dried culinary lavender is available at Nature's Basket, Amazon India, or specialty tea shops. Use sparingly — a little goes a long way. At BLR temps, 24 hours gives good carbonation.",
+  "seasonality": ["all"],
+  "ingredients": [
+    {
+      "name": "Plain water kefir (finished 1F)",
+      "nameLocal": null,
+      "amount": 750,
+      "unit": "ml",
+      "unitMetric": "750ml",
+      "category": "liquid",
+      "essential": true,
+      "substitutions": [],
+      "localAvailability": {
+        "IN": {
+          "ease": "moderate",
+          "where": "Homemade from water kefir grains. See water-kefir-basic recipe."
+        }
+      }
+    },
+    {
+      "name": "Fresh or frozen blueberries",
+      "nameLocal": null,
+      "amount": 80,
+      "unit": "g",
+      "unitMetric": "80g (about 1/2 cup)",
+      "category": "fruit",
+      "essential": true,
+      "substitutions": [
+        "Jamun (Indian blackberry) — similar colour, more tart",
+        "Blackberries — deeper, more tannic flavour"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "moderate",
+          "where": "Nature's Basket, Foodhall, BigBasket. ₹200–400/punnet fresh. Frozen more affordable and year-round."
+        }
+      }
+    },
+    {
+      "name": "Dried culinary lavender",
+      "nameLocal": null,
+      "amount": 1,
+      "unit": "tsp",
+      "unitMetric": "1g",
+      "category": "herb",
+      "essential": true,
+      "substitutions": [
+        "Lavender tea bag (1 bag, contents only)",
+        "Dried rose petals — different floral note but equally beautiful"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "moderate",
+          "where": "Nature's Basket, Amazon India, specialty tea shops. Ensure food-grade, not potpourri."
+        }
+      }
+    },
+    {
+      "name": "Sugar (optional)",
+      "nameLocal": "Sakkare / Cheeni",
+      "amount": 1,
+      "unit": "tsp",
+      "unitMetric": "5g",
+      "category": "sweetener",
+      "essential": false,
+      "substitutions": [
+        "Honey (not vegan but complements lavender beautifully)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana store or supermarket"
+        }
+      }
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Swing-top glass bottle (500ml–1L)",
+      "essential": true,
+      "notes": "Pressure-rated for carbonation."
+    },
+    {
+      "name": "Plastic or nylon mesh strainer",
+      "essential": true,
+      "notes": "Fine mesh to catch blueberry skins and lavender buds."
+    },
+    {
+      "name": "Muddler or fork",
+      "essential": false,
+      "notes": "For lightly crushing blueberries to release juice."
+    }
+  ],
+  "tldr": "Muddle blueberries, add dried lavender, pour over finished water kefir, seal and ferment 24–48 hours. Deep purple, floral, antioxidant-rich probiotic soda.",
+  "steps": [
+    {
+      "step": 1,
+      "title": "Prepare base water kefir",
+      "instruction": "Make a batch of plain water kefir following the water-kefir-basic recipe. Strain out the grains after the first ferment is complete. You need about 750ml of finished plain water kefir.",
+      "duration": "24–48 hours (done in advance)",
+      "tips": [
+        "The 1F should be mildly tart and lightly sweet.",
+        "Reserve grains in fresh sugar water for your next batch."
+      ],
+      "checkpoint": "750ml of strained, room-temperature plain water kefir"
+    },
+    {
+      "step": 2,
+      "title": "Add blueberries and lavender",
+      "instruction": "Lightly muddle 80g of blueberries with a fork or muddler — just enough to crack them open and release juice. Don't fully puree them. Add the muddled blueberries and 1 teaspoon of dried culinary lavender to your swing-top bottle. Optionally add 1 tsp sugar.",
+      "duration": "5 min",
+      "tips": [
+        "Use CULINARY lavender only — not decorative/potpourri lavender which may have chemicals.",
+        "Less is more with lavender — too much makes the drink taste soapy. 1 tsp for 750ml is the sweet spot.",
+        "Frozen blueberries actually work great — they break down more during fermentation.",
+        "The colour will be a stunning deep purple."
+      ],
+      "checkpoint": "Muddled blueberries and lavender in the bottle"
+    },
+    {
+      "step": 3,
+      "title": "Second ferment (2F)",
+      "instruction": "Pour the strained water kefir over the blueberry-lavender mixture. Seal tightly. Place in a warm spot away from direct sunlight for 24–48 hours. Burp every 12 hours. The liquid will turn a dramatic deep purple.",
+      "duration": "24–48 hours",
+      "tips": [
+        "The colour transformation is remarkable — from pale water kefir to deep amethyst purple.",
+        "Lavender flavour develops gradually. At 24 hours it's subtle, at 48 it's more pronounced.",
+        "Blueberries have moderate sugar — carbonation builds at a steady, manageable pace.",
+        "The drink will be rich in anthocyanins (the antioxidants that give blueberries their colour)."
+      ],
+      "checkpoint": "Bottle pressurized, liquid is deep purple, fizzy when burped"
+    },
+    {
+      "step": 4,
+      "title": "Strain and serve",
+      "instruction": "Open carefully. Strain through a fine mesh strainer to remove blueberry skins and lavender buds. Serve over ice. The colour is spectacular — a deep, jewel-toned purple. Refrigerate leftovers for up to 5 days.",
+      "duration": "3 min",
+      "tips": [
+        "This is one of the most visually stunning water kefir flavours — serve in clear glasses.",
+        "A sprig of fresh lavender or a few whole blueberries makes a beautiful garnish.",
+        "Blueberry stains are persistent — handle with care around light fabrics.",
+        "The colour may shift slightly toward blue in the fridge — this is from pH changes and is normal."
+      ],
+      "checkpoint": "Deep purple, floral-berry, fizzy probiotic soda"
+    }
+  ],
+  "images": [],
+  "culturalContext": {
+    "story": "Lavender has been used in French cuisine and herbal medicine for centuries, while blueberries are a North American superfood that's gone global. The combination is a modern classic from craft beverage culture — the sweetness of blueberries balances lavender's perfumed intensity. Fermenting them together in water kefir creates a drink that's as beautiful as it is healthy.",
+    "historicalNote": "Lavender was used by the Romans to scent baths and by medieval Europeans as a medicinal herb. Its use in food and beverages is a relatively modern development, popularized by Provençal French cooking. Blueberries were first cultivated by Native Americans and domesticated commercially in the early 1900s.",
+    "significance": "This recipe showcases how water kefir can rival artisanal craft sodas in complexity and visual appeal. The deep purple colour and floral aroma make it a conversation starter and a gateway to fermentation for the aesthetically inclined.",
+    "relatedTraditions": [
+      "Lavender lemonade (Provence, France)",
+      "Blueberry shrub (Colonial America)",
+      "Flower-infused waters (Middle East / India)",
+      "Fruit kvass (Russia)"
+    ],
+    "funFact": "Blueberries are one of only a handful of naturally blue foods in nature. Their deep colour comes from anthocyanins — the same powerful antioxidants found in red wine and purple cabbage. Your kefir will contain a concentrated dose."
+  },
+  "thingsToAccountFor": [
+    {
+      "title": "Lavender quantity is critical",
+      "description": "Too much lavender makes the drink taste soapy or perfume-like. Start with 1/2 teaspoon per 750ml if you're unsure, and increase in future batches. 1 teaspoon is the maximum recommended.",
+      "severity": "important",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Use food-grade lavender only",
+      "description": "Decorative or potpourri lavender may be treated with chemicals or pesticides. Only use lavender explicitly labelled as culinary or food-grade. Available at specialty tea shops and Nature's Basket.",
+      "severity": "warning",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Blueberry stains",
+      "description": "Blueberry juice stains fabric, countertops, and plastic equipment. Use glass and stainless steel, and clean spills immediately.",
+      "severity": "info",
+      "appliesTo": ["all"]
+    }
+  ],
+  "dehydratorIntegration": {
+    "applicable": false,
+    "method": "Not recommended for flavoured water kefir.",
+    "result": "N/A",
+    "shelfLife": "N/A",
+    "tips": [
+      "Freeze into purple ice cubes for a dramatic addition to cocktails or sparkling water"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Blueberry Lavender Lemonade Kefir",
+      "description": "Add the juice of one lemon before bottling. The acidity brightens the floral notes and the lemon-lavender-berry combo is sublime.",
+      "region": "Modern / Global"
+    },
+    {
+      "name": "Jamun Lavender Kefir",
+      "description": "Replace blueberries with jamun (Indian blackberry) during jamun season (June–July). More tart and tannic, deeply Indian in character.",
+      "region": "India"
+    }
+  ],
+  "relatedRecipes": [
+    "water-kefir-basic",
+    "coconut-water-kefir",
+    "water-kefir-strawberry-basil",
+    "water-kefir-hibiscus-rose",
+    "water-kefir-elderflower-pear"
+  ],
+  "tags": [
+    "beginner",
+    "vegan",
+    "probiotic",
+    "kefir",
+    "water-kefir",
+    "blueberry",
+    "lavender",
+    "floral",
+    "antioxidant",
+    "dairy-free",
+    "second-ferment",
+    "pretty",
+    "purple"
+  ],
+  "dietaryFlags": [
+    "gluten-free",
+    "vegan"
+  ],
+  "veganAdaptable": true,
+  "containsAllergens": [],
+  "sources": [
+    {
+      "title": "Tibicos — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tibicos",
+      "license": "CC BY-SA"
+    },
+    {
+      "title": "Lavender — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lavandula",
+      "license": "CC BY-SA"
+    }
+  ],
+  "videos": [],
+  "citations": []
+}

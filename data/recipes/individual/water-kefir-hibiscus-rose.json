@@ -1,0 +1,272 @@
+{
+  "id": "water-kefir-hibiscus-rose",
+  "slug": "water-kefir-hibiscus-rose",
+  "name": "Hibiscus Rose Water Kefir",
+  "nameLocal": "ದಾಸವಾಳ ಗುಲಾಬಿ ಕೆಫಿರ್",
+  "nameRomanized": "Dasavala Gulabi Kefir",
+  "subtitle": "Vibrant magenta floral probiotic soda with dried hibiscus and rose water",
+  "category": "beverage",
+  "subcategory": "probiotic soda",
+  "technique": "culture",
+  "region": "Middle East / South Asia",
+  "country": "India",
+  "countryCode": "IN",
+  "culturalGroup": "Middle Eastern / South Asian",
+  "difficulty": 1,
+  "tier": "beginner",
+  "tierLabel": "Easy Second Ferment",
+  "prepTime": "10 min",
+  "fermentTimeMin": 24,
+  "fermentTimeMax": 48,
+  "fermentTimeUnit": "hours",
+  "totalTimeHuman": "24–48 hours (2F only)",
+  "blrNote": "Dried hibiscus flowers (gudhal/dasavala) are available at KR Market spice shops and Ayurvedic stores for ₹50–100/100g. Rose water (gulab jal) is available at any kirana for ₹30–50. Dabur and local brands work fine — just ensure it's food-grade. Hibiscus bushes grow all over Bengaluru — you can dry your own petals from garden plants (use unsprayed flowers only). At BLR temps, 24 hours of 2F gives great colour and flavour.",
+  "seasonality": ["all"],
+  "ingredients": [
+    {
+      "name": "Plain water kefir (finished 1F)",
+      "nameLocal": null,
+      "amount": 750,
+      "unit": "ml",
+      "unitMetric": "750ml",
+      "category": "liquid",
+      "essential": true,
+      "substitutions": [],
+      "localAvailability": {
+        "IN": {
+          "ease": "moderate",
+          "where": "Homemade from water kefir grains. See water-kefir-basic recipe."
+        }
+      }
+    },
+    {
+      "name": "Dried hibiscus flowers",
+      "nameLocal": "Gudhal / Dasavala",
+      "amount": 2,
+      "unit": "tbsp",
+      "unitMetric": "6g",
+      "category": "flower",
+      "essential": true,
+      "substitutions": [
+        "Hibiscus tea bags (2 bags, contents only)",
+        "Fresh hibiscus petals (double the amount)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "KR Market spice shops, Ayurvedic stores, Amazon India. ₹50–100/100g. Or dry your own from garden hibiscus bushes."
+        }
+      }
+    },
+    {
+      "name": "Rose water (food-grade)",
+      "nameLocal": "Gulab Jal",
+      "amount": 1,
+      "unit": "tbsp",
+      "unitMetric": "15ml",
+      "category": "flavoring",
+      "essential": true,
+      "substitutions": [
+        "Dried rose petals (1 tbsp) — infuse during 2F",
+        "Rose syrup (reduce sugar, adds sweetness)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana store. Dabur, Hamdard, or local brands. ₹30–50 per bottle."
+        }
+      }
+    },
+    {
+      "name": "Sugar",
+      "nameLocal": "Sakkare / Cheeni",
+      "amount": 1,
+      "unit": "tbsp",
+      "unitMetric": "15g",
+      "category": "sweetener",
+      "essential": true,
+      "substitutions": [
+        "Jaggery (bella)",
+        "Rose syrup (replace both sugar and rose water)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana store or supermarket"
+        }
+      }
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Swing-top glass bottle (500ml–1L)",
+      "essential": true,
+      "notes": "Pressure-rated for carbonation."
+    },
+    {
+      "name": "Plastic or nylon mesh strainer",
+      "essential": true,
+      "notes": "Fine mesh to strain out hibiscus petals."
+    },
+    {
+      "name": "Small saucepan (optional)",
+      "essential": false,
+      "notes": "For making a quick hibiscus concentrate."
+    }
+  ],
+  "tldr": "Steep dried hibiscus in water kefir, add rose water and sugar, seal and ferment 24–48 hours. A stunning magenta, floral, tangy probiotic soda.",
+  "steps": [
+    {
+      "step": 1,
+      "title": "Prepare base water kefir",
+      "instruction": "Make a batch of plain water kefir following the water-kefir-basic recipe. Strain out the grains. You need about 750ml of finished plain water kefir.",
+      "duration": "24–48 hours (done in advance)",
+      "tips": [
+        "The 1F should be mildly tart and lightly sweet.",
+        "Reserve grains in fresh sugar water for your next batch."
+      ],
+      "checkpoint": "750ml of strained, room-temperature plain water kefir"
+    },
+    {
+      "step": 2,
+      "title": "Add hibiscus, rose water, and sugar",
+      "instruction": "Add 2 tablespoons of dried hibiscus flowers, 1 tablespoon of food-grade rose water, and 1 tablespoon of sugar directly into your swing-top bottle. The hibiscus will infuse during fermentation, releasing colour and flavour. Alternatively, make a quick concentrate: steep the hibiscus in 100ml hot water for 10 minutes, strain, cool, and add to the bottle.",
+      "duration": "5–15 min",
+      "tips": [
+        "Adding dried flowers directly gives a stronger colour and flavour but requires straining later.",
+        "The concentrate method gives more control but adds a step.",
+        "Rose water potency varies by brand — start with 1 tbsp and adjust to taste in future batches.",
+        "The sugar is essential — hibiscus is naturally tart and has no fermentable sugars."
+      ],
+      "checkpoint": "Hibiscus, rose water, and sugar in the bottle"
+    },
+    {
+      "step": 3,
+      "title": "Second ferment (2F)",
+      "instruction": "Pour the strained water kefir over the hibiscus mixture. Seal tightly. Place in a warm spot away from direct sunlight for 24–48 hours. Burp every 12 hours. The liquid will turn a dramatic deep magenta within hours.",
+      "duration": "24–48 hours",
+      "tips": [
+        "The colour change is almost instant — hibiscus is an incredibly powerful natural dye.",
+        "Hibiscus adds tartness (it's high in citric and malic acid) — the sugar balances this.",
+        "At BLR temps, 24 hours gives good carbonation. The hibiscus tartness will deepen over time.",
+        "The rose water aroma blooms beautifully during fermentation."
+      ],
+      "checkpoint": "Bottle pressurized, liquid is deep magenta, floral aroma"
+    },
+    {
+      "step": 4,
+      "title": "Strain and serve",
+      "instruction": "Open carefully. If you added whole hibiscus flowers, strain through a fine mesh strainer. Serve over ice. The colour is absolutely stunning — deep magenta to ruby red. Refrigerate for up to 7 days (the high acidity from hibiscus preserves well).",
+      "duration": "3 min",
+      "tips": [
+        "This is possibly the most beautiful water kefir flavour — the colour is jaw-dropping.",
+        "Serve in clear glass to show off the magenta colour.",
+        "A dried rose petal floating on top makes an elegant garnish.",
+        "This kefir keeps longer than most flavours thanks to hibiscus's natural acidity."
+      ],
+      "checkpoint": "Deep magenta, floral, tart, effervescent probiotic soda"
+    }
+  ],
+  "images": [],
+  "culturalContext": {
+    "story": "Hibiscus beverages span the globe — from Mexican agua de jamaica to Egyptian karkade to Indian gudhal sharbat. Rose water is central to Middle Eastern and South Asian desserts and drinks, from falooda to Turkish delight. Combining both in a fermented water kefir creates a drink that bridges these traditions with stunning visual and aromatic results.",
+    "historicalNote": "Hibiscus sabdariffa has been used in beverages across Africa, the Middle East, and the Americas for centuries. In India, hibiscus flowers are offered in Hindu temples and used in Ayurvedic medicine. Rose water has been distilled in Persia since at least the 7th century and became central to Mughal Indian cuisine.",
+    "significance": "This recipe demonstrates how water kefir can showcase botanical ingredients with deep cultural significance. The combination of hibiscus and rose is found nowhere in traditional fermentation but feels ancient and timeless. The vibrant colour makes it a powerful gateway to fermentation culture.",
+    "relatedTraditions": [
+      "Agua de Jamaica (hibiscus drink, Mexico)",
+      "Karkade (hibiscus tea, Egypt)",
+      "Falooda (rose milk drink, India)",
+      "Sharbat-e golab (rose sherbet, Iran)"
+    ],
+    "funFact": "Hibiscus tea has been shown in clinical studies to lower blood pressure — one study found it was as effective as some prescription medications. Your probiotic hibiscus kefir delivers this benefit along with gut-healthy cultures."
+  },
+  "thingsToAccountFor": [
+    {
+      "title": "Hibiscus is naturally very tart",
+      "description": "Dried hibiscus contains citric acid, malic acid, and hibiscic acid. Combined with water kefir's tang, the result can be quite sour. Sugar is essential for balance — don't skip it. Adjust to taste.",
+      "severity": "important",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Hibiscus stains permanently",
+      "description": "Hibiscus is one of nature's most powerful dyes. It will stain fabric, plastic, wood, and light-coloured countertops. Handle with care and clean spills immediately.",
+      "severity": "warning",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Rose water quality varies",
+      "description": "Some rose waters are very dilute, others are concentrated. Start with 1 tablespoon and adjust. If using a very concentrated rose water (like from an essential oil supplier), use only 1 teaspoon.",
+      "severity": "info",
+      "appliesTo": ["all"]
+    }
+  ],
+  "dehydratorIntegration": {
+    "applicable": false,
+    "method": "Not recommended for flavoured water kefir.",
+    "result": "N/A",
+    "shelfLife": "N/A",
+    "tips": [
+      "Freeze into magenta ice cubes for a stunning addition to sparkling water or cocktails"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Hibiscus Ginger Kefir",
+      "description": "Replace rose water with 10g fresh ginger. Creates a spicy, tart, deeply coloured drink reminiscent of Mexican jamaica con jengibre.",
+      "region": "Mexico"
+    },
+    {
+      "name": "Hibiscus Pomegranate Kefir",
+      "description": "Add 50ml fresh pomegranate juice along with the hibiscus. Double the ruby-red colour and antioxidant content.",
+      "region": "Middle East"
+    },
+    {
+      "name": "Rooh Afza Kefir",
+      "description": "Replace sugar and rose water with 2 tbsp Rooh Afza syrup. Nostalgic South Asian twist — the iconic rose-flavoured drink, now probiotic.",
+      "region": "India / Pakistan"
+    }
+  ],
+  "relatedRecipes": [
+    "water-kefir-basic",
+    "coconut-water-kefir",
+    "water-kefir-blueberry-lavender",
+    "water-kefir-elderflower-pear",
+    "water-kefir-chai-spice"
+  ],
+  "tags": [
+    "beginner",
+    "vegan",
+    "probiotic",
+    "kefir",
+    "water-kefir",
+    "hibiscus",
+    "rose",
+    "floral",
+    "magenta",
+    "dairy-free",
+    "year-round",
+    "second-ferment",
+    "stunning",
+    "botanical"
+  ],
+  "dietaryFlags": [
+    "gluten-free",
+    "vegan"
+  ],
+  "veganAdaptable": true,
+  "containsAllergens": [],
+  "sources": [
+    {
+      "title": "Tibicos — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tibicos",
+      "license": "CC BY-SA"
+    },
+    {
+      "title": "Hibiscus tea — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hibiscus_tea",
+      "license": "CC BY-SA"
+    }
+  ],
+  "videos": [],
+  "citations": []
+}

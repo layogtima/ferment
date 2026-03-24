@@ -1,0 +1,291 @@
+{
+  "id": "water-kefir-beet-ginger",
+  "slug": "water-kefir-beet-ginger",
+  "name": "Beet Ginger Water Kefir",
+  "nameLocal": "ಬೀಟ್ರೂಟ್ ಶುಂಠಿ ಕೆಫಿರ್",
+  "nameRomanized": "Beetroot Shunthi Kefir",
+  "subtitle": "Earthy, vibrant crimson probiotic soda with raw beet juice and fresh ginger",
+  "category": "beverage",
+  "subcategory": "probiotic soda",
+  "technique": "culture",
+  "region": "Eastern Europe / Global",
+  "country": "Russia",
+  "countryCode": "RU",
+  "culturalGroup": "Eastern European / Wellness",
+  "difficulty": 2,
+  "tier": "intermediate",
+  "tierLabel": "Earthy Flavour — Not for Everyone",
+  "prepTime": "15 min",
+  "fermentTimeMin": 24,
+  "fermentTimeMax": 48,
+  "fermentTimeUnit": "hours",
+  "totalTimeHuman": "24–48 hours (2F only)",
+  "blrNote": "Beetroot is available year-round at every vegetable vendor in Bengaluru for ₹30–50/kg. Fresh ginger is equally ubiquitous. This is a very affordable wellness drink to make. The earthy flavour of beetroot is polarizing — the ginger helps balance it. At BLR temps, beet juice ferments well in 24 hours. Wear gloves and old clothes — beet juice stains dramatically.",
+  "seasonality": ["all"],
+  "ingredients": [
+    {
+      "name": "Plain water kefir (finished 1F)",
+      "nameLocal": null,
+      "amount": 600,
+      "unit": "ml",
+      "unitMetric": "600ml",
+      "category": "liquid",
+      "essential": true,
+      "substitutions": [],
+      "localAvailability": {
+        "IN": {
+          "ease": "moderate",
+          "where": "Homemade from water kefir grains. See water-kefir-basic recipe."
+        }
+      }
+    },
+    {
+      "name": "Fresh beetroot juice",
+      "nameLocal": "Beetroot Rasa",
+      "amount": 150,
+      "unit": "ml",
+      "unitMetric": "150ml (from 1 medium beet)",
+      "category": "vegetable",
+      "essential": true,
+      "substitutions": [
+        "Grated raw beetroot (100g) — less juice, more pulp",
+        "Packaged beetroot juice (no preservatives)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Beetroot available year-round at any vegetable vendor. ₹30–50/kg."
+        }
+      }
+    },
+    {
+      "name": "Fresh ginger",
+      "nameLocal": "Shunthi / Adrak",
+      "amount": 15,
+      "unit": "g",
+      "unitMetric": "15g (1-inch piece, grated)",
+      "category": "spice",
+      "essential": true,
+      "substitutions": [
+        "Ginger juice (7ml)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any vegetable vendor or kirana store."
+        }
+      }
+    },
+    {
+      "name": "Lemon juice",
+      "nameLocal": "Nimbu Rasa",
+      "amount": 15,
+      "unit": "ml",
+      "unitMetric": "15ml (juice of half a lemon)",
+      "category": "citrus",
+      "essential": true,
+      "substitutions": [
+        "Lime juice"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Every vegetable vendor. ₹2–5 per lime/lemon."
+        }
+      }
+    },
+    {
+      "name": "Sugar",
+      "nameLocal": "Sakkare / Cheeni",
+      "amount": 1,
+      "unit": "tbsp",
+      "unitMetric": "15g",
+      "category": "sweetener",
+      "essential": true,
+      "substitutions": [
+        "Jaggery (bella)",
+        "Honey (not vegan)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana store or supermarket"
+        }
+      }
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Swing-top glass bottle (500ml–1L)",
+      "essential": true,
+      "notes": "Pressure-rated for carbonation."
+    },
+    {
+      "name": "Juicer or blender",
+      "essential": true,
+      "notes": "For extracting beetroot juice. Blender + strainer works too."
+    },
+    {
+      "name": "Plastic or nylon mesh strainer",
+      "essential": true,
+      "notes": "Fine mesh to strain beet pulp and ginger."
+    },
+    {
+      "name": "Gloves",
+      "essential": false,
+      "notes": "Beet juice stains everything — gloves save your hands."
+    }
+  ],
+  "tldr": "Add fresh beet juice, grated ginger, lemon, and sugar to finished water kefir, seal and ferment 24–48 hours. A vibrant crimson, earthy, spicy wellness probiotic soda.",
+  "steps": [
+    {
+      "step": 1,
+      "title": "Prepare base water kefir",
+      "instruction": "Make a batch of plain water kefir following the water-kefir-basic recipe. Strain out the grains. You need about 600ml of finished plain water kefir.",
+      "duration": "24–48 hours (done in advance)",
+      "tips": [
+        "The 1F should be mildly tart.",
+        "Reserve grains in fresh sugar water for your next batch."
+      ],
+      "checkpoint": "600ml of strained, room-temperature plain water kefir"
+    },
+    {
+      "step": 2,
+      "title": "Prepare beet juice and ginger",
+      "instruction": "Wash, peel, and chop 1 medium beetroot. Juice it or blend with a splash of water and strain — you need about 150ml of juice. Grate 15g of fresh ginger. Add the beet juice, grated ginger, 15ml lemon juice, and 1 tbsp sugar to your swing-top bottle.",
+      "duration": "10 min",
+      "tips": [
+        "Wear gloves — beet juice stains hands, clothes, countertops, and basically everything.",
+        "Raw beet juice is earthy and sweet. The ginger cuts through the earthiness beautifully.",
+        "Lemon juice brightens the flavour and keeps the vibrant red colour (acidity preserves betanin pigment).",
+        "Leave 5 cm headspace."
+      ],
+      "checkpoint": "Beet juice, grated ginger, lemon juice, and sugar in the bottle"
+    },
+    {
+      "step": 3,
+      "title": "Second ferment (2F)",
+      "instruction": "Pour the strained water kefir over the beet-ginger mixture. Seal tightly. Place in a warm spot away from direct sunlight for 24–48 hours. Burp every 12 hours.",
+      "duration": "24–48 hours",
+      "tips": [
+        "The colour will be a dramatic, opaque crimson red.",
+        "Beetroot has natural sugars that supplement the added sugar for carbonation.",
+        "The ginger will make the fermentation slightly more active.",
+        "At BLR temps, 24 hours gives good results.",
+        "The earthy beetroot flavour mellows during fermentation."
+      ],
+      "checkpoint": "Bottle pressurized, vibrant crimson, earthy-ginger aroma"
+    },
+    {
+      "step": 4,
+      "title": "Strain and serve",
+      "instruction": "Open carefully — beet kefir that geysers will stain everything in range. Strain through a fine mesh strainer to remove ginger and beet pulp. Serve over ice. This is a dramatic, attention-getting drink. Refrigerate for up to 5 days.",
+      "duration": "3 min",
+      "tips": [
+        "The colour is jaw-dropping — serve in clear glass for maximum impact.",
+        "This is an acquired taste — the earthiness of beet isn't for everyone. The ginger and lemon help enormously.",
+        "Excellent as a post-workout recovery drink — beet juice is known for boosting athletic performance.",
+        "A pinch of salt enhances the flavour and reduces the earthy perception."
+      ],
+      "checkpoint": "Vibrant crimson, earthy-ginger, fizzy wellness probiotic soda"
+    }
+  ],
+  "images": [],
+  "culturalContext": {
+    "story": "Beet kvass is a traditional Eastern European/Russian fermented beet drink that has been consumed for centuries as a tonic and digestive aid. This water kefir version is a modern interpretation — using water kefir grains instead of the traditional lacto-fermentation method, and adding ginger for warmth and lemon for brightness.",
+    "historicalNote": "Beet kvass has been a staple in Ukrainian and Russian households for centuries — traditionally made by fermenting chopped beets in salted water. It was used as a broth base for borscht, as a health tonic, and as a daily digestive drink. The fermentation was driven by wild Lactobacillus bacteria, similar to the bacteria in water kefir grains.",
+    "significance": "This recipe bridges Eastern European fermentation traditions with South Asian ingredients. Beetroot is widely used in Indian cooking (from raita to halwa), but fermented beet beverages are rare in Indian food culture. The addition of ginger — India's favourite spice — makes this a true fusion drink.",
+    "relatedTraditions": [
+      "Beet kvass (Russia / Ukraine)",
+      "Borscht (beet soup, Eastern Europe)",
+      "Beetroot raita (India)",
+      "Ginger beer (Caribbean / England)"
+    ],
+    "funFact": "Beet juice has been scientifically shown to improve athletic performance by increasing blood flow and oxygen delivery to muscles. Studies show it can improve endurance by up to 3%. Your probiotic beet kefir is essentially a sports drink that tastes better and has live cultures."
+  },
+  "thingsToAccountFor": [
+    {
+      "title": "Beet juice stains EVERYTHING",
+      "description": "Beet juice contains betanin, one of nature's most powerful dyes. It will permanently stain light clothing, wooden cutting boards, plastic containers, and countertops. Use glass, wear gloves, and work in an easily cleaned area.",
+      "severity": "warning",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Earthy flavour is polarizing",
+      "description": "Raw beet juice has a strong earthy flavour that not everyone enjoys. The ginger, lemon, and fermentation all help mellow it, but this is still a drink for beet lovers. Don't serve it to guests without warning them.",
+      "severity": "important",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Beet juice can cause harmless discolouration",
+      "description": "After drinking beet juice, some people experience red-coloured urine or stools (beeturia). This is completely harmless and temporary — just the betanin pigment passing through. Don't be alarmed.",
+      "severity": "info",
+      "appliesTo": ["all"]
+    }
+  ],
+  "dehydratorIntegration": {
+    "applicable": false,
+    "method": "Not recommended for flavoured water kefir.",
+    "result": "N/A",
+    "shelfLife": "N/A",
+    "tips": [
+      "Freeze into crimson ice cubes for a dramatic addition to cocktails or smoothies"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Beet Carrot Ginger Kefir",
+      "description": "Replace half the beet juice with carrot juice. Less earthy, sweeter, and a stunning orange-red colour.",
+      "region": "Modern / Global"
+    },
+    {
+      "name": "Beet Apple Kefir",
+      "description": "Add 100ml apple juice along with the beet juice. Apple sweetness balances beet earthiness beautifully.",
+      "region": "Eastern Europe"
+    }
+  ],
+  "relatedRecipes": [
+    "water-kefir-basic",
+    "coconut-water-kefir",
+    "water-kefir-ginger-beer",
+    "water-kefir-pineapple-turmeric",
+    "water-kefir-charcoal-lemon"
+  ],
+  "tags": [
+    "intermediate",
+    "vegan",
+    "probiotic",
+    "kefir",
+    "water-kefir",
+    "beet",
+    "beetroot",
+    "ginger",
+    "wellness",
+    "functional",
+    "dairy-free",
+    "year-round",
+    "second-ferment",
+    "earthy",
+    "athletic"
+  ],
+  "dietaryFlags": [
+    "gluten-free",
+    "vegan"
+  ],
+  "veganAdaptable": true,
+  "containsAllergens": [],
+  "sources": [
+    {
+      "title": "Tibicos — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tibicos",
+      "license": "CC BY-SA"
+    },
+    {
+      "title": "Beet kvass — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Beet_kvass",
+      "license": "CC BY-SA"
+    }
+  ],
+  "videos": [],
+  "citations": []
+}

@@ -1,0 +1,268 @@
+{
+  "id": "water-kefir-charcoal-lemon",
+  "slug": "water-kefir-charcoal-lemon",
+  "name": "Activated Charcoal Lemon Water Kefir",
+  "nameLocal": null,
+  "nameRomanized": null,
+  "subtitle": "Dramatic jet-black lemon probiotic soda with activated charcoal — detox-themed and visually stunning",
+  "category": "beverage",
+  "subcategory": "probiotic soda",
+  "technique": "culture",
+  "region": "Global / Modern",
+  "country": "United States",
+  "countryCode": "US",
+  "culturalGroup": "Modern Wellness / Trend",
+  "difficulty": 2,
+  "tier": "intermediate",
+  "tierLabel": "Specialty Ingredient, Medication Warning",
+  "prepTime": "5 min",
+  "fermentTimeMin": 24,
+  "fermentTimeMax": 48,
+  "fermentTimeUnit": "hours",
+  "totalTimeHuman": "24–48 hours (2F only)",
+  "blrNote": "Activated charcoal capsules are available at pharmacies across Bengaluru (Apollo Pharmacy, MedPlus) and Amazon India for ₹100–300 per bottle. Use food-grade activated charcoal only — not BBQ charcoal. Lemons/limes are available everywhere. IMPORTANT: Do not drink activated charcoal within 2 hours of taking any medication — it can absorb and neutralize drugs. At BLR temps, 24 hours of 2F is usually sufficient.",
+  "seasonality": ["all"],
+  "ingredients": [
+    {
+      "name": "Plain water kefir (finished 1F)",
+      "nameLocal": null,
+      "amount": 750,
+      "unit": "ml",
+      "unitMetric": "750ml",
+      "category": "liquid",
+      "essential": true,
+      "substitutions": [],
+      "localAvailability": {
+        "IN": {
+          "ease": "moderate",
+          "where": "Homemade from water kefir grains. See water-kefir-basic recipe."
+        }
+      }
+    },
+    {
+      "name": "Activated charcoal (food-grade)",
+      "nameLocal": null,
+      "amount": 1,
+      "unit": "capsule (or 1/4 tsp powder)",
+      "unitMetric": "250mg",
+      "category": "supplement",
+      "essential": true,
+      "substitutions": [
+        "Activated charcoal powder (food-grade, 1/4 tsp)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Apollo Pharmacy, MedPlus, Amazon India. ₹100–300/bottle of capsules. Ensure food-grade."
+        }
+      }
+    },
+    {
+      "name": "Fresh lemon juice",
+      "nameLocal": "Nimbu Rasa",
+      "amount": 30,
+      "unit": "ml",
+      "unitMetric": "30ml (juice of 1 lemon)",
+      "category": "citrus",
+      "essential": true,
+      "substitutions": [
+        "Lime juice"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Every vegetable vendor. ₹2–5 per lime/lemon."
+        }
+      }
+    },
+    {
+      "name": "Sugar",
+      "nameLocal": "Sakkare / Cheeni",
+      "amount": 2,
+      "unit": "tbsp",
+      "unitMetric": "30g",
+      "category": "sweetener",
+      "essential": true,
+      "substitutions": [
+        "Honey (not vegan)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana store or supermarket"
+        }
+      }
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Swing-top glass bottle (500ml–1L)",
+      "essential": true,
+      "notes": "Pressure-rated for carbonation."
+    },
+    {
+      "name": "Plastic or nylon mesh strainer",
+      "essential": false,
+      "notes": "Charcoal stays in suspension — straining is optional."
+    }
+  ],
+  "tldr": "Open an activated charcoal capsule, add with lemon juice and sugar to finished water kefir, seal and ferment 24–48 hours. A jet-black, fizzy, tart probiotic lemonade.",
+  "steps": [
+    {
+      "step": 1,
+      "title": "Prepare base water kefir",
+      "instruction": "Make a batch of plain water kefir following the water-kefir-basic recipe. Strain out the grains. You need about 750ml of finished plain water kefir.",
+      "duration": "24–48 hours (done in advance)",
+      "tips": [
+        "The 1F should be mildly tart and lightly sweet.",
+        "Reserve grains in fresh sugar water for your next batch."
+      ],
+      "checkpoint": "750ml of strained, room-temperature plain water kefir"
+    },
+    {
+      "step": 2,
+      "title": "Add charcoal, lemon, and sugar",
+      "instruction": "Open 1 activated charcoal capsule and pour the powder into your swing-top bottle (or add 1/4 tsp activated charcoal powder). Add 30ml fresh lemon juice and 2 tablespoons of sugar. The charcoal will turn everything jet black immediately.",
+      "duration": "3 min",
+      "tips": [
+        "Use FOOD-GRADE activated charcoal only — not aquarium charcoal or BBQ charcoal.",
+        "One capsule (250mg) is enough for 750ml. More doesn't add flavour — it just makes cleanup harder.",
+        "Charcoal is flavourless — the lemon and sugar are what you'll actually taste.",
+        "The visual impact is dramatic — jet-black lemonade is a real conversation starter.",
+        "Leave 5 cm headspace."
+      ],
+      "checkpoint": "Jet-black liquid with lemon and sugar in the bottle"
+    },
+    {
+      "step": 3,
+      "title": "Second ferment (2F)",
+      "instruction": "Pour the strained water kefir over the charcoal-lemon mixture. Seal tightly. Give it a gentle shake to distribute the charcoal. Place in a warm spot away from direct sunlight for 24–48 hours. Burp every 12 hours.",
+      "duration": "24–48 hours",
+      "tips": [
+        "The lemon and sugar provide the flavour and carbonation fuel. Charcoal is purely visual.",
+        "At BLR temps, 24 hours gives good carbonation.",
+        "The charcoal may settle slightly — give it a gentle swirl before opening.",
+        "Carbonation level is comparable to regular lemon kefir — moderate and manageable."
+      ],
+      "checkpoint": "Bottle pressurized, opaque black, fizzy when burped"
+    },
+    {
+      "step": 4,
+      "title": "Serve",
+      "instruction": "Open carefully. Gently swirl to redistribute charcoal. Serve over ice in a clear glass — the visual is striking. This is essentially a probiotic lemonade that happens to be jet black. Refrigerate for up to 5 days. Shake gently before serving as charcoal settles.",
+      "duration": "2 min",
+      "tips": [
+        "The black colour is Instagram gold — this is the most photogenic water kefir flavour.",
+        "WARNING: Do not drink within 2 hours of taking any medication. Activated charcoal absorbs drugs.",
+        "Charcoal stains teeth temporarily — rinse with water after drinking.",
+        "The flavour is simply fizzy lemonade — the charcoal adds no taste.",
+        "Serve at Halloween parties, Gothic-themed dinners, or when you want to surprise guests."
+      ],
+      "checkpoint": "Jet-black, fizzy, tart probiotic lemonade"
+    }
+  ],
+  "images": [],
+  "culturalContext": {
+    "story": "Activated charcoal beverages exploded onto the wellness scene in the mid-2010s, driven by juice bars and Instagram aesthetics. While the 'detox' claims are largely unsubstantiated (your liver and kidneys handle detoxification), the dramatic visual impact is undeniable. Combining activated charcoal with water kefir adds actual probiotic benefits to a trend that's mostly about looks.",
+    "historicalNote": "Activated charcoal has been used medicinally for over 3,000 years — the ancient Egyptians used it for water purification and wound treatment. In modern medicine, it's used in emergency rooms to treat poisoning. Its use as a food/beverage ingredient is a 21st-century trend driven by wellness culture and social media.",
+    "significance": "This recipe is honest about what it is: a visually stunning, conversation-starting probiotic lemonade. The charcoal doesn't add meaningful health benefits in this quantity, but the water kefir does. It's a great example of using trend appeal to introduce people to real fermentation.",
+    "relatedTraditions": [
+      "Activated charcoal in emergency medicine (global)",
+      "Charcoal water purification (ancient Egypt)",
+      "Black lemonade trend (2010s wellness culture)",
+      "Nimbu pani (Indian lemonade)"
+    ],
+    "funFact": "Activated charcoal has a surface area of about 3,000 square metres per gram — that's roughly the size of a football field packed into a teaspoon. This enormous surface area is what makes it absorb toxins (and unfortunately, medications)."
+  },
+  "thingsToAccountFor": [
+    {
+      "title": "MEDICATION INTERACTION WARNING",
+      "description": "Activated charcoal absorbs medications, supplements, and oral contraceptives, reducing or eliminating their effectiveness. Do NOT drink this within 2 hours before or after taking any medication. This is not a wellness suggestion — it's a pharmacological fact.",
+      "severity": "warning",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Use food-grade charcoal only",
+      "description": "Only use activated charcoal explicitly sold as food-grade or pharmaceutical-grade. Charcoal briquettes, aquarium charcoal, and artistic charcoal are NOT safe for consumption — they may contain additives and contaminants.",
+      "severity": "warning",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Charcoal stains",
+      "description": "Activated charcoal will stain clothes, teeth, and porous surfaces (wood, grout). Handle with care. Rinse mouth with water after drinking. Use glass and stainless steel equipment.",
+      "severity": "important",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Detox claims are unproven",
+      "description": "Despite marketing claims, drinking activated charcoal does not 'detoxify' your body. Your liver and kidneys do that. The actual health benefits of this drink come from the water kefir probiotics and lemon juice, not the charcoal.",
+      "severity": "info",
+      "appliesTo": ["all"]
+    }
+  ],
+  "dehydratorIntegration": {
+    "applicable": false,
+    "method": "Not recommended for flavoured water kefir.",
+    "result": "N/A",
+    "shelfLife": "N/A",
+    "tips": [
+      "Freeze into jet-black ice cubes for dramatic cocktail presentation"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Charcoal Ginger Lemon Kefir",
+      "description": "Add 10g grated ginger along with the lemon and charcoal. Adds warmth and kick to the black lemonade.",
+      "region": "Modern / Global"
+    },
+    {
+      "name": "Black Lemonade Kefir (No Charcoal)",
+      "description": "Skip the charcoal entirely for a regular probiotic lemonade. All the flavour, none of the medication concerns.",
+      "region": "Global"
+    }
+  ],
+  "relatedRecipes": [
+    "water-kefir-basic",
+    "coconut-water-kefir",
+    "water-kefir-beet-ginger",
+    "water-kefir-raspberry-lemonade",
+    "water-kefir-ginger-beer"
+  ],
+  "tags": [
+    "intermediate",
+    "vegan",
+    "probiotic",
+    "kefir",
+    "water-kefir",
+    "charcoal",
+    "lemon",
+    "detox",
+    "wellness",
+    "dramatic",
+    "dairy-free",
+    "year-round",
+    "second-ferment",
+    "instagram",
+    "conversation-starter"
+  ],
+  "dietaryFlags": [
+    "gluten-free",
+    "vegan"
+  ],
+  "veganAdaptable": true,
+  "containsAllergens": [],
+  "sources": [
+    {
+      "title": "Tibicos — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tibicos",
+      "license": "CC BY-SA"
+    },
+    {
+      "title": "Activated carbon — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Activated_carbon",
+      "license": "CC BY-SA"
+    }
+  ],
+  "videos": [],
+  "citations": []
+}

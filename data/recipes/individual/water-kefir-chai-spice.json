@@ -1,0 +1,307 @@
+{
+  "id": "water-kefir-chai-spice",
+  "slug": "water-kefir-chai-spice",
+  "name": "Chai Spice Water Kefir",
+  "nameLocal": "ಚಹಾ ಮಸಾಲೆ ಕೆಫಿರ್",
+  "nameRomanized": "Chaha Masale Kefir",
+  "subtitle": "Warm chai spices — cinnamon, cardamom, clove, ginger — in a fizzy probiotic soda",
+  "category": "beverage",
+  "subcategory": "probiotic soda",
+  "technique": "culture",
+  "region": "South Asia",
+  "country": "India",
+  "countryCode": "IN",
+  "culturalGroup": "South Asian",
+  "difficulty": 2,
+  "tier": "intermediate",
+  "tierLabel": "Spice Balancing Required",
+  "prepTime": "15 min",
+  "fermentTimeMin": 24,
+  "fermentTimeMax": 48,
+  "fermentTimeUnit": "hours",
+  "totalTimeHuman": "24–48 hours (2F only)",
+  "blrNote": "Every ingredient for this recipe is available at any Bengaluru kirana store for a few rupees. Karnataka's Coorg region produces some of India's finest cardamom, and the spice markets at KR Market are unbeatable for quality and price. Buy whole spices — pre-ground loses potency quickly. At BLR temps, the spice infusion is faster. This is essentially chai without the milk and tea — a uniquely Indian probiotic soda.",
+  "seasonality": ["all"],
+  "ingredients": [
+    {
+      "name": "Plain water kefir (finished 1F)",
+      "nameLocal": null,
+      "amount": 750,
+      "unit": "ml",
+      "unitMetric": "750ml",
+      "category": "liquid",
+      "essential": true,
+      "substitutions": [],
+      "localAvailability": {
+        "IN": {
+          "ease": "moderate",
+          "where": "Homemade from water kefir grains. See water-kefir-basic recipe."
+        }
+      }
+    },
+    {
+      "name": "Cinnamon stick",
+      "nameLocal": "Dalchini / Chakke",
+      "amount": 1,
+      "unit": "stick",
+      "unitMetric": "3g (1 small stick)",
+      "category": "spice",
+      "essential": true,
+      "substitutions": [
+        "Cinnamon powder (1/4 tsp) — less elegant but works"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana store or KR Market spice section. ₹5–10 per stick."
+        }
+      }
+    },
+    {
+      "name": "Green cardamom pods (lightly crushed)",
+      "nameLocal": "Elakki / Elaichi",
+      "amount": 3,
+      "unit": "pods",
+      "unitMetric": "1.5g",
+      "category": "spice",
+      "essential": true,
+      "substitutions": [
+        "Cardamom powder (1/4 tsp)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana store. Coorg cardamom from KR Market is exceptional. ₹2–3/pod."
+        }
+      }
+    },
+    {
+      "name": "Whole cloves",
+      "nameLocal": "Lavanga",
+      "amount": 2,
+      "unit": "cloves",
+      "unitMetric": "0.5g",
+      "category": "spice",
+      "essential": true,
+      "substitutions": [
+        "Clove powder (tiny pinch) — very potent, use sparingly"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana store or KR Market."
+        }
+      }
+    },
+    {
+      "name": "Fresh ginger (sliced)",
+      "nameLocal": "Shunthi / Adrak",
+      "amount": 5,
+      "unit": "g",
+      "unitMetric": "5g (1/2-inch piece)",
+      "category": "spice",
+      "essential": true,
+      "substitutions": [
+        "Dried ginger powder (1/4 tsp)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any vegetable vendor or kirana store."
+        }
+      }
+    },
+    {
+      "name": "Sugar or jaggery",
+      "nameLocal": "Sakkare / Bella",
+      "amount": 2,
+      "unit": "tbsp",
+      "unitMetric": "30g",
+      "category": "sweetener",
+      "essential": true,
+      "substitutions": [
+        "Brown sugar — adds warmth",
+        "Coconut sugar"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana store. Jaggery at KR Market."
+        }
+      }
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Swing-top glass bottle (500ml–1L)",
+      "essential": true,
+      "notes": "Pressure-rated for carbonation."
+    },
+    {
+      "name": "Plastic or nylon mesh strainer",
+      "essential": true,
+      "notes": "Fine mesh to strain out whole spices."
+    },
+    {
+      "name": "Mortar and pestle or rolling pin",
+      "essential": false,
+      "notes": "For lightly crushing cardamom pods to release flavour."
+    }
+  ],
+  "tldr": "Add whole chai spices (cinnamon, cardamom, clove, ginger) and sugar to finished water kefir, seal and ferment 24–48 hours. A fizzy, spiced, dairy-free probiotic chai soda.",
+  "steps": [
+    {
+      "step": 1,
+      "title": "Prepare base water kefir",
+      "instruction": "Make a batch of plain water kefir following the water-kefir-basic recipe. Strain out the grains. You need about 750ml of finished plain water kefir.",
+      "duration": "24–48 hours (done in advance)",
+      "tips": [
+        "A slightly sweet 1F works best with chai spices — the sweetness carries the spice flavours.",
+        "Reserve grains in fresh sugar water for your next batch."
+      ],
+      "checkpoint": "750ml of strained, room-temperature plain water kefir"
+    },
+    {
+      "step": 2,
+      "title": "Prepare chai spice blend",
+      "instruction": "Break the cinnamon stick into 2–3 pieces. Lightly crush 3 cardamom pods with the flat of a knife or mortar and pestle — just enough to crack them open. Thinly slice 5g of fresh ginger. Add the cinnamon pieces, cracked cardamom, 2 whole cloves, ginger slices, and 2 tablespoons of sugar (or jaggery) to your swing-top bottle.",
+      "duration": "5 min",
+      "tips": [
+        "Whole spices infuse more cleanly than ground — the result is less murky and easier to strain.",
+        "Crushing cardamom releases the aromatic seeds inside — this is essential.",
+        "Cloves are very strong. 2 is plenty for 750ml. More will overpower everything else.",
+        "Jaggery adds an authentic Indian warmth that's perfect for chai spice.",
+        "Leave 5 cm headspace."
+      ],
+      "checkpoint": "Whole spices and sugar in the bottle"
+    },
+    {
+      "step": 3,
+      "title": "Second ferment (2F)",
+      "instruction": "Pour the strained water kefir over the chai spice mixture. Seal tightly. Place in a warm spot away from direct sunlight for 24–48 hours. Burp every 12 hours. The spices will infuse gradually, creating an increasingly complex flavour.",
+      "duration": "24–48 hours",
+      "tips": [
+        "The sugar and ginger will produce decent carbonation. Spices themselves don't add carbonation fuel.",
+        "At BLR temps, 24 hours gives a mildly spiced drink. 48 hours gives a stronger chai character.",
+        "The colour will darken slightly from the cinnamon.",
+        "The aroma when you burp the bottle will smell exactly like chai — without the milk."
+      ],
+      "checkpoint": "Bottle pressurized, amber-tinted, smells like chai spices"
+    },
+    {
+      "step": 4,
+      "title": "Strain and serve",
+      "instruction": "Open carefully. Strain through a fine mesh strainer to remove all whole spices. Serve over ice for a refreshing spiced soda, or gently warm (don't boil — kills probiotics) for a winter chai alternative. Refrigerate for up to 7 days.",
+      "duration": "3 min",
+      "tips": [
+        "Served cold, this tastes like a fancy spiced soda. Served slightly warm, it's a probiotic chai.",
+        "A splash of coconut milk turns this into a dairy-free chai latte with probiotics.",
+        "Excellent over vanilla ice cream as a probiotic affogato-chai hybrid.",
+        "The spice flavour deepens in the fridge over 2–3 days."
+      ],
+      "checkpoint": "Warmly spiced, fizzy, aromatic probiotic chai soda"
+    }
+  ],
+  "images": [],
+  "culturalContext": {
+    "story": "Chai is India's national drink — over a billion cups are consumed daily. This recipe deconstructs chai into a probiotic soda: the same warming spices without the milk and tea. It's a uniquely Indian contribution to the water kefir world, using spices that have been central to Indian cuisine and medicine for thousands of years.",
+    "historicalNote": "The spices in chai — cardamom, cinnamon, clove, ginger — have been traded along the Spice Route for millennia. India was the world's primary source for these spices, driving exploration, colonization, and global trade. Today, India remains the world's largest consumer and producer of spices.",
+    "significance": "Chai spice water kefir represents the Indianization of water kefir culture. While water kefir grains likely originated in Mexico, flavouring them with Indian chai spices creates something entirely new — a fizzy, probiotic, dairy-free chai that doesn't exist in any traditional context.",
+    "relatedTraditions": [
+      "Masala chai (spiced tea, India)",
+      "Kashmiri kahwa (spiced green tea, Kashmir)",
+      "Spiced mead (Europe, historical)",
+      "Mulled cider (Europe)"
+    ],
+    "funFact": "India consumes about 837,000 tonnes of tea per year, most of it as chai. The word 'chai' itself comes from the Chinese 'chá' — brought to India via trade routes. Adding water kefir to the chai tradition is the latest chapter in chai's global journey."
+  },
+  "thingsToAccountFor": [
+    {
+      "title": "Clove intensity",
+      "description": "Cloves contain eugenol, a very powerful aromatic compound. 2 cloves for 750ml is the maximum recommended. More will make the drink taste medicinal and overpower the other spices.",
+      "severity": "important",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Spice infusion time matters",
+      "description": "At 24 hours, the spice flavour is mild and pleasant. At 48 hours, it's strong and complex. Beyond 48 hours, it can become bitter (especially from cinnamon tannins). Find your sweet spot.",
+      "severity": "important",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Use whole spices, not ground",
+      "description": "Ground spices create a murky, gritty drink that's hard to strain. Whole spices infuse cleanly and strain out easily. They also release flavour more gradually for a balanced result.",
+      "severity": "important",
+      "appliesTo": ["all"]
+    }
+  ],
+  "dehydratorIntegration": {
+    "applicable": false,
+    "method": "Not recommended for flavoured water kefir.",
+    "result": "N/A",
+    "shelfLife": "N/A",
+    "tips": [
+      "Freeze into chai spice ice cubes — add to cold milk for instant probiotic iced chai"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Masala Kefir Cola",
+      "description": "Add 1/4 tsp vanilla extract and a squeeze of lime to the chai spice blend. Creates a spiced cola-like drink.",
+      "region": "India / Fusion"
+    },
+    {
+      "name": "Kashmiri Kahwa Kefir",
+      "description": "Add a pinch of saffron and 2–3 crushed almonds along with the spices. Luxurious, golden, Kashmiri-inspired.",
+      "region": "India (Kashmir)"
+    },
+    {
+      "name": "Pumpkin Chai Kefir",
+      "description": "Add 2 tbsp pumpkin puree to the chai spice blend. Autumn-seasonal, tastes like pumpkin spice latte in soda form.",
+      "region": "North America / Fusion"
+    }
+  ],
+  "relatedRecipes": [
+    "water-kefir-basic",
+    "coconut-water-kefir",
+    "water-kefir-ginger-beer",
+    "water-kefir-cola",
+    "water-kefir-hibiscus-rose"
+  ],
+  "tags": [
+    "intermediate",
+    "vegan",
+    "probiotic",
+    "kefir",
+    "water-kefir",
+    "chai",
+    "spice",
+    "cinnamon",
+    "cardamom",
+    "indian",
+    "dairy-free",
+    "year-round",
+    "second-ferment",
+    "warming"
+  ],
+  "dietaryFlags": [
+    "gluten-free",
+    "vegan"
+  ],
+  "veganAdaptable": true,
+  "containsAllergens": [],
+  "sources": [
+    {
+      "title": "Tibicos — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tibicos",
+      "license": "CC BY-SA"
+    },
+    {
+      "title": "Masala chai — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Masala_chai",
+      "license": "CC BY-SA"
+    }
+  ],
+  "videos": [],
+  "citations": []
+}

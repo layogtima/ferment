@@ -1,0 +1,261 @@
+{
+  "id": "water-kefir-apple-cider",
+  "slug": "water-kefir-apple-cider",
+  "name": "Apple Cider Water Kefir",
+  "nameLocal": "ಸೇಬು ಸೈಡರ್ ಕೆಫಿರ್",
+  "nameRomanized": "Sebu Cider Kefir",
+  "subtitle": "Autumn-inspired sparkling apple cider with cinnamon — a probiotic seasonal treat",
+  "category": "beverage",
+  "subcategory": "probiotic soda",
+  "technique": "culture",
+  "region": "North America / Europe",
+  "country": "United States",
+  "countryCode": "US",
+  "culturalGroup": "American / European",
+  "difficulty": 1,
+  "tier": "beginner",
+  "tierLabel": "Easy Second Ferment",
+  "prepTime": "10 min",
+  "fermentTimeMin": 24,
+  "fermentTimeMax": 48,
+  "fermentTimeUnit": "hours",
+  "totalTimeHuman": "24–48 hours (2F only)",
+  "blrNote": "Indian apples from Shimla and Kinnaur are available September–February at KR Market and Hopcoms (₹100–200/kg). Kashmir and Himachal apples are sweeter and more aromatic than imported varieties. Year-round, use 100% apple juice (no preservatives — Real, Tropicana, or B Natural brands). At BLR temps, apple juice ferments well in 24 hours. Add a cinnamon stick for autumn warmth.",
+  "seasonality": ["autumn", "winter"],
+  "ingredients": [
+    {
+      "name": "Plain water kefir (finished 1F)",
+      "nameLocal": null,
+      "amount": 500,
+      "unit": "ml",
+      "unitMetric": "500ml",
+      "category": "liquid",
+      "essential": true,
+      "substitutions": [],
+      "localAvailability": {
+        "IN": {
+          "ease": "moderate",
+          "where": "Homemade from water kefir grains. See water-kefir-basic recipe."
+        }
+      }
+    },
+    {
+      "name": "Fresh apple juice (or 100% packaged)",
+      "nameLocal": "Sebu Rasa",
+      "amount": 250,
+      "unit": "ml",
+      "unitMetric": "250ml",
+      "category": "fruit",
+      "essential": true,
+      "substitutions": [
+        "Chopped apples (200g, blended and strained)",
+        "Cloudy apple juice (more flavourful, with pulp)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "100% apple juice from any supermarket year-round. Fresh Shimla/Kinnaur apples Sept–Feb at KR Market, Hopcoms."
+        }
+      }
+    },
+    {
+      "name": "Cinnamon stick",
+      "nameLocal": "Dalchini",
+      "amount": 1,
+      "unit": "stick",
+      "unitMetric": "3g",
+      "category": "spice",
+      "essential": false,
+      "substitutions": [
+        "Cinnamon powder (1/4 tsp)",
+        "Skip for pure apple flavour"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana store or KR Market."
+        }
+      }
+    },
+    {
+      "name": "Sugar (optional)",
+      "nameLocal": "Sakkare / Cheeni",
+      "amount": 1,
+      "unit": "tsp",
+      "unitMetric": "5g",
+      "category": "sweetener",
+      "essential": false,
+      "substitutions": [
+        "Skip if apple juice is sweet enough"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana store or supermarket"
+        }
+      }
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Swing-top glass bottle (500ml–1L)",
+      "essential": true,
+      "notes": "Pressure-rated for carbonation."
+    },
+    {
+      "name": "Plastic or nylon mesh strainer",
+      "essential": true,
+      "notes": "To strain out cinnamon and any apple sediment."
+    },
+    {
+      "name": "Juicer or blender (optional)",
+      "essential": false,
+      "notes": "For making fresh apple juice. Store-bought works fine."
+    }
+  ],
+  "tldr": "Mix apple juice with finished water kefir, add a cinnamon stick, seal and ferment 24–48 hours. A sparkling, cinnamon-kissed, probiotic apple cider.",
+  "steps": [
+    {
+      "step": 1,
+      "title": "Prepare base water kefir",
+      "instruction": "Make a batch of plain water kefir following the water-kefir-basic recipe. Strain out the grains. You need about 500ml of finished plain water kefir.",
+      "duration": "24–48 hours (done in advance)",
+      "tips": [
+        "Using less water kefir since apple juice makes up 1/3 of the volume.",
+        "Reserve grains in fresh sugar water for your next batch."
+      ],
+      "checkpoint": "500ml of strained, room-temperature plain water kefir"
+    },
+    {
+      "step": 2,
+      "title": "Add apple juice and cinnamon",
+      "instruction": "Add 250ml of fresh or store-bought 100% apple juice to your swing-top bottle. Break a cinnamon stick in half and add it. Optionally add 1 tsp sugar if the juice isn't very sweet.",
+      "duration": "5 min",
+      "tips": [
+        "Cloudy/unfiltered apple juice gives more body and flavour than clear juice.",
+        "AVOID juice with preservatives — they prevent fermentation.",
+        "Tart apple varieties (Granny Smith, or tart Indian varieties) make a more complex cider.",
+        "Sweet varieties (Fuji, Kinnaur) make a more drinkable, softer cider.",
+        "Leave 5 cm headspace."
+      ],
+      "checkpoint": "Apple juice and cinnamon in the bottle"
+    },
+    {
+      "step": 3,
+      "title": "Second ferment (2F)",
+      "instruction": "Pour the strained water kefir over the apple juice and cinnamon. Seal tightly. Place in a warm spot away from direct sunlight for 24–48 hours. Burp every 12 hours.",
+      "duration": "24–48 hours",
+      "tips": [
+        "Apple juice has good sugar content for reliable carbonation.",
+        "The colour will be amber-gold, like sparkling cider.",
+        "At BLR temps, 24 hours gives nice fizz. 48 hours for a drier, more complex cider.",
+        "The cinnamon aroma deepens over time."
+      ],
+      "checkpoint": "Bottle pressurized, amber-gold, apple-cinnamon aroma"
+    },
+    {
+      "step": 4,
+      "title": "Strain and serve",
+      "instruction": "Open carefully. Remove the cinnamon stick and strain if needed. Serve chilled. This tastes like sparkling apple cider — autumnal, warming, and sophisticated. Excellent served warm (gently, don't boil) on cold evenings. Refrigerate for up to 7 days.",
+      "duration": "3 min",
+      "tips": [
+        "Serve in a wine glass — this is elegant enough for dinner parties.",
+        "Gently warm it (below 40°C to preserve probiotics) for a cozy winter drink.",
+        "Add a splash of rum or bourbon for a probiotic hot toddy.",
+        "The cinnamon flavour intensifies in the fridge over 2–3 days."
+      ],
+      "checkpoint": "Amber-gold, sparkling, cinnamon-apple probiotic cider"
+    }
+  ],
+  "images": [],
+  "culturalContext": {
+    "story": "Sparkling apple cider is a beloved autumn tradition in North America and Europe. Before refrigeration, most apple juice was naturally fermented into cider or vinegar — it was the default way to preserve the apple harvest. This water kefir version creates a non-alcoholic, probiotic sparkling cider that captures that seasonal magic year-round.",
+    "historicalNote": "Hard cider was the most popular alcoholic beverage in Colonial America — early settlers drank it daily because clean water was unreliable. Apple cider vinegar, a further fermentation of cider, became a health tonic. This water kefir version sits in the sweet spot between fresh juice and fermented cider.",
+    "significance": "Apple cider kefir bridges Indian and Western apple traditions. India is the world's 5th largest apple producer (mainly Himachal Pradesh and Kashmir), yet fermented apple beverages aren't common in Indian food culture. This recipe introduces the concept using familiar Indian ingredients.",
+    "relatedTraditions": [
+      "Hard cider (England, France, America)",
+      "Apple cider vinegar (global health tonic)",
+      "Apfelschorle (apple spritzer, Germany)",
+      "Sparkling cider (non-alcoholic, American tradition)"
+    ],
+    "funFact": "There are over 7,500 varieties of apples worldwide. India's Himachal Pradesh alone grows over 20 commercial varieties. The 'Kinnaur' apple from the Kinnaur district is prized for its sweetness — the high altitude and cold nights concentrate the sugars."
+  },
+  "thingsToAccountFor": [
+    {
+      "title": "Avoid juice with preservatives",
+      "description": "Many packaged apple juices contain preservatives (potassium sorbate, sodium benzoate) that prevent fermentation. Read the label carefully — choose 100% juice with nothing added.",
+      "severity": "warning",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Wild yeast on fresh apples",
+      "description": "Fresh apple juice contains wild yeast that can contribute to fermentation. This adds complexity but may produce slightly alcoholic results if the ferment goes too long. Keep the 2F to 48 hours maximum.",
+      "severity": "info",
+      "appliesTo": ["all"]
+    }
+  ],
+  "dehydratorIntegration": {
+    "applicable": false,
+    "method": "Not recommended for flavoured water kefir.",
+    "result": "N/A",
+    "shelfLife": "N/A",
+    "tips": [
+      "Freeze into apple cider ice cubes for adding to warm cider or cocktails"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Spiced Apple Cider Kefir",
+      "description": "Add 2 crushed cardamom pods, 2 cloves, and a star anise along with the cinnamon. Full mulled cider spice profile.",
+      "region": "Europe"
+    },
+    {
+      "name": "Apple Ginger Kefir",
+      "description": "Replace cinnamon with 10g fresh ginger. Sharper, more invigorating — like a ginger apple spritzer.",
+      "region": "Global"
+    }
+  ],
+  "relatedRecipes": [
+    "water-kefir-basic",
+    "coconut-water-kefir",
+    "water-kefir-grape-soda",
+    "water-kefir-chai-spice",
+    "water-kefir-cream-soda"
+  ],
+  "tags": [
+    "beginner",
+    "vegan",
+    "probiotic",
+    "kefir",
+    "water-kefir",
+    "apple",
+    "cider",
+    "cinnamon",
+    "autumn",
+    "seasonal",
+    "dairy-free",
+    "second-ferment",
+    "warming",
+    "soda-alternative"
+  ],
+  "dietaryFlags": [
+    "gluten-free",
+    "vegan"
+  ],
+  "veganAdaptable": true,
+  "containsAllergens": [],
+  "sources": [
+    {
+      "title": "Tibicos — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tibicos",
+      "license": "CC BY-SA"
+    },
+    {
+      "title": "Apple cider — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Apple_cider",
+      "license": "CC BY-SA"
+    }
+  ],
+  "videos": [],
+  "citations": []
+}

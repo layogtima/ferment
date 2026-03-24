@@ -1,0 +1,276 @@
+{
+  "id": "water-kefir-ginger-beer",
+  "slug": "water-kefir-ginger-beer",
+  "name": "Ginger Beer Water Kefir",
+  "nameLocal": "ಶುಂಠಿ ಬಿಯರ್ ಕೆಫಿರ್",
+  "nameRomanized": "Shunthi Beer Kefir",
+  "subtitle": "Strong, spicy, beer-like ginger probiotic soda with serious heat and carbonation",
+  "category": "beverage",
+  "subcategory": "probiotic soda",
+  "technique": "culture",
+  "region": "Caribbean / British",
+  "country": "Jamaica",
+  "countryCode": "JM",
+  "culturalGroup": "Caribbean / British",
+  "difficulty": 2,
+  "tier": "intermediate",
+  "tierLabel": "Bold Flavour, Needs Attention",
+  "prepTime": "15 min",
+  "fermentTimeMin": 24,
+  "fermentTimeMax": 72,
+  "fermentTimeUnit": "hours",
+  "totalTimeHuman": "24–72 hours (2F only)",
+  "blrNote": "Fresh ginger is available at every vegetable vendor in Bengaluru for ₹100–200/kg. Look for plump, smooth-skinned rhizomes — they're younger and juicier. For maximum heat, use older, more fibrous ginger. At BLR temps, ginger ferments vigorously — this is one of the most carbonated 2F flavours. Start checking at 18 hours in summer. Wrap bottles in a towel as a safety precaution.",
+  "seasonality": ["all"],
+  "ingredients": [
+    {
+      "name": "Plain water kefir (finished 1F)",
+      "nameLocal": null,
+      "amount": 750,
+      "unit": "ml",
+      "unitMetric": "750ml",
+      "category": "liquid",
+      "essential": true,
+      "substitutions": [],
+      "localAvailability": {
+        "IN": {
+          "ease": "moderate",
+          "where": "Homemade from water kefir grains. See water-kefir-basic recipe."
+        }
+      }
+    },
+    {
+      "name": "Fresh ginger (grated or juiced)",
+      "nameLocal": "Shunthi / Adrak",
+      "amount": 30,
+      "unit": "g",
+      "unitMetric": "30g (2-inch piece, grated)",
+      "category": "spice",
+      "essential": true,
+      "substitutions": [
+        "Ginger juice (15ml) — more convenient, equally effective"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Every vegetable vendor, kirana store. ₹100–200/kg year-round."
+        }
+      }
+    },
+    {
+      "name": "Lemon juice",
+      "nameLocal": "Nimbu Rasa",
+      "amount": 15,
+      "unit": "ml",
+      "unitMetric": "15ml (juice of half a lemon)",
+      "category": "citrus",
+      "essential": true,
+      "substitutions": [
+        "Lime juice"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Every vegetable vendor. ₹2–5 per lime/lemon."
+        }
+      }
+    },
+    {
+      "name": "Sugar or jaggery",
+      "nameLocal": "Sakkare / Bella",
+      "amount": 2,
+      "unit": "tbsp",
+      "unitMetric": "30g",
+      "category": "sweetener",
+      "essential": true,
+      "substitutions": [
+        "Molasses (1 tbsp) — adds authentic ginger beer darkness and depth",
+        "Brown sugar"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana store or supermarket. Jaggery (bella) available at KR Market."
+        }
+      }
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Swing-top glass bottle (500ml–1L)",
+      "essential": true,
+      "notes": "MUST be pressure-rated. Ginger beer 2F produces extreme carbonation. Consider using plastic bottles for safety."
+    },
+    {
+      "name": "Plastic or nylon mesh strainer",
+      "essential": true,
+      "notes": "Fine mesh to strain out ginger pulp."
+    },
+    {
+      "name": "Grater or ginger press",
+      "essential": true,
+      "notes": "Fine grater releases maximum ginger flavour and heat."
+    },
+    {
+      "name": "Towel (for wrapping bottles)",
+      "essential": false,
+      "notes": "Wrap bottles in a towel during 2F as a safety measure against potential bottle explosions."
+    }
+  ],
+  "tldr": "Grate 30g ginger, add lemon juice and sugar to finished water kefir, seal and ferment 24–72 hours. A fiery, aggressively carbonated probiotic ginger beer.",
+  "steps": [
+    {
+      "step": 1,
+      "title": "Prepare base water kefir",
+      "instruction": "Make a batch of plain water kefir following the water-kefir-basic recipe. Strain out the grains. You need about 750ml of finished plain water kefir.",
+      "duration": "24–48 hours (done in advance)",
+      "tips": [
+        "For ginger beer, a slightly sweeter 1F (shorter ferment) works well — the residual sugar balances the ginger heat.",
+        "Reserve grains in fresh sugar water for your next batch."
+      ],
+      "checkpoint": "750ml of strained, room-temperature plain water kefir"
+    },
+    {
+      "step": 2,
+      "title": "Add ginger, lemon, and sugar",
+      "instruction": "Finely grate 30g of fresh ginger (no need to peel if organic — the skin adds flavour). Squeeze the grated ginger over the bottle to extract the juice, then add the pulp too. Add 15ml lemon juice and 2 tablespoons of sugar (or jaggery). For extra depth, add 1 teaspoon of molasses.",
+      "duration": "10 min",
+      "tips": [
+        "More ginger = more heat. 30g gives a strong ginger beer kick. For milder, use 15g.",
+        "Fine grating releases more oils and flavour than chopping or slicing.",
+        "Jaggery adds minerals and a molasses-like depth that suits ginger beer perfectly.",
+        "The lemon juice adds brightness and helps preserve the ginger's sharp flavour.",
+        "Leave 5–7 cm headspace — this one gets VERY fizzy."
+      ],
+      "checkpoint": "Grated ginger, lemon juice, and sugar in the bottle"
+    },
+    {
+      "step": 3,
+      "title": "Second ferment (2F)",
+      "instruction": "Pour the strained water kefir over the ginger mixture. Seal tightly. Wrap the bottle in a towel (safety precaution) and place in a warm spot away from direct sunlight. Ferment 24–72 hours. Burp EVERY 8 HOURS — ginger beer builds extreme carbonation.",
+      "duration": "24–72 hours",
+      "tips": [
+        "WARNING: Ginger + sugar creates one of the most aggressive carbonation profiles in water kefir.",
+        "Burp frequently — every 8 hours in warm weather. This is the flavour most likely to cause bottle bombs.",
+        "At BLR temps, start checking at 18 hours. A longer ferment (48–72 hours) gives more complexity and less sweetness.",
+        "Wrapping in a towel contains glass shards if the worst happens. Or use a plastic bottle.",
+        "The ginger heat mellows slightly over time as the fermentation progresses."
+      ],
+      "checkpoint": "Bottle is highly pressurized, strong ginger aroma when burped"
+    },
+    {
+      "step": 4,
+      "title": "Strain and serve",
+      "instruction": "Open VERY carefully over a sink — point away from face. The fizz will be aggressive. Strain through a fine mesh strainer to remove ginger pulp. Serve over ice. This is a proper ginger beer — spicy, dry, and intensely carbonated. Refrigerate for up to 7 days.",
+      "duration": "3 min",
+      "tips": [
+        "Open in the sink with your hand over the cap, releasing pressure slowly.",
+        "Excellent as a cocktail mixer — use in Moscow Mules, Dark and Stormys.",
+        "For a shandy, mix 50/50 with the plain water kefir.",
+        "The heat builds as you drink — have water nearby if you used the full 30g ginger."
+      ],
+      "checkpoint": "Fiery, dry, aggressively carbonated ginger beer"
+    }
+  ],
+  "images": [],
+  "culturalContext": {
+    "story": "Ginger beer originated in 18th-century England and became a staple of Caribbean culture, particularly in Jamaica. Traditional ginger beer is brewed with a 'ginger beer plant' — a symbiotic culture remarkably similar to water kefir grains. Using water kefir grains to make ginger beer is returning to the drink's fermented roots.",
+    "historicalNote": "The original ginger beer plant (GBP) is a SCOBY of Lactobacillus hilgardii and Saccharomyces florentinus — very similar to water kefir grains (tibicos). Some researchers believe they may share a common ancestor. The commercial ginger beer you buy today is just ginger-flavoured soda, nothing like the original fermented version.",
+    "significance": "This recipe reclaims ginger beer as a living, probiotic beverage. It's one of the most satisfying water kefir flavours — the combination of heat, carbonation, and tang creates something that genuinely rivals craft ginger beers sold for ₹200+ per bottle.",
+    "relatedTraditions": [
+      "Ginger beer (Jamaica / England)",
+      "Ginger bug (traditional ginger starter culture)",
+      "Adrak chai (ginger tea, India)",
+      "Ginger ale (Canada / USA)"
+    ],
+    "funFact": "During the 18th and 19th centuries, ginger beer was so popular in Britain that it had its own dedicated pottery bottles — the 'stone ginger beer bottle' is now a collectible antique. The pressure from fermentation required stoneware rather than glass."
+  },
+  "thingsToAccountFor": [
+    {
+      "title": "Extreme carbonation risk",
+      "description": "Ginger beer water kefir produces the most aggressive carbonation of any common 2F flavour. The combination of fresh ginger and added sugar creates a CO₂ bomb. Burp every 8 hours, use pressure-rated bottles, and consider wrapping in a towel. Or use a plastic bottle that you can squeeze to gauge pressure.",
+      "severity": "warning",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Heat varies by ginger age",
+      "description": "Young ginger (smooth, pink-tipped) is milder and juicier. Mature ginger (fibrous, wrinkled) is much hotter and more pungent. Adjust the amount based on the ginger you have and your heat tolerance.",
+      "severity": "important",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "BLR heat amplifies everything",
+      "description": "At Bengaluru summer temperatures (28–32°C), ginger beer 2F can reach dangerous pressure levels in 12–18 hours. Check early and often. Use a plastic bottle for your first batch to gauge fermentation speed.",
+      "severity": "warning",
+      "appliesTo": ["blr"]
+    }
+  ],
+  "dehydratorIntegration": {
+    "applicable": false,
+    "method": "Not recommended for ginger beer kefir.",
+    "result": "N/A",
+    "shelfLife": "N/A",
+    "tips": [
+      "Freeze into ginger beer ice cubes for an instant cocktail mixer"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Dark & Stormy Kefir",
+      "description": "Add 1 tbsp molasses or dark muscovado sugar for a darker, richer ginger beer. Serve with dark rum over ice for a probiotic cocktail.",
+      "region": "Caribbean"
+    },
+    {
+      "name": "Turmeric Ginger Beer Kefir",
+      "description": "Add 5g fresh turmeric and a pinch of black pepper along with the ginger. Anti-inflammatory golden ginger beer.",
+      "region": "India"
+    },
+    {
+      "name": "Mild Ginger Ale Kefir",
+      "description": "Reduce ginger to 10g and add 1 tsp vanilla extract. Creates a milder, more ginger-ale-like drink.",
+      "region": "North America"
+    }
+  ],
+  "relatedRecipes": [
+    "water-kefir-basic",
+    "coconut-water-kefir",
+    "water-kefir-mango-ginger",
+    "water-kefir-beet-ginger",
+    "water-kefir-cola"
+  ],
+  "tags": [
+    "intermediate",
+    "vegan",
+    "probiotic",
+    "kefir",
+    "water-kefir",
+    "ginger",
+    "ginger-beer",
+    "spicy",
+    "dairy-free",
+    "year-round",
+    "second-ferment",
+    "cocktail-mixer",
+    "bold"
+  ],
+  "dietaryFlags": [
+    "gluten-free",
+    "vegan"
+  ],
+  "veganAdaptable": true,
+  "containsAllergens": [],
+  "sources": [
+    {
+      "title": "Tibicos — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tibicos",
+      "license": "CC BY-SA"
+    },
+    {
+      "title": "Ginger beer — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ginger_beer",
+      "license": "CC BY-SA"
+    }
+  ],
+  "videos": [],
+  "citations": []
+}

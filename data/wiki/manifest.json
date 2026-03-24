@@ -30,6 +30,11 @@
     { "id": "health-benefits-of-kefir", "slug": "health-benefits-of-kefir", "file": "health-benefits-of-kefir.json" },
     { "id": "troubleshooting-kefir", "slug": "troubleshooting-kefir", "file": "troubleshooting-kefir.json" },
     { "id": "kefir-second-ferments", "slug": "kefir-second-ferments", "file": "kefir-second-ferments.json" },
-    { "id": "history-of-kefir", "slug": "history-of-kefir", "file": "history-of-kefir.json" }
+    { "id": "history-of-kefir", "slug": "history-of-kefir", "file": "history-of-kefir.json" },
+    { "id": "getting-started-water-kefir", "slug": "getting-started-water-kefir", "file": "getting-started-water-kefir.json" },
+    { "id": "water-kefir-sugar-guide", "slug": "water-kefir-sugar-guide", "file": "water-kefir-sugar-guide.json" },
+    { "id": "water-kefir-carbonation-guide", "slug": "water-kefir-carbonation-guide", "file": "water-kefir-carbonation-guide.json" },
+    { "id": "water-kefir-flavoring-guide", "slug": "water-kefir-flavoring-guide", "file": "water-kefir-flavoring-guide.json" },
+    { "id": "water-kefir-vs-kombucha", "slug": "water-kefir-vs-kombucha", "file": "water-kefir-vs-kombucha.json" }
   ]
 }

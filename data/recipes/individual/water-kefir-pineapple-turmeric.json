@@ -1,0 +1,264 @@
+{
+  "id": "water-kefir-pineapple-turmeric",
+  "slug": "water-kefir-pineapple-turmeric",
+  "name": "Pineapple Turmeric Water Kefir",
+  "nameLocal": "ಅನಾನಸ್ ಅರಿಶಿನ ಕೆಫಿರ್",
+  "nameRomanized": "Ananas Arishina Kefir",
+  "subtitle": "Anti-inflammatory golden probiotic soda with tropical pineapple and fresh turmeric",
+  "category": "beverage",
+  "subcategory": "probiotic soda",
+  "technique": "culture",
+  "region": "South Asia / Tropical",
+  "country": "India",
+  "countryCode": "IN",
+  "culturalGroup": "South Asian / Wellness",
+  "difficulty": 1,
+  "tier": "beginner",
+  "tierLabel": "Easy Second Ferment",
+  "prepTime": "10 min",
+  "fermentTimeMin": 18,
+  "fermentTimeMax": 48,
+  "fermentTimeUnit": "hours",
+  "totalTimeHuman": "18–48 hours (2F only)",
+  "blrNote": "Fresh turmeric root is available year-round at any Bengaluru vegetable vendor or kirana for a few rupees. Karnataka is one of India's largest turmeric producers — you're getting it fresh from the source. Pineapple is available year-round at KR Market and Hopcoms (₹30–60 per fruit). At BLR temps, the 2F with pineapple can be very active — check at 12–18 hours in summer.",
+  "seasonality": ["all"],
+  "ingredients": [
+    {
+      "name": "Plain water kefir (finished 1F)",
+      "nameLocal": null,
+      "amount": 750,
+      "unit": "ml",
+      "unitMetric": "750ml",
+      "category": "liquid",
+      "essential": true,
+      "substitutions": [],
+      "localAvailability": {
+        "IN": {
+          "ease": "moderate",
+          "where": "Homemade from water kefir grains. See water-kefir-basic recipe."
+        }
+      }
+    },
+    {
+      "name": "Fresh pineapple (chopped)",
+      "nameLocal": "Ananas",
+      "amount": 100,
+      "unit": "g",
+      "unitMetric": "100g",
+      "category": "fruit",
+      "essential": true,
+      "substitutions": [
+        "Pineapple juice (no preservatives, 100ml)",
+        "Canned pineapple chunks in juice (not syrup)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Year-round at KR Market, Hopcoms, and fruit vendors. ₹30–60 per fruit."
+        }
+      }
+    },
+    {
+      "name": "Fresh turmeric root",
+      "nameLocal": "Arishina / Haldi",
+      "amount": 5,
+      "unit": "g",
+      "unitMetric": "5g (1/2-inch piece)",
+      "category": "spice",
+      "essential": true,
+      "substitutions": [
+        "Turmeric powder (1/4 tsp) — less vibrant, works in a pinch"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any vegetable vendor, kirana store, or supermarket. Karnataka is a major turmeric-producing state."
+        }
+      }
+    },
+    {
+      "name": "Black pepper (2–3 whole peppercorns)",
+      "nameLocal": "Kalu Menasu / Kali Mirch",
+      "amount": 3,
+      "unit": "peppercorns",
+      "unitMetric": "0.5g",
+      "category": "spice",
+      "essential": false,
+      "substitutions": [
+        "Pinch of ground black pepper"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana store. Malabar pepper is the gold standard and widely available."
+        }
+      }
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Swing-top glass bottle (500ml–1L)",
+      "essential": true,
+      "notes": "Pressure-rated. Pineapple produces aggressive carbonation — use sturdy bottles."
+    },
+    {
+      "name": "Plastic or nylon mesh strainer",
+      "essential": true,
+      "notes": "Fine mesh to catch pineapple pulp and turmeric pieces."
+    },
+    {
+      "name": "Gloves (optional)",
+      "essential": false,
+      "notes": "Fresh turmeric stains everything yellow — wear gloves when handling."
+    }
+  ],
+  "tldr": "Add pineapple chunks, fresh turmeric, and black pepper to finished water kefir. Seal and ferment 18–48 hours for a golden, anti-inflammatory probiotic soda.",
+  "steps": [
+    {
+      "step": 1,
+      "title": "Prepare base water kefir",
+      "instruction": "Make a batch of plain water kefir following the water-kefir-basic recipe. Strain out the grains after the first ferment is complete. You need about 750ml of finished plain water kefir.",
+      "duration": "24–48 hours (done in advance)",
+      "tips": [
+        "The 1F should be mildly tart and lightly sweet.",
+        "Reserve grains in fresh sugar water for your next batch."
+      ],
+      "checkpoint": "750ml of strained, room-temperature plain water kefir"
+    },
+    {
+      "step": 2,
+      "title": "Add pineapple, turmeric, and pepper",
+      "instruction": "Chop 100g of fresh pineapple into small pieces (including some core — it has more bromelain). Peel and thinly slice 5g of fresh turmeric root. Add the pineapple, turmeric slices, and 2–3 whole black peppercorns to your swing-top bottle.",
+      "duration": "5 min",
+      "tips": [
+        "Wear gloves when handling fresh turmeric — it stains skin and cutting boards bright yellow.",
+        "Black pepper contains piperine, which increases turmeric's bioavailability by up to 2000%.",
+        "Include some pineapple core — it's tougher but rich in bromelain (anti-inflammatory enzyme).",
+        "Leave 5–7 cm headspace for carbonation."
+      ],
+      "checkpoint": "Pineapple chunks, turmeric slices, and peppercorns in the bottle"
+    },
+    {
+      "step": 3,
+      "title": "Second ferment (2F)",
+      "instruction": "Pour the strained water kefir over the pineapple and turmeric. Seal tightly. Place in a warm spot away from direct sunlight. Ferment 18–48 hours, burping every 8–12 hours. Pineapple is very sugar-rich and creates vigorous carbonation.",
+      "duration": "18–48 hours",
+      "tips": [
+        "CAUTION: Pineapple is one of the most aggressive 2F fruits. It produces intense carbonation.",
+        "At BLR temps (25–28°C), check at 12–18 hours. Summer can be as fast as 12 hours.",
+        "The drink will turn a beautiful golden-amber colour from the turmeric.",
+        "Burp more frequently in warm weather — every 8 hours is safer with pineapple."
+      ],
+      "checkpoint": "Bottle is pressurized, liquid is golden, vigorous fizz when burped"
+    },
+    {
+      "step": 4,
+      "title": "Strain and serve",
+      "instruction": "Open very carefully over a sink — pineapple 2F can geyser. Strain through a fine mesh strainer into glasses. Serve over ice. Refrigerate leftovers for up to 5 days.",
+      "duration": "3 min",
+      "tips": [
+        "Point the bottle away from your face when opening — pineapple kefir is notoriously explosive.",
+        "The golden colour is beautiful but will stain light fabrics — handle with care.",
+        "A squeeze of lime brightens the tropical-earthy flavour profile.",
+        "This is excellent as a morning wellness tonic over ice."
+      ],
+      "checkpoint": "Golden, fizzy, anti-inflammatory probiotic soda ready to drink"
+    }
+  ],
+  "images": [],
+  "culturalContext": {
+    "story": "Turmeric milk (haldi doodh) has been an Indian grandmother's remedy for centuries. This recipe reimagines that wellness tradition as a fizzy, tropical probiotic soda. The addition of pineapple brings tropical sweetness and bromelain — another powerful anti-inflammatory — creating a double-action wellness drink that actually tastes like a treat.",
+    "historicalNote": "Turmeric has been used in Ayurvedic medicine for over 4,000 years. Karnataka, where Bengaluru sits, is one of India's top turmeric-producing states. The black pepper addition isn't just for flavour — it's backed by modern science showing piperine increases curcumin absorption by 2000%.",
+    "significance": "This recipe represents the convergence of ancient Ayurvedic wisdom with modern fermentation science. It's a functional beverage that delivers probiotics, anti-inflammatory curcumin, and digestive enzymes (bromelain) in one delicious package.",
+    "relatedTraditions": [
+      "Haldi Doodh / Golden Milk (India)",
+      "Jamu (turmeric tonic, Indonesia)",
+      "Tepache (fermented pineapple, Mexico)",
+      "Turmeric ginger tea (Ayurvedic tradition)"
+    ],
+    "funFact": "Pineapple contains bromelain, an enzyme so powerful it can dissolve proteins — it's why your mouth tingles after eating too much pineapple. During 2F, the bromelain breaks down over time, so the finished kefir is gentler than eating raw pineapple."
+  },
+  "thingsToAccountFor": [
+    {
+      "title": "Pineapple creates extreme carbonation",
+      "description": "Pineapple is one of the highest-sugar fruits commonly used in 2F. Carbonation builds very quickly, especially at warm temperatures. Burp frequently and open bottles very carefully. Consider using plastic bottles for your first attempt.",
+      "severity": "warning",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Turmeric stains everything",
+      "description": "Fresh turmeric root will stain your hands, cutting board, strainer, and any fabric it touches a bright yellow. Wear gloves, use a dedicated cutting board, and handle with care.",
+      "severity": "important",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Don't skip the black pepper",
+      "description": "Piperine in black pepper dramatically increases the bioavailability of curcumin in turmeric. Without it, most of the turmeric passes through your body unabsorbed. 2–3 peppercorns is all you need.",
+      "severity": "info",
+      "appliesTo": ["all"]
+    }
+  ],
+  "dehydratorIntegration": {
+    "applicable": false,
+    "method": "Not recommended for flavoured water kefir.",
+    "result": "N/A",
+    "shelfLife": "N/A",
+    "tips": [
+      "Freeze into golden turmeric popsicles for an anti-inflammatory frozen treat"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Golden Milk Kefir",
+      "description": "Add a pinch of cinnamon and a thin slice of ginger along with the turmeric for a full golden-milk-inspired probiotic soda.",
+      "region": "India"
+    },
+    {
+      "name": "Pineapple Turmeric Ginger Kefir",
+      "description": "Add 5g of fresh ginger along with the turmeric. Triple anti-inflammatory action with a spicy kick.",
+      "region": "India / SE Asia"
+    }
+  ],
+  "relatedRecipes": [
+    "water-kefir-basic",
+    "coconut-water-kefir",
+    "water-kefir-mango-ginger",
+    "water-kefir-ginger-beer",
+    "water-kefir-beet-ginger"
+  ],
+  "tags": [
+    "beginner",
+    "vegan",
+    "probiotic",
+    "kefir",
+    "water-kefir",
+    "pineapple",
+    "turmeric",
+    "anti-inflammatory",
+    "wellness",
+    "dairy-free",
+    "year-round",
+    "second-ferment",
+    "functional"
+  ],
+  "dietaryFlags": [
+    "gluten-free",
+    "vegan"
+  ],
+  "veganAdaptable": true,
+  "containsAllergens": [],
+  "sources": [
+    {
+      "title": "Tibicos — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tibicos",
+      "license": "CC BY-SA"
+    },
+    {
+      "title": "Curcumin — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Curcumin",
+      "license": "CC BY-SA"
+    }
+  ],
+  "videos": [],
+  "citations": []
+}

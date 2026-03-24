@@ -1,0 +1,244 @@
+{
+  "id": "water-kefir-cream-soda",
+  "slug": "water-kefir-cream-soda",
+  "name": "Cream Soda Water Kefir",
+  "nameLocal": null,
+  "nameRomanized": null,
+  "subtitle": "Vanilla bean-forward probiotic cream soda — smooth, sweet, and naturally fizzy",
+  "category": "beverage",
+  "subcategory": "probiotic soda",
+  "technique": "culture",
+  "region": "North America / Global",
+  "country": "United States",
+  "countryCode": "US",
+  "culturalGroup": "American / Global",
+  "difficulty": 1,
+  "tier": "beginner",
+  "tierLabel": "Easy Second Ferment",
+  "prepTime": "5 min",
+  "fermentTimeMin": 24,
+  "fermentTimeMax": 48,
+  "fermentTimeUnit": "hours",
+  "totalTimeHuman": "24–48 hours (2F only)",
+  "blrNote": "Vanilla extract is available at Nature's Basket, Amazon India, and baking supply shops (₹200–500/bottle). For the best flavour, use a real vanilla bean — available at Nature's Basket or spice shops near KR Market (₹100–200 per pod). Indian vanilla from Kerala/Tamil Nadu is excellent. This is one of the simplest 2F flavours — just vanilla and sugar. At BLR temps, 24 hours gives nice carbonation.",
+  "seasonality": ["all"],
+  "ingredients": [
+    {
+      "name": "Plain water kefir (finished 1F)",
+      "nameLocal": null,
+      "amount": 750,
+      "unit": "ml",
+      "unitMetric": "750ml",
+      "category": "liquid",
+      "essential": true,
+      "substitutions": [],
+      "localAvailability": {
+        "IN": {
+          "ease": "moderate",
+          "where": "Homemade from water kefir grains. See water-kefir-basic recipe."
+        }
+      }
+    },
+    {
+      "name": "Vanilla bean or vanilla extract",
+      "nameLocal": null,
+      "amount": 1,
+      "unit": "bean (or 2 tsp extract)",
+      "unitMetric": "1 bean split and scraped, or 10ml extract",
+      "category": "flavoring",
+      "essential": true,
+      "substitutions": [
+        "Vanilla paste (1 tsp)",
+        "Vanilla powder (1/2 tsp)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "moderate",
+          "where": "Nature's Basket, Amazon India, KR Market spice shops. Vanilla beans ₹100–200/pod. Extract ₹200–500/bottle."
+        }
+      }
+    },
+    {
+      "name": "Sugar",
+      "nameLocal": "Sakkare / Cheeni",
+      "amount": 2,
+      "unit": "tbsp",
+      "unitMetric": "30g",
+      "category": "sweetener",
+      "essential": true,
+      "substitutions": [
+        "Coconut sugar — adds caramel notes",
+        "Jaggery — less traditional but works"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana store or supermarket"
+        }
+      }
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Swing-top glass bottle (500ml–1L)",
+      "essential": true,
+      "notes": "Pressure-rated for carbonation."
+    },
+    {
+      "name": "Plastic or nylon mesh strainer",
+      "essential": false,
+      "notes": "Only needed if using vanilla bean — to catch bean and seeds."
+    }
+  ],
+  "tldr": "Add vanilla bean (or extract) and sugar to finished water kefir, seal and ferment 24–48 hours. A smooth, sweet, beautifully vanilla probiotic cream soda.",
+  "steps": [
+    {
+      "step": 1,
+      "title": "Prepare base water kefir",
+      "instruction": "Make a batch of plain water kefir following the water-kefir-basic recipe. Strain out the grains. You need about 750ml of finished plain water kefir.",
+      "duration": "24–48 hours (done in advance)",
+      "tips": [
+        "For cream soda, a sweeter 1F is ideal — stop the first ferment early (18–24 hours) for more residual sweetness.",
+        "Reserve grains in fresh sugar water for your next batch."
+      ],
+      "checkpoint": "750ml of strained, room-temperature plain water kefir"
+    },
+    {
+      "step": 2,
+      "title": "Add vanilla and sugar",
+      "instruction": "If using a vanilla bean: split it lengthwise with a knife, scrape out the seeds, and add both the seeds and the pod to the bottle. If using extract: add 2 teaspoons. Add 2 tablespoons of sugar. That's it — cream soda is beautifully simple.",
+      "duration": "3 min",
+      "tips": [
+        "Vanilla bean gives specks of real vanilla seed in the drink — visually stunning and more complex.",
+        "Extract is simpler and more consistent — perfectly acceptable.",
+        "The sugar is essential for both sweetness and carbonation fuel.",
+        "Cream soda should be sweet — don't be afraid of the 2 tablespoons.",
+        "Leave 5 cm headspace."
+      ],
+      "checkpoint": "Vanilla and sugar in the bottle"
+    },
+    {
+      "step": 3,
+      "title": "Second ferment (2F)",
+      "instruction": "Pour the strained water kefir over the vanilla and sugar. Seal tightly. Place in a warm spot away from direct sunlight for 24–48 hours. Burp every 12 hours.",
+      "duration": "24–48 hours",
+      "tips": [
+        "The sugar will feed carbonation while the vanilla infuses.",
+        "At BLR temps, 24 hours gives moderate carbonation. 48 hours for more fizz.",
+        "The drink will remain pale/clear — cream soda gets its name from the creamy vanilla flavour, not from dairy.",
+        "The vanilla aroma will fill the room when you burp the bottle."
+      ],
+      "checkpoint": "Bottle pressurized, clear to pale gold, strong vanilla aroma"
+    },
+    {
+      "step": 4,
+      "title": "Strain and serve",
+      "instruction": "Open carefully. If using a vanilla bean, strain to remove the pod (you can rinse, dry, and reuse it). Serve over ice. Cream soda kefir is smooth, sweet, and incredibly drinkable — a crowd-pleaser for all ages. Refrigerate for up to 7 days.",
+      "duration": "3 min",
+      "tips": [
+        "Serve in a frosted glass for the full cream soda experience.",
+        "Add a scoop of vanilla ice cream for a probiotic cream soda float.",
+        "This is the most universally loved water kefir flavour after ginger beer.",
+        "The vanilla pod can be rinsed, dried, and used one more time (weaker second use)."
+      ],
+      "checkpoint": "Smooth, sweet, vanilla-scented, fizzy probiotic cream soda"
+    }
+  ],
+  "images": [],
+  "culturalContext": {
+    "story": "Cream soda was invented in the 1850s in America and quickly became one of the most popular soda fountain flavours. Despite the name, it traditionally contains no cream — the 'cream' refers to the smooth, rich vanilla flavour. Making it with water kefir creates a version closer to the original soda fountain drinks, which were often naturally carbonated.",
+    "historicalNote": "The first cream sodas were made by pharmacists mixing vanilla extract, sugar, and carbonated water at soda fountains. The name 'cream' referred to the smooth mouthfeel created by the vanilla and sugar combination. Before industrial bottling, soda was inherently a fermented or freshly carbonated drink.",
+    "significance": "Cream soda kefir is the simplest and most approachable second ferment — just vanilla and sugar. It proves that water kefir doesn't need exotic ingredients to be spectacular. It's the perfect introduction to 2F technique.",
+    "relatedTraditions": [
+      "Cream soda (American soda fountain, 1850s)",
+      "Vanilla bean beverages (Mexico, Madagascar)",
+      "Italian cream soda (flavoured syrup + sparkling water)",
+      "Vanilla lassi (India)"
+    ],
+    "funFact": "Vanilla is the world's second most expensive spice (after saffron). Most of the world's vanilla comes from Madagascar, but India (Kerala and Tamil Nadu) is a growing producer. A single vanilla orchid flower must be hand-pollinated and the pod takes 9 months to mature — hence the price."
+  },
+  "thingsToAccountFor": [
+    {
+      "title": "Use real vanilla — not vanillin",
+      "description": "Cheap 'vanilla essence' is usually synthetic vanillin — it has a flat, one-dimensional flavour. Use real vanilla extract (check the label for 'vanilla bean extractives') or actual vanilla beans for the complex, nuanced cream soda flavour.",
+      "severity": "important",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Cream soda should be sweet",
+      "description": "Don't under-sweeten this. Cream soda's character depends on sweetness — it balances the vanilla and creates the 'creamy' mouthfeel. 2 tablespoons for 750ml is the minimum.",
+      "severity": "info",
+      "appliesTo": ["all"]
+    }
+  ],
+  "dehydratorIntegration": {
+    "applicable": false,
+    "method": "Not recommended for flavoured water kefir.",
+    "result": "N/A",
+    "shelfLife": "N/A",
+    "tips": [
+      "Freeze into cream soda popsicles — simple, sweet, probiotic"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Orange Cream Kefir",
+      "description": "Add the zest of 1 orange along with the vanilla. Tastes like a probiotic Creamsicle.",
+      "region": "North America"
+    },
+    {
+      "name": "Butterscotch Cream Kefir",
+      "description": "Replace white sugar with brown sugar or jaggery for a butterscotch-vanilla cream soda effect.",
+      "region": "Global"
+    },
+    {
+      "name": "Kesar Cream Kefir",
+      "description": "Add a pinch of saffron (kesar) along with the vanilla. Creates a golden, luxurious Indian-inspired cream soda.",
+      "region": "India"
+    }
+  ],
+  "relatedRecipes": [
+    "water-kefir-basic",
+    "coconut-water-kefir",
+    "water-kefir-cola",
+    "water-kefir-root-beer",
+    "water-kefir-grape-soda"
+  ],
+  "tags": [
+    "beginner",
+    "vegan",
+    "probiotic",
+    "kefir",
+    "water-kefir",
+    "cream-soda",
+    "vanilla",
+    "soda-alternative",
+    "sweet",
+    "dairy-free",
+    "year-round",
+    "second-ferment",
+    "crowd-pleaser",
+    "kid-friendly",
+    "simple"
+  ],
+  "dietaryFlags": [
+    "gluten-free",
+    "vegan"
+  ],
+  "veganAdaptable": true,
+  "containsAllergens": [],
+  "sources": [
+    {
+      "title": "Tibicos — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tibicos",
+      "license": "CC BY-SA"
+    },
+    {
+      "title": "Cream soda — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cream_soda",
+      "license": "CC BY-SA"
+    }
+  ],
+  "videos": [],
+  "citations": []
+}

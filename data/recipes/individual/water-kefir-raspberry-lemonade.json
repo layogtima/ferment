@@ -1,0 +1,254 @@
+{
+  "id": "water-kefir-raspberry-lemonade",
+  "slug": "water-kefir-raspberry-lemonade",
+  "name": "Raspberry Lemonade Water Kefir",
+  "nameLocal": null,
+  "nameRomanized": null,
+  "subtitle": "Classic raspberry lemonade reimagined as a naturally carbonated probiotic soda",
+  "category": "beverage",
+  "subcategory": "probiotic soda",
+  "technique": "culture",
+  "region": "North America / Global",
+  "country": "United States",
+  "countryCode": "US",
+  "culturalGroup": "American / Modern Fermentation",
+  "difficulty": 1,
+  "tier": "beginner",
+  "tierLabel": "Easy Second Ferment",
+  "prepTime": "10 min",
+  "fermentTimeMin": 24,
+  "fermentTimeMax": 48,
+  "fermentTimeUnit": "hours",
+  "totalTimeHuman": "24–48 hours (2F only)",
+  "blrNote": "Fresh raspberries are rare and expensive in Bengaluru (₹400–600/punnet at Nature's Basket). Frozen raspberries are more practical and affordable — available at Nature's Basket, Foodhall, and BigBasket year-round. Lemons (nimbu) are available everywhere for ₹2–5 each. At BLR temps, 24 hours of 2F is usually sufficient. This is one of the most crowd-pleasing flavours — great for introducing people to water kefir.",
+  "seasonality": ["all"],
+  "ingredients": [
+    {
+      "name": "Plain water kefir (finished 1F)",
+      "nameLocal": null,
+      "amount": 750,
+      "unit": "ml",
+      "unitMetric": "750ml",
+      "category": "liquid",
+      "essential": true,
+      "substitutions": [],
+      "localAvailability": {
+        "IN": {
+          "ease": "moderate",
+          "where": "Homemade from water kefir grains. See water-kefir-basic recipe."
+        }
+      }
+    },
+    {
+      "name": "Fresh or frozen raspberries",
+      "nameLocal": null,
+      "amount": 80,
+      "unit": "g",
+      "unitMetric": "80g (about 1/2 cup)",
+      "category": "fruit",
+      "essential": true,
+      "substitutions": [
+        "Strawberries (more available in India)",
+        "Mixed berries (frozen, from any supermarket)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "hard",
+          "where": "Nature's Basket, Foodhall (fresh, expensive). Frozen available year-round at most supermarkets."
+        }
+      }
+    },
+    {
+      "name": "Fresh lemon juice",
+      "nameLocal": "Nimbu Rasa",
+      "amount": 30,
+      "unit": "ml",
+      "unitMetric": "30ml (juice of 1 lemon)",
+      "category": "citrus",
+      "essential": true,
+      "substitutions": [
+        "Lime juice (equally good, more available in India)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Every vegetable vendor, kirana store. Limes/lemons ₹2–5 each year-round."
+        }
+      }
+    },
+    {
+      "name": "Sugar",
+      "nameLocal": "Sakkare / Cheeni",
+      "amount": 1,
+      "unit": "tbsp",
+      "unitMetric": "15g",
+      "category": "sweetener",
+      "essential": true,
+      "substitutions": [
+        "Jaggery (bella)",
+        "Honey (not vegan)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana store or supermarket"
+        }
+      }
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Swing-top glass bottle (500ml–1L)",
+      "essential": true,
+      "notes": "Pressure-rated for carbonation."
+    },
+    {
+      "name": "Plastic or nylon mesh strainer",
+      "essential": true,
+      "notes": "Fine mesh to catch raspberry seeds and pulp."
+    },
+    {
+      "name": "Muddler or fork",
+      "essential": false,
+      "notes": "For mashing raspberries."
+    }
+  ],
+  "tldr": "Mash raspberries, add lemon juice and sugar to finished water kefir, seal and ferment 24–48 hours. A tangy, pink, fizzy probiotic lemonade that everyone loves.",
+  "steps": [
+    {
+      "step": 1,
+      "title": "Prepare base water kefir",
+      "instruction": "Make a batch of plain water kefir following the water-kefir-basic recipe. Strain out the grains. You need about 750ml of finished plain water kefir.",
+      "duration": "24–48 hours (done in advance)",
+      "tips": [
+        "The 1F should be mildly tart and lightly sweet.",
+        "Reserve grains in fresh sugar water for your next batch."
+      ],
+      "checkpoint": "750ml of strained, room-temperature plain water kefir"
+    },
+    {
+      "step": 2,
+      "title": "Add raspberry, lemon, and sugar",
+      "instruction": "Mash 80g of raspberries with a fork — they break down easily. Add the mashed raspberries, 30ml fresh lemon juice, and 1 tablespoon of sugar to your swing-top bottle. The sugar balances the tartness of both the raspberries and lemon.",
+      "duration": "5 min",
+      "tips": [
+        "Frozen raspberries work perfectly — they're often more consistent in flavour than fresh.",
+        "Indian limes (nimbu) work just as well as lemons here.",
+        "The sugar is essential — without it, the lemon and raspberry tartness combined with water kefir tang can be overwhelming.",
+        "Leave 5 cm headspace."
+      ],
+      "checkpoint": "Mashed raspberries, lemon juice, and sugar in the bottle"
+    },
+    {
+      "step": 3,
+      "title": "Second ferment (2F)",
+      "instruction": "Pour the strained water kefir over the raspberry-lemon mixture. Seal tightly. Place in a warm spot away from direct sunlight for 24–48 hours. Burp every 12 hours. The drink will turn a beautiful rose pink.",
+      "duration": "24–48 hours",
+      "tips": [
+        "The colour ranges from blush pink to deep rose depending on raspberry quantity.",
+        "Raspberries have moderate sugar — carbonation builds steadily but not explosively.",
+        "The lemon juice adds brightness and also provides some additional fermentation fuel.",
+        "At BLR temps, 24 hours usually gives good carbonation."
+      ],
+      "checkpoint": "Bottle pressurized, liquid is rose pink, fizzy when burped"
+    },
+    {
+      "step": 4,
+      "title": "Strain and serve",
+      "instruction": "Open carefully. Strain through a fine mesh strainer to remove raspberry seeds and pulp. Serve over ice. This is one of the most universally loved water kefir flavours — perfect for parties and gatherings.",
+      "duration": "3 min",
+      "tips": [
+        "Garnish with a lemon wheel and a few fresh raspberries for a cafe-worthy presentation.",
+        "This makes an excellent non-alcoholic cocktail — serve in a coupe glass with a lemon twist.",
+        "Kids love this flavour — it tastes like a healthier version of pink lemonade.",
+        "Refrigerate for up to 5 days."
+      ],
+      "checkpoint": "Rose pink, tangy, fizzy probiotic lemonade"
+    }
+  ],
+  "images": [],
+  "culturalContext": {
+    "story": "Raspberry lemonade is one of America's most beloved summer drinks — found at every county fair, diner, and backyard BBQ. Turning it into a probiotic soda via water kefir is a natural evolution. The fermentation adds depth and effervescence that makes it rival any artisanal craft soda, while delivering gut-healthy benefits.",
+    "historicalNote": "Lemonade has been consumed since ancient Egypt, where it was made with lemons and sugar. The addition of raspberries became popular in 19th-century America. Water kefir's Mexican/Tibetan origins make this a truly global fusion beverage.",
+    "significance": "This is arguably the most approachable water kefir flavour for beginners and sceptics. It tastes familiar enough to convert soda drinkers, yet delivers probiotics and natural carbonation. A gateway recipe for the fermentation-curious.",
+    "relatedTraditions": [
+      "Pink lemonade (American South)",
+      "Nimbu pani (Indian lemonade)",
+      "Limonada rosa (Mexico)",
+      "Shrub / drinking vinegar (Colonial America)"
+    ],
+    "funFact": "Raspberries are the only common fruit with tiny hairs (technically called styles) left over from pollination. Each raspberry is actually a cluster of 75–125 individual drupelets, each containing one seed."
+  },
+  "thingsToAccountFor": [
+    {
+      "title": "Fresh raspberries are expensive in India",
+      "description": "Fresh raspberries are a luxury import in Bengaluru. Frozen raspberries are the practical choice — they're flash-frozen at peak ripeness and work perfectly for 2F. Available at Nature's Basket, Foodhall, and most BigBasket orders.",
+      "severity": "info",
+      "appliesTo": ["blr"]
+    },
+    {
+      "title": "Double-tart flavour profile",
+      "description": "Both raspberries and lemon are tart, and water kefir itself is tangy. The sugar is essential to balance all three acid sources. Taste before bottling and add more sugar if needed.",
+      "severity": "important",
+      "appliesTo": ["all"]
+    }
+  ],
+  "dehydratorIntegration": {
+    "applicable": false,
+    "method": "Not recommended for flavoured water kefir.",
+    "result": "N/A",
+    "shelfLife": "N/A",
+    "tips": [
+      "Freeze into raspberry lemonade popsicles for a probiotic frozen treat"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Raspberry Mint Lemonade Kefir",
+      "description": "Add 5–6 bruised mint leaves for a mojito-inspired twist. The mint adds freshness to the berry-citrus combination.",
+      "region": "Modern / Global"
+    },
+    {
+      "name": "Strawberry Lemonade Kefir",
+      "description": "Replace raspberries with strawberries for a more accessible Indian version. Ooty strawberries work beautifully.",
+      "region": "India"
+    }
+  ],
+  "relatedRecipes": [
+    "water-kefir-basic",
+    "coconut-water-kefir",
+    "water-kefir-strawberry-basil",
+    "water-kefir-blueberry-lavender",
+    "water-kefir-grape-soda"
+  ],
+  "tags": [
+    "beginner",
+    "vegan",
+    "probiotic",
+    "kefir",
+    "water-kefir",
+    "raspberry",
+    "lemon",
+    "lemonade",
+    "classic",
+    "dairy-free",
+    "second-ferment",
+    "crowd-pleaser",
+    "kid-friendly"
+  ],
+  "dietaryFlags": [
+    "gluten-free",
+    "vegan"
+  ],
+  "veganAdaptable": true,
+  "containsAllergens": [],
+  "sources": [
+    {
+      "title": "Tibicos — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tibicos",
+      "license": "CC BY-SA"
+    }
+  ],
+  "videos": [],
+  "citations": []
+}

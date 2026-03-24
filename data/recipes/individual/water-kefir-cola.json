@@ -1,0 +1,290 @@
+{
+  "id": "water-kefir-cola",
+  "slug": "water-kefir-cola",
+  "name": "Cola-Style Water Kefir",
+  "nameLocal": null,
+  "nameRomanized": null,
+  "subtitle": "Homemade probiotic cola with vanilla, cinnamon, citrus, and kola nut — a natural soda alternative",
+  "category": "beverage",
+  "subcategory": "probiotic soda",
+  "technique": "culture",
+  "region": "North America / Global",
+  "country": "United States",
+  "countryCode": "US",
+  "culturalGroup": "American / Modern Fermentation",
+  "difficulty": 2,
+  "tier": "intermediate",
+  "tierLabel": "Multiple Spices to Balance",
+  "prepTime": "15 min",
+  "fermentTimeMin": 24,
+  "fermentTimeMax": 48,
+  "fermentTimeUnit": "hours",
+  "totalTimeHuman": "24–48 hours (2F only)",
+  "blrNote": "Most spices for this recipe are available at KR Market's spice section for very low cost. Kola nut extract is the tricky ingredient — available on Amazon India or at specialty Ayurvedic stores (it's related to the African kola nut used in traditional medicine). If unavailable, skip it — the other spices carry the cola flavour well. Vanilla extract (or vanilla beans) from Nature's Basket or Amazon India. At BLR temps, 24 hours of 2F is usually enough.",
+  "seasonality": ["all"],
+  "ingredients": [
+    {
+      "name": "Plain water kefir (finished 1F)",
+      "nameLocal": null,
+      "amount": 750,
+      "unit": "ml",
+      "unitMetric": "750ml",
+      "category": "liquid",
+      "essential": true,
+      "substitutions": [],
+      "localAvailability": {
+        "IN": {
+          "ease": "moderate",
+          "where": "Homemade from water kefir grains. See water-kefir-basic recipe."
+        }
+      }
+    },
+    {
+      "name": "Cinnamon stick",
+      "nameLocal": "Dalchini",
+      "amount": 1,
+      "unit": "stick",
+      "unitMetric": "3g",
+      "category": "spice",
+      "essential": true,
+      "substitutions": [
+        "Cinnamon powder (1/4 tsp)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana store or KR Market."
+        }
+      }
+    },
+    {
+      "name": "Vanilla extract or vanilla bean",
+      "nameLocal": null,
+      "amount": 1,
+      "unit": "tsp",
+      "unitMetric": "5ml",
+      "category": "flavoring",
+      "essential": true,
+      "substitutions": [
+        "Vanilla bean (half, split and scraped)",
+        "Vanilla powder (1/4 tsp)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "moderate",
+          "where": "Nature's Basket, Amazon India, baking supply shops. ₹200–500 per bottle."
+        }
+      }
+    },
+    {
+      "name": "Lime juice and zest",
+      "nameLocal": "Nimbu",
+      "amount": 1,
+      "unit": "lime",
+      "unitMetric": "juice and zest of 1 lime",
+      "category": "citrus",
+      "essential": true,
+      "substitutions": [
+        "Lemon juice and zest",
+        "Orange zest (for a different citrus note)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Every vegetable vendor. ₹2–5 per lime."
+        }
+      }
+    },
+    {
+      "name": "Sugar (brown or jaggery preferred)",
+      "nameLocal": "Sakkare / Bella",
+      "amount": 2,
+      "unit": "tbsp",
+      "unitMetric": "30g",
+      "category": "sweetener",
+      "essential": true,
+      "substitutions": [
+        "Molasses (1 tsp) + white sugar for authentic dark colour",
+        "Coconut sugar"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana store or supermarket."
+        }
+      }
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Swing-top glass bottle (500ml–1L)",
+      "essential": true,
+      "notes": "Pressure-rated for carbonation."
+    },
+    {
+      "name": "Plastic or nylon mesh strainer",
+      "essential": true,
+      "notes": "Fine mesh to strain out spices and citrus zest."
+    },
+    {
+      "name": "Small saucepan (optional)",
+      "essential": false,
+      "notes": "For making a quick spice concentrate to intensify flavour."
+    }
+  ],
+  "tldr": "Combine cinnamon, vanilla, citrus zest, and brown sugar with finished water kefir, seal and ferment 24–48 hours. A naturally carbonated, probiotic cola alternative.",
+  "steps": [
+    {
+      "step": 1,
+      "title": "Prepare base water kefir",
+      "instruction": "Make a batch of plain water kefir following the water-kefir-basic recipe. Strain out the grains. You need about 750ml of finished plain water kefir.",
+      "duration": "24–48 hours (done in advance)",
+      "tips": [
+        "A slightly sweet 1F works best for cola — you want residual sweetness to carry the spice flavours.",
+        "Reserve grains in fresh sugar water for your next batch."
+      ],
+      "checkpoint": "750ml of strained, room-temperature plain water kefir"
+    },
+    {
+      "step": 2,
+      "title": "Build the cola flavour base",
+      "instruction": "Break a cinnamon stick into pieces. Zest 1 lime with a fine grater, then juice it. Add the cinnamon pieces, lime zest and juice, 1 tsp vanilla extract, and 2 tbsp brown sugar or jaggery to your swing-top bottle. For a more authentic dark colour, add 1 tsp molasses.",
+      "duration": "10 min",
+      "tips": [
+        "The classic cola flavour comes from the combination of cinnamon, vanilla, and citrus — not from any single ingredient.",
+        "Brown sugar or jaggery gives a caramel-dark colour closer to actual cola.",
+        "Molasses adds authentic depth and dark colour — highly recommended.",
+        "For extra complexity, add 1 star anise or 2 whole cloves.",
+        "Leave 5 cm headspace."
+      ],
+      "checkpoint": "Spices, citrus, vanilla, and sugar in the bottle"
+    },
+    {
+      "step": 3,
+      "title": "Second ferment (2F)",
+      "instruction": "Pour the strained water kefir over the cola flavour base. Seal tightly. Place in a warm spot away from direct sunlight for 24–48 hours. Burp every 12 hours. The sugar will fuel carbonation while the spices and citrus infuse.",
+      "duration": "24–48 hours",
+      "tips": [
+        "The liquid will darken from the brown sugar/jaggery/molasses — getting closer to cola colour.",
+        "At BLR temps, 24 hours gives good carbonation with the amount of sugar added.",
+        "The vanilla aroma becomes more pronounced as it ferments.",
+        "This won't taste exactly like Coca-Cola — it's better. More complex, less sweet, naturally fizzy."
+      ],
+      "checkpoint": "Bottle pressurized, dark amber colour, spiced-citrus aroma"
+    },
+    {
+      "step": 4,
+      "title": "Strain and serve",
+      "instruction": "Open carefully. Strain through a fine mesh strainer to remove cinnamon pieces and citrus zest. Serve over ice in a tall glass. This is a genuinely convincing probiotic cola — great for weaning off commercial sodas. Refrigerate for up to 7 days.",
+      "duration": "3 min",
+      "tips": [
+        "Serve in a tall glass with lots of ice and a lime wedge — it looks and tastes like real cola.",
+        "This is an excellent gateway drink for convincing soda lovers to try water kefir.",
+        "Mix with a splash of bitters for a complex, cocktail-worthy drink.",
+        "The spice flavours deepen in the fridge over 2–3 days."
+      ],
+      "checkpoint": "Dark amber, fizzy, spiced probiotic cola"
+    }
+  ],
+  "images": [],
+  "culturalContext": {
+    "story": "The original Coca-Cola recipe from the 1880s was essentially a fermented spice syrup — it contained kola nut, coca leaf, vanilla, cinnamon, and citrus oils. This water kefir cola returns to those roots, creating a naturally fermented, probiotic version of the world's most popular drink. No lab chemicals, no HFCS — just real spices and living cultures.",
+    "historicalNote": "Before Coca-Cola was a global empire, 'cola' was just a category of spiced, carbonated beverages made by pharmacists and soda fountains across America. The kola nut (Cola acuminata) from West Africa was the original caffeine source, combined with various spices and sweeteners.",
+    "significance": "Making your own cola is an act of food sovereignty — reclaiming a flavour that's been industrialized and mystified. This probiotic version proves that the 'cola' flavour is just cinnamon, vanilla, and citrus — no secret formula needed.",
+    "relatedTraditions": [
+      "Original cola recipes (1880s America)",
+      "Kola nut beverages (West Africa)",
+      "Masala soda (Indian street drink)",
+      "Spiced mead (medieval Europe)"
+    ],
+    "funFact": "The 'cola' flavour you know from Coca-Cola and Pepsi is primarily cinnamon, vanilla, citrus oils, and caramelized sugar. The actual kola nut contributes mostly caffeine, not flavour. Your homemade version captures the taste without the mystery."
+  },
+  "thingsToAccountFor": [
+    {
+      "title": "It won't taste exactly like commercial cola",
+      "description": "This tastes like a complex, spiced, naturally carbonated soda — not an exact Coca-Cola replica. It's better in many ways (more complex, less sweet, probiotic) but different. Set expectations accordingly.",
+      "severity": "info",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Colour depends on sweetener",
+      "description": "White sugar gives a pale colour. Brown sugar, jaggery, or molasses give the dark cola colour people expect. For the most authentic look, use brown sugar + 1 tsp molasses.",
+      "severity": "info",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Spice balance requires experimentation",
+      "description": "The ratio of cinnamon, vanilla, and citrus defines the flavour. Your first batch is an experiment — take notes and adjust in future batches. The beauty is you can customize your own 'secret formula'.",
+      "severity": "info",
+      "appliesTo": ["all"]
+    }
+  ],
+  "dehydratorIntegration": {
+    "applicable": false,
+    "method": "Not recommended for flavoured water kefir.",
+    "result": "N/A",
+    "shelfLife": "N/A",
+    "tips": [
+      "Freeze into cola ice cubes — they keep your drink cold without diluting it"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Cherry Cola Kefir",
+      "description": "Add 50g pitted cherries (fresh or frozen) to the cola base. Classic cherry cola, now probiotic.",
+      "region": "North America"
+    },
+    {
+      "name": "Masala Cola Kefir",
+      "description": "Add 2 crushed cardamom pods and a pinch of black salt (kala namak). Tastes like Indian masala soda — the roadside classic, fermented.",
+      "region": "India"
+    },
+    {
+      "name": "Vanilla Cola Kefir",
+      "description": "Double the vanilla extract to 2 tsp. Intensely vanilla-forward, like a craft vanilla cola.",
+      "region": "North America"
+    }
+  ],
+  "relatedRecipes": [
+    "water-kefir-basic",
+    "coconut-water-kefir",
+    "water-kefir-root-beer",
+    "water-kefir-cream-soda",
+    "water-kefir-chai-spice"
+  ],
+  "tags": [
+    "intermediate",
+    "vegan",
+    "probiotic",
+    "kefir",
+    "water-kefir",
+    "cola",
+    "soda-alternative",
+    "vanilla",
+    "cinnamon",
+    "dairy-free",
+    "year-round",
+    "second-ferment",
+    "crowd-pleaser"
+  ],
+  "dietaryFlags": [
+    "gluten-free",
+    "vegan"
+  ],
+  "veganAdaptable": true,
+  "containsAllergens": [],
+  "sources": [
+    {
+      "title": "Tibicos — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tibicos",
+      "license": "CC BY-SA"
+    },
+    {
+      "title": "Cola — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cola",
+      "license": "CC BY-SA"
+    }
+  ],
+  "videos": [],
+  "citations": []
+}

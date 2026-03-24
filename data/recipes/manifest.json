@@ -209,6 +209,106 @@
       "id": "water-kefir-ginger-ale",
       "slug": "water-kefir-ginger-ale",
       "file": "water-kefir-ginger-ale.json"
+    },
+    {
+      "id": "water-kefir-mango-ginger",
+      "slug": "water-kefir-mango-ginger",
+      "file": "water-kefir-mango-ginger.json"
+    },
+    {
+      "id": "water-kefir-strawberry-basil",
+      "slug": "water-kefir-strawberry-basil",
+      "file": "water-kefir-strawberry-basil.json"
+    },
+    {
+      "id": "water-kefir-pineapple-turmeric",
+      "slug": "water-kefir-pineapple-turmeric",
+      "file": "water-kefir-pineapple-turmeric.json"
+    },
+    {
+      "id": "water-kefir-passion-fruit",
+      "slug": "water-kefir-passion-fruit",
+      "file": "water-kefir-passion-fruit.json"
+    },
+    {
+      "id": "water-kefir-blueberry-lavender",
+      "slug": "water-kefir-blueberry-lavender",
+      "file": "water-kefir-blueberry-lavender.json"
+    },
+    {
+      "id": "water-kefir-watermelon-mint",
+      "slug": "water-kefir-watermelon-mint",
+      "file": "water-kefir-watermelon-mint.json"
+    },
+    {
+      "id": "water-kefir-raspberry-lemonade",
+      "slug": "water-kefir-raspberry-lemonade",
+      "file": "water-kefir-raspberry-lemonade.json"
+    },
+    {
+      "id": "water-kefir-guava-lime",
+      "slug": "water-kefir-guava-lime",
+      "file": "water-kefir-guava-lime.json"
+    },
+    {
+      "id": "water-kefir-hibiscus-rose",
+      "slug": "water-kefir-hibiscus-rose",
+      "file": "water-kefir-hibiscus-rose.json"
+    },
+    {
+      "id": "water-kefir-ginger-beer",
+      "slug": "water-kefir-ginger-beer",
+      "file": "water-kefir-ginger-beer.json"
+    },
+    {
+      "id": "water-kefir-elderflower-pear",
+      "slug": "water-kefir-elderflower-pear",
+      "file": "water-kefir-elderflower-pear.json"
+    },
+    {
+      "id": "water-kefir-chai-spice",
+      "slug": "water-kefir-chai-spice",
+      "file": "water-kefir-chai-spice.json"
+    },
+    {
+      "id": "water-kefir-lemongrass-coconut",
+      "slug": "water-kefir-lemongrass-coconut",
+      "file": "water-kefir-lemongrass-coconut.json"
+    },
+    {
+      "id": "water-kefir-cola",
+      "slug": "water-kefir-cola",
+      "file": "water-kefir-cola.json"
+    },
+    {
+      "id": "water-kefir-grape-soda",
+      "slug": "water-kefir-grape-soda",
+      "file": "water-kefir-grape-soda.json"
+    },
+    {
+      "id": "water-kefir-root-beer",
+      "slug": "water-kefir-root-beer",
+      "file": "water-kefir-root-beer.json"
+    },
+    {
+      "id": "water-kefir-cream-soda",
+      "slug": "water-kefir-cream-soda",
+      "file": "water-kefir-cream-soda.json"
+    },
+    {
+      "id": "water-kefir-apple-cider",
+      "slug": "water-kefir-apple-cider",
+      "file": "water-kefir-apple-cider.json"
+    },
+    {
+      "id": "water-kefir-beet-ginger",
+      "slug": "water-kefir-beet-ginger",
+      "file": "water-kefir-beet-ginger.json"
+    },
+    {
+      "id": "water-kefir-charcoal-lemon",
+      "slug": "water-kefir-charcoal-lemon",
+      "file": "water-kefir-charcoal-lemon.json"
     }
   ]
 }

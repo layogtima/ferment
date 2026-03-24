@@ -1,0 +1,245 @@
+{
+  "id": "water-kefir-watermelon-mint",
+  "slug": "water-kefir-watermelon-mint",
+  "name": "Watermelon Mint Water Kefir",
+  "nameLocal": "ಕಲ್ಲಂಗಡಿ ಪುದೀನ ಕೆಫಿರ್",
+  "nameRomanized": "Kallangadi Pudina Kefir",
+  "subtitle": "Ultimate summer refresher — watermelon juice and fresh mint in a fizzy probiotic soda",
+  "category": "beverage",
+  "subcategory": "probiotic soda",
+  "technique": "culture",
+  "region": "Middle East / Global",
+  "country": "India",
+  "countryCode": "IN",
+  "culturalGroup": "Global / Summer Beverage",
+  "difficulty": 1,
+  "tier": "beginner",
+  "tierLabel": "Easy Second Ferment",
+  "prepTime": "10 min",
+  "fermentTimeMin": 18,
+  "fermentTimeMax": 36,
+  "fermentTimeUnit": "hours",
+  "totalTimeHuman": "18–36 hours (2F only)",
+  "blrNote": "Bengaluru gets excellent watermelons year-round, peaking March–June. Huge piles available at KR Market, roadside vendors, and Hopcoms for ₹15–25/kg. Fresh pudina (mint) is available at any vegetable vendor for ₹5–10/bunch. At summer BLR temps (28–32°C), watermelon ferments FAST — it's mostly water and sugar. Check at 12 hours in hot weather.",
+  "seasonality": ["spring", "summer"],
+  "ingredients": [
+    {
+      "name": "Plain water kefir (finished 1F)",
+      "nameLocal": null,
+      "amount": 500,
+      "unit": "ml",
+      "unitMetric": "500ml",
+      "category": "liquid",
+      "essential": true,
+      "substitutions": [],
+      "localAvailability": {
+        "IN": {
+          "ease": "moderate",
+          "where": "Homemade from water kefir grains. See water-kefir-basic recipe."
+        }
+      }
+    },
+    {
+      "name": "Fresh watermelon juice",
+      "nameLocal": "Kallangadi Rasa",
+      "amount": 250,
+      "unit": "ml",
+      "unitMetric": "250ml",
+      "category": "fruit",
+      "essential": true,
+      "substitutions": [
+        "Blend and strain fresh watermelon — about 300g of flesh"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Watermelons everywhere in Bengaluru year-round. ₹15–25/kg at KR Market, roadside vendors, Hopcoms."
+        }
+      }
+    },
+    {
+      "name": "Fresh mint leaves",
+      "nameLocal": "Pudina",
+      "amount": 8,
+      "unit": "leaves",
+      "unitMetric": "4g",
+      "category": "herb",
+      "essential": true,
+      "substitutions": [
+        "Dried mint (half the amount) — less vibrant but works"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any vegetable vendor, kirana store. ₹5–10/bunch. Grows easily in pots in Bengaluru."
+        }
+      }
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Swing-top glass bottle (500ml–1L)",
+      "essential": true,
+      "notes": "Pressure-rated for carbonation."
+    },
+    {
+      "name": "Blender",
+      "essential": true,
+      "notes": "To blend watermelon into juice."
+    },
+    {
+      "name": "Plastic or nylon mesh strainer",
+      "essential": true,
+      "notes": "To strain watermelon pulp and mint before/after fermentation."
+    }
+  ],
+  "tldr": "Blend watermelon, strain, combine with water kefir and mint, seal and ferment 18–36 hours. A pink, minty, incredibly refreshing summer probiotic soda.",
+  "steps": [
+    {
+      "step": 1,
+      "title": "Prepare base water kefir",
+      "instruction": "Make a batch of plain water kefir following the water-kefir-basic recipe. Strain out the grains. You need about 500ml of finished plain water kefir.",
+      "duration": "24–48 hours (done in advance)",
+      "tips": [
+        "Using less water kefir than usual because watermelon juice makes up the rest of the volume.",
+        "Reserve grains in fresh sugar water for your next batch."
+      ],
+      "checkpoint": "500ml of strained, room-temperature plain water kefir"
+    },
+    {
+      "step": 2,
+      "title": "Make watermelon juice and add mint",
+      "instruction": "Blend 300g of fresh watermelon flesh until smooth. Strain through a mesh strainer to remove pulp and seeds — you should get about 250ml of juice. Bruise 8 mint leaves between your palms. Add the watermelon juice and mint leaves to your swing-top bottle.",
+      "duration": "5 min",
+      "tips": [
+        "Straining is important — watermelon pulp can create excessive foam during 2F.",
+        "Bruising the mint releases essential oils without making the drink bitter.",
+        "Choose the sweetest, ripest watermelon you can find — knock on it, it should sound hollow.",
+        "Leave 5 cm headspace in the bottle."
+      ],
+      "checkpoint": "Strained watermelon juice and bruised mint in the bottle"
+    },
+    {
+      "step": 3,
+      "title": "Second ferment (2F)",
+      "instruction": "Pour the strained water kefir over the watermelon juice and mint. Seal tightly. Place in a warm spot away from direct sunlight. Ferment 18–36 hours. Watermelon is very watery and ferments quickly — burp every 8–12 hours.",
+      "duration": "18–36 hours",
+      "tips": [
+        "Watermelon is high in sugar but also very watery — carbonation builds moderately fast.",
+        "At BLR summer temps, check at 12 hours — this can be ready very quickly.",
+        "The colour will be a beautiful blush pink. Mint keeps it from being too sweet.",
+        "Shorter ferment = sweeter and less fizzy. Longer = drier and more carbonated."
+      ],
+      "checkpoint": "Bottle pressurized, liquid is pink, smells of watermelon and mint"
+    },
+    {
+      "step": 4,
+      "title": "Strain and serve",
+      "instruction": "Open carefully. Strain out the mint leaves. Serve immediately over ice — this is best ice-cold on a hot day. Refrigerate leftovers and consume within 3 days (watermelon kefir doesn't keep as long as other flavours).",
+      "duration": "3 min",
+      "tips": [
+        "This is the ultimate summer drink — serve at a BBQ or afternoon gathering.",
+        "Add a sprig of fresh mint and a small watermelon wedge as garnish.",
+        "Watermelon kefir is more delicate and perishable than other flavours — drink within 3 days.",
+        "Excellent base for a probiotic cocktail — add vodka or white rum."
+      ],
+      "checkpoint": "Pink, minty, fizzy, ice-cold summer probiotic soda"
+    }
+  ],
+  "images": [],
+  "culturalContext": {
+    "story": "Watermelon and mint is a classic summer combination found across the Middle East, North Africa, and South Asia. From Iranian watermelon-mint drinks to Indian watermelon juice vendors, this pairing transcends borders. Turning it into a probiotic soda via water kefir adds a layer of gut-healthy fizz to an already perfect summer refresher.",
+    "historicalNote": "Watermelon originated in Africa and has been cultivated for at least 4,000 years. The ancient Egyptians grew watermelons, and seeds have been found in the tomb of Pharaoh Tutankhamun. Mint is one of the world's oldest cultivated herbs, used by ancient Greeks and Romans.",
+    "significance": "This is perhaps the most universally appealing water kefir flavour — light, refreshing, and familiar. It's an excellent gateway recipe for converting soda drinkers to probiotic alternatives.",
+    "relatedTraditions": [
+      "Watermelon juice vendors (India, street food)",
+      "Agua fresca de sandía (Mexico)",
+      "Sharbat-e hendevaneh (watermelon drink, Iran)",
+      "Mint julep (American South)"
+    ],
+    "funFact": "Watermelon is 92% water, making it one of the most hydrating foods on earth. It's also surprisingly high in lycopene — the same antioxidant found in tomatoes — and your fermented kefir version retains all of it."
+  },
+  "thingsToAccountFor": [
+    {
+      "title": "Shorter shelf life",
+      "description": "Watermelon is very water-rich and delicate. Finished watermelon kefir doesn't keep as well as other flavours — consume within 3 days. It may separate or develop off-flavours after that.",
+      "severity": "important",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Fast fermentation in hot weather",
+      "description": "Watermelon juice ferments quickly, especially at BLR summer temps (28–32°C). Check at 12 hours to avoid over-carbonation. The high water content means less buffer against over-fermentation.",
+      "severity": "warning",
+      "appliesTo": ["blr"]
+    },
+    {
+      "title": "Strain the watermelon juice first",
+      "description": "Watermelon pulp can create excessive foam and sediment during 2F. Always strain the blended watermelon through a mesh strainer before adding to the bottle.",
+      "severity": "important",
+      "appliesTo": ["all"]
+    }
+  ],
+  "dehydratorIntegration": {
+    "applicable": false,
+    "method": "Not recommended — watermelon flavour doesn't survive dehydration.",
+    "result": "N/A",
+    "shelfLife": "N/A",
+    "tips": [
+      "Freeze into watermelon-mint popsicles — the ultimate summer probiotic treat",
+      "Use as ice cubes in sparkling water"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Watermelon Chili Lime Kefir",
+      "description": "Replace mint with a thin slice of green chili and the juice of half a lime. Street-food inspired — sweet, spicy, and sour.",
+      "region": "India / Mexico"
+    },
+    {
+      "name": "Watermelon Rose Kefir",
+      "description": "Replace mint with 1 tsp rose water added after straining. Delicate, perfumed, and perfect for special occasions.",
+      "region": "Middle East / India"
+    }
+  ],
+  "relatedRecipes": [
+    "water-kefir-basic",
+    "coconut-water-kefir",
+    "water-kefir-strawberry-basil",
+    "water-kefir-raspberry-lemonade",
+    "water-kefir-guava-lime"
+  ],
+  "tags": [
+    "beginner",
+    "vegan",
+    "probiotic",
+    "kefir",
+    "water-kefir",
+    "watermelon",
+    "mint",
+    "summer",
+    "refreshing",
+    "dairy-free",
+    "second-ferment",
+    "light"
+  ],
+  "dietaryFlags": [
+    "gluten-free",
+    "vegan"
+  ],
+  "veganAdaptable": true,
+  "containsAllergens": [],
+  "sources": [
+    {
+      "title": "Tibicos — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tibicos",
+      "license": "CC BY-SA"
+    },
+    {
+      "title": "Watermelon — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Watermelon",
+      "license": "CC BY-SA"
+    }
+  ],
+  "videos": [],
+  "citations": []
+}

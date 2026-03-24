@@ -1,0 +1,239 @@
+{
+  "id": "water-kefir-passion-fruit",
+  "slug": "water-kefir-passion-fruit",
+  "name": "Passion Fruit Water Kefir",
+  "nameLocal": null,
+  "nameRomanized": null,
+  "subtitle": "Intensely tart and aromatic tropical probiotic soda from fresh passion fruit",
+  "category": "beverage",
+  "subcategory": "probiotic soda",
+  "technique": "culture",
+  "region": "South America / Tropical",
+  "country": "Brazil",
+  "countryCode": "BR",
+  "culturalGroup": "Latin American / Tropical",
+  "difficulty": 1,
+  "tier": "beginner",
+  "tierLabel": "Easy Second Ferment",
+  "prepTime": "10 min",
+  "fermentTimeMin": 24,
+  "fermentTimeMax": 48,
+  "fermentTimeUnit": "hours",
+  "totalTimeHuman": "24–48 hours (2F only)",
+  "blrNote": "Passion fruit (Krishna phal) grows well in Karnataka and is available at KR Market and select fruit vendors year-round, though peak season is August–December. Look for wrinkled fruits — they're the ripest and sweetest. ₹200–400/kg. At BLR temps, 24 hours of 2F gives good carbonation. The tartness of passion fruit pairs beautifully with the tang of water kefir.",
+  "seasonality": ["all"],
+  "ingredients": [
+    {
+      "name": "Plain water kefir (finished 1F)",
+      "nameLocal": null,
+      "amount": 750,
+      "unit": "ml",
+      "unitMetric": "750ml",
+      "category": "liquid",
+      "essential": true,
+      "substitutions": [],
+      "localAvailability": {
+        "IN": {
+          "ease": "moderate",
+          "where": "Homemade from water kefir grains. See water-kefir-basic recipe."
+        }
+      }
+    },
+    {
+      "name": "Fresh passion fruit pulp (with seeds)",
+      "nameLocal": "Krishna Phal",
+      "amount": 80,
+      "unit": "g",
+      "unitMetric": "80g (pulp of 3–4 fruits)",
+      "category": "fruit",
+      "essential": true,
+      "substitutions": [
+        "Frozen passion fruit pulp (available at gourmet stores)",
+        "Passion fruit concentrate (reduce amount by half)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "moderate",
+          "where": "KR Market, select fruit vendors, Nature's Basket. ₹200–400/kg. Peak Aug–Dec."
+        }
+      }
+    },
+    {
+      "name": "Sugar",
+      "nameLocal": "Sakkare / Cheeni",
+      "amount": 1,
+      "unit": "tbsp",
+      "unitMetric": "15g",
+      "category": "sweetener",
+      "essential": true,
+      "substitutions": [
+        "Jaggery (bella)",
+        "Coconut sugar"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana store or supermarket"
+        }
+      }
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Swing-top glass bottle (500ml–1L)",
+      "essential": true,
+      "notes": "Pressure-rated for carbonation."
+    },
+    {
+      "name": "Plastic or nylon mesh strainer",
+      "essential": true,
+      "notes": "Fine mesh to strain out passion fruit seeds and pulp."
+    },
+    {
+      "name": "Spoon",
+      "essential": true,
+      "notes": "For scooping out passion fruit pulp."
+    }
+  ],
+  "tldr": "Scoop passion fruit pulp into finished water kefir with a tablespoon of sugar, seal and ferment 24–48 hours. Intensely aromatic, tart, and fizzy probiotic tropical soda.",
+  "steps": [
+    {
+      "step": 1,
+      "title": "Prepare base water kefir",
+      "instruction": "Make a batch of plain water kefir following the water-kefir-basic recipe. Strain out the grains after the first ferment is complete. You need about 750ml of finished plain water kefir.",
+      "duration": "24–48 hours (done in advance)",
+      "tips": [
+        "The 1F should be mildly tart and lightly sweet.",
+        "Reserve grains in fresh sugar water for your next batch."
+      ],
+      "checkpoint": "750ml of strained, room-temperature plain water kefir"
+    },
+    {
+      "step": 2,
+      "title": "Add passion fruit and sugar",
+      "instruction": "Cut 3–4 ripe passion fruits in half and scoop out the pulp and seeds (about 80g total). Add the pulp directly to your swing-top bottle — seeds and all. Passion fruit is quite tart, so add 1 tablespoon of sugar to balance and fuel carbonation. Pour the strained water kefir over the top.",
+      "duration": "5 min",
+      "tips": [
+        "Wrinkled passion fruits are riper and sweeter than smooth ones — choose the ugliest ones.",
+        "The seeds are edible and add a pleasant crunch. They also look beautiful in the bottle.",
+        "The sugar is important here — passion fruit is low in fermentable sugars compared to mango or pineapple.",
+        "Leave 5 cm headspace."
+      ],
+      "checkpoint": "Passion fruit pulp and sugar dissolved in water kefir in sealed bottle"
+    },
+    {
+      "step": 3,
+      "title": "Second ferment (2F)",
+      "instruction": "Seal the bottle tightly. Place in a warm spot away from direct sunlight for 24–48 hours. Burp every 12 hours. The passion fruit aroma will intensify as it ferments, and the liquid will take on a beautiful golden-amber hue.",
+      "duration": "24–48 hours",
+      "tips": [
+        "Passion fruit has a moderate carbonation profile — not as explosive as pineapple.",
+        "The aroma through the bottle will be incredible — tropical, floral, musky.",
+        "At BLR temps, 24 hours is usually enough for good fizz.",
+        "The seeds will float and sink — this is normal fermentation activity."
+      ],
+      "checkpoint": "Bottle is pressurized, liquid is amber, aromatic when burped"
+    },
+    {
+      "step": 4,
+      "title": "Strain and serve",
+      "instruction": "Open carefully over a sink. Strain through a mesh strainer to remove seeds (or leave some in for texture). Serve immediately over ice. Refrigerate for up to 5 days.",
+      "duration": "3 min",
+      "tips": [
+        "Some people love the passion fruit seeds in the drink — they add texture and visual appeal.",
+        "A splash of sparkling water can stretch this if the flavour is too intense.",
+        "Excellent as a cocktail mixer — add to sparkling wine for a probiotic Bellini.",
+        "Serve in a wine glass for an elegant presentation."
+      ],
+      "checkpoint": "Aromatic, tart, fizzy golden probiotic soda"
+    }
+  ],
+  "images": [],
+  "culturalContext": {
+    "story": "Passion fruit is native to South America, where it's called maracujá in Brazil and used in everything from mousses to juices to cocktails. Water kefir itself likely originated in Mexico. Combining the two is a Latin American natural — the intense, musky aroma of passion fruit transforms plain water kefir into something exotic and memorable.",
+    "historicalNote": "The passion fruit got its name from Spanish missionaries in South America who saw the flower's structure as symbolic of the Passion of Christ. The fruit spread globally through colonial trade routes and now thrives in tropical climates worldwide, including South India's Western Ghats.",
+    "significance": "Passion fruit water kefir demonstrates how fermentation can amplify already-intense flavours. The fermentation process enhances the fruit's natural aromatic compounds, creating a drink more complex than simple passion fruit juice.",
+    "relatedTraditions": [
+      "Maracujá suco (passion fruit juice, Brazil)",
+      "Tepache (fermented pineapple drink, Mexico)",
+      "Agua de maracuyá (Latin America)",
+      "Tibicos / water kefir (Mexico)"
+    ],
+    "funFact": "A single passion fruit vine can produce 50–80 kg of fruit per year. The fruit is technically a berry, and the juice is so intensely flavoured that it's usually diluted 1:4 with water for drinking."
+  },
+  "thingsToAccountFor": [
+    {
+      "title": "Passion fruit is naturally very tart",
+      "description": "Unlike mango or pineapple, passion fruit is intensely sour. Combined with the tang of water kefir, the result can be very tart. The tablespoon of sugar isn't just for carbonation — it's essential for balance. Adjust sweetness to taste before bottling.",
+      "severity": "important",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Availability can be inconsistent",
+      "description": "Passion fruit availability in Bengaluru varies. KR Market is your best bet. If unavailable, frozen passion fruit pulp from gourmet stores (Nature's Basket, Foodhall) works well.",
+      "severity": "info",
+      "appliesTo": ["blr"]
+    }
+  ],
+  "dehydratorIntegration": {
+    "applicable": false,
+    "method": "Not recommended for flavoured water kefir.",
+    "result": "N/A",
+    "shelfLife": "N/A",
+    "tips": [
+      "Freeze into passion fruit kefir ice cubes — add to sparkling water for instant probiotic soda"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Passion Fruit Mango Kefir",
+      "description": "Add 50g mango pulp along with the passion fruit. The mango sweetness balances the passion fruit tartness beautifully.",
+      "region": "India / Brazil Fusion"
+    },
+    {
+      "name": "Passion Fruit Vanilla Kefir",
+      "description": "Add half a vanilla bean (split and scraped) during 2F. The vanilla rounds out the tartness and adds luxurious depth.",
+      "region": "Modern / Global"
+    }
+  ],
+  "relatedRecipes": [
+    "water-kefir-basic",
+    "coconut-water-kefir",
+    "water-kefir-mango-ginger",
+    "water-kefir-guava-lime",
+    "water-kefir-pineapple-turmeric"
+  ],
+  "tags": [
+    "beginner",
+    "vegan",
+    "probiotic",
+    "kefir",
+    "water-kefir",
+    "passion-fruit",
+    "tropical",
+    "tart",
+    "dairy-free",
+    "second-ferment",
+    "aromatic"
+  ],
+  "dietaryFlags": [
+    "gluten-free",
+    "vegan"
+  ],
+  "veganAdaptable": true,
+  "containsAllergens": [],
+  "sources": [
+    {
+      "title": "Tibicos — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tibicos",
+      "license": "CC BY-SA"
+    },
+    {
+      "title": "Passion fruit — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Passion_fruit_(fruit)",
+      "license": "CC BY-SA"
+    }
+  ],
+  "videos": [],
+  "citations": []
+}

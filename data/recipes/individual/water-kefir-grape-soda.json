@@ -1,0 +1,246 @@
+{
+  "id": "water-kefir-grape-soda",
+  "slug": "water-kefir-grape-soda",
+  "name": "Grape Soda Water Kefir",
+  "nameLocal": "ದ್ರಾಕ್ಷಿ ಸೋಡಾ ಕೆಫಿರ್",
+  "nameRomanized": "Drakshi Soda Kefir",
+  "subtitle": "Kid-friendly probiotic grape soda made with real grape juice — a natural Fanta alternative",
+  "category": "beverage",
+  "subcategory": "probiotic soda",
+  "technique": "culture",
+  "region": "Global / Modern",
+  "country": "India",
+  "countryCode": "IN",
+  "culturalGroup": "Global / Kid-Friendly",
+  "difficulty": 1,
+  "tier": "beginner",
+  "tierLabel": "Easy Second Ferment",
+  "prepTime": "10 min",
+  "fermentTimeMin": 24,
+  "fermentTimeMax": 48,
+  "fermentTimeUnit": "hours",
+  "totalTimeHuman": "24–48 hours (2F only)",
+  "blrNote": "Black grapes (Bangalore Blue) are one of Bengaluru's most iconic fruits — grown in the surrounding countryside and available year-round at KR Market for ₹60–120/kg. They're sweeter and more intensely flavoured than most grape varieties, making them perfect for kefir. At BLR temps, grape juice ferments well in 24 hours. This is a fantastic way to get kids interested in probiotics.",
+  "seasonality": ["all"],
+  "ingredients": [
+    {
+      "name": "Plain water kefir (finished 1F)",
+      "nameLocal": null,
+      "amount": 500,
+      "unit": "ml",
+      "unitMetric": "500ml",
+      "category": "liquid",
+      "essential": true,
+      "substitutions": [],
+      "localAvailability": {
+        "IN": {
+          "ease": "moderate",
+          "where": "Homemade from water kefir grains. See water-kefir-basic recipe."
+        }
+      }
+    },
+    {
+      "name": "Fresh grape juice (or crushed grapes)",
+      "nameLocal": "Drakshi Rasa",
+      "amount": 250,
+      "unit": "ml",
+      "unitMetric": "250ml (from ~300g grapes)",
+      "category": "fruit",
+      "essential": true,
+      "substitutions": [
+        "100% grape juice (no preservatives — Tropicana, Real, or local brands)",
+        "Concord grape juice (imported, for authentic US grape soda flavour)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Bangalore Blue grapes year-round at KR Market, Hopcoms. ₹60–120/kg. Or 100% grape juice from any supermarket."
+        }
+      }
+    },
+    {
+      "name": "Sugar (optional)",
+      "nameLocal": "Sakkare / Cheeni",
+      "amount": 1,
+      "unit": "tsp",
+      "unitMetric": "5g",
+      "category": "sweetener",
+      "essential": false,
+      "substitutions": [
+        "Skip if grapes are very sweet"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana store or supermarket"
+        }
+      }
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Swing-top glass bottle (500ml–1L)",
+      "essential": true,
+      "notes": "Pressure-rated for carbonation."
+    },
+    {
+      "name": "Blender or juicer",
+      "essential": false,
+      "notes": "For making fresh grape juice. Can also use store-bought."
+    },
+    {
+      "name": "Plastic or nylon mesh strainer",
+      "essential": true,
+      "notes": "Fine mesh to strain out grape skins and sediment."
+    }
+  ],
+  "tldr": "Mix fresh grape juice with finished water kefir, seal and ferment 24–48 hours. A naturally fizzy, deep purple probiotic grape soda that kids and adults love.",
+  "steps": [
+    {
+      "step": 1,
+      "title": "Prepare base water kefir",
+      "instruction": "Make a batch of plain water kefir following the water-kefir-basic recipe. Strain out the grains. You need about 500ml of finished plain water kefir.",
+      "duration": "24–48 hours (done in advance)",
+      "tips": [
+        "Using less water kefir since grape juice makes up 1/3 of the volume.",
+        "Reserve grains in fresh sugar water for your next batch."
+      ],
+      "checkpoint": "500ml of strained, room-temperature plain water kefir"
+    },
+    {
+      "step": 2,
+      "title": "Prepare grape juice",
+      "instruction": "Blend 300g of black grapes (Bangalore Blue or similar) and strain through a mesh strainer to get about 250ml of fresh juice. Alternatively, use 250ml of store-bought 100% grape juice (no preservatives, no added sugar). Add the grape juice to your swing-top bottle.",
+      "duration": "5 min",
+      "tips": [
+        "Bangalore Blue grapes make the most deeply coloured and flavourful juice.",
+        "Fresh juice gives the best flavour, but store-bought 100% juice is perfectly fine.",
+        "AVOID grape juice with preservatives (potassium sorbate) — it will prevent fermentation.",
+        "Leave 5 cm headspace."
+      ],
+      "checkpoint": "250ml grape juice in the bottle"
+    },
+    {
+      "step": 3,
+      "title": "Second ferment (2F)",
+      "instruction": "Pour the strained water kefir over the grape juice. Seal tightly. Place in a warm spot away from direct sunlight for 24–48 hours. Burp every 12 hours. Grapes are sugar-rich and will produce good carbonation.",
+      "duration": "24–48 hours",
+      "tips": [
+        "The colour will be a stunning deep purple from black grapes.",
+        "Grape juice has plenty of natural sugar — carbonation builds reliably.",
+        "At BLR temps, 24 hours usually gives nice fizz.",
+        "The drink will taste like a tangier, more complex version of grape soda."
+      ],
+      "checkpoint": "Bottle pressurized, deep purple, fizzy when burped"
+    },
+    {
+      "step": 4,
+      "title": "Strain and serve",
+      "instruction": "Open carefully. If there's sediment, strain lightly. Serve over ice in a tall glass. Kids love this — it tastes like grape soda but with probiotics and no artificial colours or flavours. Refrigerate for up to 5 days.",
+      "duration": "3 min",
+      "tips": [
+        "The deep purple colour is entirely natural — from grape anthocyanins.",
+        "Serve to kids as a 'healthy grape soda' — the transition from commercial soda is seamless.",
+        "Tastes excellent mixed 50/50 with sparkling water for a lighter drink.",
+        "Grape juice stains — handle with care around light fabrics and surfaces."
+      ],
+      "checkpoint": "Deep purple, fizzy, probiotic grape soda"
+    }
+  ],
+  "images": [],
+  "culturalContext": {
+    "story": "Grape soda is one of the most popular soda flavours worldwide, yet commercial versions are typically made with artificial colours and flavours — no actual grapes involved. This water kefir version uses real grape juice, producing a deeper, more complex grape flavour with natural carbonation and live probiotics. Bengaluru's own Bangalore Blue grapes make this a hyper-local version of a global favourite.",
+    "historicalNote": "The Bangalore Blue grape is a hybrid variety developed in India, known for its deep purple colour and intense sweetness. It's the most widely grown grape in Karnataka and perfectly suited for juice and fermentation. Before commercial sodas, naturally fermented grape beverages (wine, verjuice) were common across civilizations.",
+    "significance": "This is the ultimate 'gateway' water kefir for families with kids. It tastes enough like familiar grape soda to win over young palates, while delivering probiotics and real fruit nutrition. A practical way to reduce commercial soda consumption.",
+    "relatedTraditions": [
+      "Grape juice (Welch's, American tradition)",
+      "Wine (global, ancient fermented grape)",
+      "Verjuice (medieval Europe, pressed unripe grapes)",
+      "Sharbat-e angoor (grape sherbet, Iran)"
+    ],
+    "funFact": "Bangalore Blue grapes were originally called 'Isabella' grapes — a hybrid variety from the eastern United States that was brought to India in the 19th century. It adapted so well to Karnataka's climate that it became the state's signature grape variety."
+  },
+  "thingsToAccountFor": [
+    {
+      "title": "Avoid juice with preservatives",
+      "description": "Commercial grape juice often contains potassium sorbate or sodium benzoate — both are antimicrobial agents that will prevent the 2F from carbonating. Always check the label. Choose 100% juice with no additives.",
+      "severity": "warning",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Grape stains are stubborn",
+      "description": "Grape juice (especially from black grapes) stains everything it touches — clothes, countertops, plastic containers. Use glass equipment and handle carefully.",
+      "severity": "info",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Natural yeast on grapes",
+      "description": "Fresh grapes carry wild yeast on their skins. This can add complexity to the fermentation but may also produce slightly different results each time. If consistency is important, use pasteurized juice.",
+      "severity": "info",
+      "appliesTo": ["all"]
+    }
+  ],
+  "dehydratorIntegration": {
+    "applicable": false,
+    "method": "Not recommended for flavoured water kefir.",
+    "result": "N/A",
+    "shelfLife": "N/A",
+    "tips": [
+      "Freeze into grape soda popsicles — a probiotic frozen treat kids love"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Green Grape Kefir",
+      "description": "Use green/white grapes (Thompson Seedless) for a lighter, more delicate flavour. Less colour but equally delicious.",
+      "region": "Global"
+    },
+    {
+      "name": "Grape Cinnamon Kefir",
+      "description": "Add a cinnamon stick to the 2F. The cinnamon-grape combination tastes like mulled wine in soda form.",
+      "region": "Europe"
+    }
+  ],
+  "relatedRecipes": [
+    "water-kefir-basic",
+    "coconut-water-kefir",
+    "water-kefir-raspberry-lemonade",
+    "water-kefir-cream-soda",
+    "water-kefir-apple-cider"
+  ],
+  "tags": [
+    "beginner",
+    "vegan",
+    "probiotic",
+    "kefir",
+    "water-kefir",
+    "grape",
+    "soda-alternative",
+    "kid-friendly",
+    "purple",
+    "dairy-free",
+    "year-round",
+    "second-ferment",
+    "family"
+  ],
+  "dietaryFlags": [
+    "gluten-free",
+    "vegan"
+  ],
+  "veganAdaptable": true,
+  "containsAllergens": [],
+  "sources": [
+    {
+      "title": "Tibicos — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tibicos",
+      "license": "CC BY-SA"
+    },
+    {
+      "title": "Bangalore Blue — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bangalore_Blue",
+      "license": "CC BY-SA"
+    }
+  ],
+  "videos": [],
+  "citations": []
+}

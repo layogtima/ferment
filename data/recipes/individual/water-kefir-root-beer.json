@@ -1,0 +1,274 @@
+{
+  "id": "water-kefir-root-beer",
+  "slug": "water-kefir-root-beer",
+  "name": "Root Beer Water Kefir",
+  "nameLocal": null,
+  "nameRomanized": null,
+  "subtitle": "Classic root beer flavour with sassafras, wintergreen, and vanilla — a probiotic nostalgia trip",
+  "category": "beverage",
+  "subcategory": "probiotic soda",
+  "technique": "culture",
+  "region": "North America",
+  "country": "United States",
+  "countryCode": "US",
+  "culturalGroup": "American / Traditional",
+  "difficulty": 2,
+  "tier": "intermediate",
+  "tierLabel": "Specialty Ingredients Needed",
+  "prepTime": "15 min",
+  "fermentTimeMin": 24,
+  "fermentTimeMax": 48,
+  "fermentTimeUnit": "hours",
+  "totalTimeHuman": "24–48 hours (2F only)",
+  "blrNote": "Root beer flavouring is the tricky part in India. Root beer extract (McCormick or similar) is available on Amazon India for ₹300–500. Alternatively, build the flavour from components: vanilla extract (Nature's Basket), sarsaparilla root (Ayurvedic stores or Amazon — called 'anantmool' in Hindi), star anise (KR Market), and wintergreen oil (rare — try essential oil suppliers on Amazon). At BLR temps, 24 hours of 2F is sufficient.",
+  "seasonality": ["all"],
+  "ingredients": [
+    {
+      "name": "Plain water kefir (finished 1F)",
+      "nameLocal": null,
+      "amount": 750,
+      "unit": "ml",
+      "unitMetric": "750ml",
+      "category": "liquid",
+      "essential": true,
+      "substitutions": [],
+      "localAvailability": {
+        "IN": {
+          "ease": "moderate",
+          "where": "Homemade from water kefir grains. See water-kefir-basic recipe."
+        }
+      }
+    },
+    {
+      "name": "Root beer extract",
+      "nameLocal": null,
+      "amount": 1,
+      "unit": "tsp",
+      "unitMetric": "5ml",
+      "category": "flavoring",
+      "essential": true,
+      "substitutions": [
+        "DIY blend: 1/2 tsp vanilla + 1 star anise + 1 small piece sarsaparilla root + tiny drop wintergreen oil",
+        "Sarsaparilla root (anantmool) steeped in hot water"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "hard",
+          "where": "Amazon India (McCormick, Zatarain's). ₹300–500. Or build from components — sarsaparilla root (anantmool) from Ayurvedic stores."
+        }
+      }
+    },
+    {
+      "name": "Vanilla extract",
+      "nameLocal": null,
+      "amount": 1,
+      "unit": "tsp",
+      "unitMetric": "5ml",
+      "category": "flavoring",
+      "essential": true,
+      "substitutions": [
+        "Vanilla bean (half, scraped)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "moderate",
+          "where": "Nature's Basket, Amazon India, baking supply shops."
+        }
+      }
+    },
+    {
+      "name": "Sugar (brown preferred)",
+      "nameLocal": "Sakkare",
+      "amount": 2,
+      "unit": "tbsp",
+      "unitMetric": "30g",
+      "category": "sweetener",
+      "essential": true,
+      "substitutions": [
+        "Molasses (1 tsp) + white sugar",
+        "Jaggery"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana store or supermarket."
+        }
+      }
+    },
+    {
+      "name": "Star anise",
+      "nameLocal": "Chakra Phool",
+      "amount": 1,
+      "unit": "piece",
+      "unitMetric": "1g",
+      "category": "spice",
+      "essential": false,
+      "substitutions": [
+        "Anise seeds (1/4 tsp)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana store or KR Market spice section."
+        }
+      }
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Swing-top glass bottle (500ml–1L)",
+      "essential": true,
+      "notes": "Pressure-rated for carbonation."
+    },
+    {
+      "name": "Plastic or nylon mesh strainer",
+      "essential": true,
+      "notes": "To strain out star anise and any solid ingredients."
+    }
+  ],
+  "tldr": "Add root beer extract (or a DIY spice blend), vanilla, and brown sugar to finished water kefir, seal and ferment 24–48 hours. A nostalgic, creamy, probiotic root beer.",
+  "steps": [
+    {
+      "step": 1,
+      "title": "Prepare base water kefir",
+      "instruction": "Make a batch of plain water kefir following the water-kefir-basic recipe. Strain out the grains. You need about 750ml of finished plain water kefir.",
+      "duration": "24–48 hours (done in advance)",
+      "tips": [
+        "A sweeter 1F works best for root beer — the sweetness carries the complex botanical flavours.",
+        "Reserve grains in fresh sugar water for your next batch."
+      ],
+      "checkpoint": "750ml of strained, room-temperature plain water kefir"
+    },
+    {
+      "step": 2,
+      "title": "Build the root beer flavour",
+      "instruction": "Add 1 tsp root beer extract, 1 tsp vanilla extract, 2 tbsp brown sugar, and 1 star anise to your swing-top bottle. If using the DIY method instead of extract: steep 5g sarsaparilla root in 100ml hot water for 15 minutes, strain, cool, and add along with vanilla, sugar, and star anise.",
+      "duration": "5–15 min",
+      "tips": [
+        "Root beer extract is the easiest path — it contains a balanced blend of sassafras, wintergreen, and other botanicals.",
+        "The DIY method is more work but gives you complete control over the flavour profile.",
+        "Star anise adds a licorice note that's essential to root beer character.",
+        "Brown sugar gives the dark colour and molasses notes root beer is known for.",
+        "Leave 5 cm headspace."
+      ],
+      "checkpoint": "Root beer flavourings and sugar in the bottle"
+    },
+    {
+      "step": 3,
+      "title": "Second ferment (2F)",
+      "instruction": "Pour the strained water kefir over the root beer flavouring. Seal tightly. Place in a warm spot away from direct sunlight for 24–48 hours. Burp every 12 hours.",
+      "duration": "24–48 hours",
+      "tips": [
+        "The sugar will fuel carbonation. The botanical extracts don't contribute fermentable sugars.",
+        "At BLR temps, 24 hours usually gives good carbonation.",
+        "The colour will darken from the brown sugar and root beer extract.",
+        "The aroma should be unmistakably root beer — vanilla, sassafras, wintergreen."
+      ],
+      "checkpoint": "Bottle pressurized, dark brown, root beer aroma"
+    },
+    {
+      "step": 4,
+      "title": "Strain and serve",
+      "instruction": "Open carefully. Strain out the star anise. Serve over ice — or go full American and add a scoop of vanilla ice cream for a probiotic root beer float. Refrigerate for up to 7 days.",
+      "duration": "3 min",
+      "tips": [
+        "Root beer float: scoop of vanilla ice cream + this kefir = probiotic nostalgia.",
+        "The foam on top is natural from fermentation — it mimics the creamy head of commercial root beer.",
+        "Excellent cold, straight from the fridge. The vanilla becomes more pronounced when chilled.",
+        "This is a great conversation piece — most people don't believe it's homemade and probiotic."
+      ],
+      "checkpoint": "Dark, creamy, fizzy probiotic root beer"
+    }
+  ],
+  "images": [],
+  "culturalContext": {
+    "story": "Root beer is a quintessentially American beverage, originally made by colonial-era pharmacists from sassafras bark, sarsaparilla root, and various botanicals. The original versions were actually fermented — making this water kefir root beer historically authentic. Before commercialization, every household and drugstore had their own root beer recipe.",
+    "historicalNote": "Sassafras tea was one of the first exports from the New World to Europe. Indigenous peoples of North America had been using sassafras and sarsaparilla in beverages for centuries before European contact. Root beer as a carbonated drink emerged in the 1840s, and was naturally fermented until the 20th century when artificial carbonation took over.",
+    "significance": "This recipe returns root beer to its fermented origins. It's a reminder that most 'sodas' were originally fermented beverages — commercial carbonation was the disruption, not the tradition. Making root beer with water kefir is historically authentic.",
+    "relatedTraditions": [
+      "Traditional root beer (Colonial America, fermented)",
+      "Small beer (Colonial America, low-alcohol fermented)",
+      "Sarsaparilla drinks (Central America)",
+      "Birch beer (Northeastern USA)"
+    ],
+    "funFact": "The US FDA banned sassafras oil from foods in 1960 due to safrole content, which was linked to cancer in rats at very high doses. Modern root beer extract uses safrole-free sassafras flavouring — so your probiotic root beer is perfectly safe."
+  },
+  "thingsToAccountFor": [
+    {
+      "title": "Root beer extract availability in India",
+      "description": "Root beer is not part of Indian food culture, so the extract can be hard to find locally. Amazon India is your best bet. Alternatively, use sarsaparilla root (anantmool), available at Ayurvedic stores, as the base for a DIY approach.",
+      "severity": "important",
+      "appliesTo": ["blr"]
+    },
+    {
+      "title": "Star anise is potent",
+      "description": "One star anise is enough for 750ml. More will make the drink taste too heavily of licorice. Remove it after 24 hours if doing a 48-hour ferment.",
+      "severity": "important",
+      "appliesTo": ["all"]
+    }
+  ],
+  "dehydratorIntegration": {
+    "applicable": false,
+    "method": "Not recommended for flavoured water kefir.",
+    "result": "N/A",
+    "shelfLife": "N/A",
+    "tips": [
+      "Freeze into root beer popsicles or ice cubes for root beer floats"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Root Beer Float Kefir",
+      "description": "Serve the finished root beer kefir with a scoop of vanilla ice cream. Classic American treat, now with probiotics.",
+      "region": "North America"
+    },
+    {
+      "name": "Sarsaparilla Kefir",
+      "description": "Use only sarsaparilla root (anantmool) and vanilla — skip the extract. A simpler, more herbal version closer to traditional root beer.",
+      "region": "Central America"
+    }
+  ],
+  "relatedRecipes": [
+    "water-kefir-basic",
+    "coconut-water-kefir",
+    "water-kefir-cola",
+    "water-kefir-cream-soda",
+    "water-kefir-ginger-beer"
+  ],
+  "tags": [
+    "intermediate",
+    "vegan",
+    "probiotic",
+    "kefir",
+    "water-kefir",
+    "root-beer",
+    "soda-alternative",
+    "vanilla",
+    "botanical",
+    "dairy-free",
+    "year-round",
+    "second-ferment",
+    "nostalgic",
+    "american"
+  ],
+  "dietaryFlags": [
+    "gluten-free",
+    "vegan"
+  ],
+  "veganAdaptable": true,
+  "containsAllergens": [],
+  "sources": [
+    {
+      "title": "Tibicos — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tibicos",
+      "license": "CC BY-SA"
+    },
+    {
+      "title": "Root beer — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Root_beer",
+      "license": "CC BY-SA"
+    }
+  ],
+  "videos": [],
+  "citations": []
+}

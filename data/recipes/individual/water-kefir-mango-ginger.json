@@ -1,0 +1,271 @@
+{
+  "id": "water-kefir-mango-ginger",
+  "slug": "water-kefir-mango-ginger",
+  "name": "Mango Ginger Water Kefir",
+  "nameLocal": "ಮಾವಿನ ಶುಂಠಿ ಕೆಫಿರ್",
+  "nameRomanized": "Maavina Shunthi Kefir",
+  "subtitle": "Tropical mango meets spicy ginger in a probiotic fizzy second ferment",
+  "category": "beverage",
+  "subcategory": "probiotic soda",
+  "technique": "culture",
+  "region": "South Asia / Tropical",
+  "country": "India",
+  "countryCode": "IN",
+  "culturalGroup": "South Asian / Modern Fermentation",
+  "difficulty": 1,
+  "tier": "beginner",
+  "tierLabel": "Easy Second Ferment",
+  "prepTime": "10 min",
+  "fermentTimeMin": 18,
+  "fermentTimeMax": 48,
+  "fermentTimeUnit": "hours",
+  "totalTimeHuman": "18–48 hours (2F only)",
+  "blrNote": "Bengaluru gets incredible Alphonso, Badami, and Raspuri mangoes from April–June. Badami (Karnataka's own Alphonso) is perfect here — sweet, fragrant, and available at KR Market and Hopcoms for ₹80–150/kg in season. Use fresh ginger from any local kirana. At BLR temps (25–28°C), the 2F can be done in 18–24 hours. In summer (30°C+), check at 12 hours to avoid over-carbonation.",
+  "seasonality": ["spring", "summer"],
+  "ingredients": [
+    {
+      "name": "Plain water kefir (finished 1F)",
+      "nameLocal": null,
+      "amount": 750,
+      "unit": "ml",
+      "unitMetric": "750ml",
+      "category": "liquid",
+      "essential": true,
+      "substitutions": [],
+      "localAvailability": {
+        "IN": {
+          "ease": "moderate",
+          "where": "Homemade from water kefir grains. See water-kefir-basic recipe."
+        }
+      }
+    },
+    {
+      "name": "Ripe mango (pulp)",
+      "nameLocal": "Maavina Hannu / Aam",
+      "amount": 100,
+      "unit": "g",
+      "unitMetric": "100g",
+      "category": "fruit",
+      "essential": true,
+      "substitutions": [
+        "Frozen mango chunks (thawed)",
+        "Canned mango pulp (no preservatives — Ratna or Alphonso brand)"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Abundant April–June across Bengaluru. Badami and Raspuri at KR Market, Hopcoms, local fruit vendors. ₹80–150/kg in season."
+        }
+      }
+    },
+    {
+      "name": "Fresh ginger",
+      "nameLocal": "Shunthi / Adrak",
+      "amount": 10,
+      "unit": "g",
+      "unitMetric": "10g (1-inch piece)",
+      "category": "spice",
+      "essential": true,
+      "substitutions": [
+        "Dried ginger powder (1/4 tsp) — less vibrant but works"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana store, vegetable vendor, or supermarket. Year-round availability."
+        }
+      }
+    },
+    {
+      "name": "Sugar (optional, for extra carbonation)",
+      "nameLocal": "Sakkare / Cheeni",
+      "amount": 1,
+      "unit": "tsp",
+      "unitMetric": "5g",
+      "category": "sweetener",
+      "essential": false,
+      "substitutions": [
+        "Jaggery (bella) — adds depth",
+        "Skip if mango is very sweet"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana store or supermarket"
+        }
+      }
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Swing-top glass bottle (500ml–1L)",
+      "essential": true,
+      "notes": "Must be pressure-rated for carbonation. Avoid thin glass — 2F builds serious pressure."
+    },
+    {
+      "name": "Plastic or nylon mesh strainer",
+      "essential": true,
+      "notes": "Fine mesh to catch mango pulp and ginger bits. Never use metal with kefir."
+    },
+    {
+      "name": "Funnel",
+      "essential": false,
+      "notes": "Makes bottling easier and less messy."
+    }
+  ],
+  "tldr": "Add mango pulp and fresh ginger to finished water kefir, bottle tightly, ferment 18–48 hours for a fizzy, tropical-spicy probiotic soda.",
+  "steps": [
+    {
+      "step": 1,
+      "title": "Prepare base water kefir",
+      "instruction": "Make a batch of plain water kefir following the water-kefir-basic recipe. Strain out the grains after the first ferment (1F) is complete. You should have about 750ml of slightly tangy, lightly sweet water kefir ready for flavoring.",
+      "duration": "24–48 hours (done in advance)",
+      "tips": [
+        "The 1F should taste mildly tart and slightly sweet — not vinegary.",
+        "If your 1F is too sweet, ferment longer. If too sour, reduce time next batch.",
+        "Reserve the grains in fresh sugar water for your next batch."
+      ],
+      "checkpoint": "750ml of strained, room-temperature plain water kefir"
+    },
+    {
+      "step": 2,
+      "title": "Add mango and ginger",
+      "instruction": "Peel and chop the ripe mango into small pieces or mash into a pulp — about 100g. Peel and thinly slice or grate 10g of fresh ginger. Add the mango and ginger to your swing-top bottle using a funnel. Optionally add 1 tsp sugar for extra carbonation fuel.",
+      "duration": "5 min",
+      "tips": [
+        "The riper the mango, the more sugar for carbonation and the sweeter the result.",
+        "Grating the ginger releases more flavour and heat than slicing.",
+        "For a milder ginger kick, use slices. For intense heat, grate it fine.",
+        "Leave 5–7 cm headspace in the bottle for CO₂ buildup."
+      ],
+      "checkpoint": "Mango pulp and ginger in the bottle, headspace left at top"
+    },
+    {
+      "step": 3,
+      "title": "Second ferment (2F)",
+      "instruction": "Pour the strained water kefir over the mango and ginger. Seal the bottle tightly. Place in a warm spot away from direct sunlight. Ferment for 18–48 hours, burping the bottle every 12 hours to release excess pressure. The mango sugars will feed the residual bacteria and yeast, creating natural carbonation.",
+      "duration": "18–48 hours",
+      "tips": [
+        "At BLR temps (25–28°C), 18–24 hours often gives great fizz. In cooler weather, go 36–48 hours.",
+        "Mango is sugar-rich — carbonation can build fast. Burp every 12 hours to prevent bottle bombs.",
+        "The liquid will turn a beautiful golden-orange. Cloudiness is normal and healthy.",
+        "If summer temps exceed 30°C, check at 12 hours — things move fast."
+      ],
+      "checkpoint": "Bottle is pressurized, liquid is golden-orange, fizzy when burped"
+    },
+    {
+      "step": 4,
+      "title": "Strain and serve",
+      "instruction": "Carefully open the bottle over a sink (it will be fizzy). Strain through a fine mesh strainer into a glass to remove mango pulp and ginger pieces. Serve immediately over ice, or refrigerate for up to 5 days. The cold slows fermentation and preserves carbonation.",
+      "duration": "3 min",
+      "tips": [
+        "Open the bottle slowly — point away from your face. Mango 2F can be explosively fizzy.",
+        "The mango pulp is edible and probiotic — blend it into a smoothie if you like.",
+        "For maximum fizz, serve straight from the fridge without straining.",
+        "A squeeze of lime at serving takes this to another level."
+      ],
+      "checkpoint": "Clear golden-orange fizzy drink, aromatic with mango and ginger"
+    }
+  ],
+  "images": [],
+  "culturalContext": {
+    "story": "Mango and ginger is a combination that runs deep in Indian food culture — from aam ka panna to ginger-spiked mango chutneys. This water kefir second ferment takes that classic pairing and turns it into a naturally carbonated probiotic soda. In Bengaluru, where mango season brings an embarrassment of riches (Badami, Raspuri, Malgova, Neelam), this recipe is a way to celebrate the season while building gut health.",
+    "historicalNote": "Ginger has been used in Indian beverages for millennia — from Ayurvedic preparations to street-side ginger lemon sodas. Combining it with mango in a fermented context is a modern innovation, but the flavour pairing is ancient.",
+    "significance": "This recipe bridges traditional Indian flavours with modern probiotic fermentation. It's a gateway recipe — the familiar taste of mango and ginger makes water kefir approachable for people new to fermented beverages.",
+    "relatedTraditions": [
+      "Aam Panna (raw mango drink, India)",
+      "Ginger beer (Caribbean / British)",
+      "Lassi (yogurt-based mango drink, India)",
+      "Tepache (fermented pineapple, Mexico)"
+    ],
+    "funFact": "Karnataka is the largest producer of mangoes in India, contributing nearly 20% of the country's total output. Bengaluru's Badami mango is genetically identical to Alphonso but grown in different soil — locals argue it's actually sweeter."
+  },
+  "thingsToAccountFor": [
+    {
+      "title": "Mango creates explosive carbonation",
+      "description": "Mango is very high in sugar. Combined with residual kefir culture, carbonation builds quickly — especially at BLR temperatures. Always burp bottles every 12 hours and open carefully over a sink.",
+      "severity": "warning",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Seasonal availability",
+      "description": "Fresh mangoes are available April–June in Bengaluru. Outside of season, use frozen mango chunks (available at Nature's Basket, Foodhall) or canned Alphonso pulp (no preservatives).",
+      "severity": "info",
+      "appliesTo": ["blr"]
+    },
+    {
+      "title": "Ginger intensity varies",
+      "description": "Young ginger is milder, older ginger is more fibrous and pungent. Adjust the amount based on how spicy you want the final drink. Start with 5g if you're unsure.",
+      "severity": "info",
+      "appliesTo": ["all"]
+    }
+  ],
+  "dehydratorIntegration": {
+    "applicable": false,
+    "method": "Not recommended for a flavoured water kefir — enjoy fresh for best flavour and carbonation.",
+    "result": "N/A",
+    "shelfLife": "N/A",
+    "tips": [
+      "Freeze into popsicle moulds for a probiotic mango-ginger ice pop",
+      "Use as a base for mango smoothie bowls"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Mango Ginger Turmeric Kefir",
+      "description": "Add 1/4 tsp turmeric powder or a thin slice of fresh turmeric along with the ginger. Anti-inflammatory and turns the drink a deep gold.",
+      "region": "India"
+    },
+    {
+      "name": "Mango Chili Kefir",
+      "description": "Replace ginger with a thin slice of green chili or a pinch of Kashmiri chili powder. Sweet heat — like a Mexican mango con chile in probiotic soda form.",
+      "region": "India / Mexico Fusion"
+    },
+    {
+      "name": "Green Mango Kefir",
+      "description": "Use raw/green mango instead of ripe for a tart, aam panna-style kefir. Add jaggery and a pinch of roasted cumin for the full effect.",
+      "region": "India"
+    }
+  ],
+  "relatedRecipes": [
+    "water-kefir-basic",
+    "coconut-water-kefir",
+    "water-kefir-pineapple-turmeric",
+    "water-kefir-passion-fruit",
+    "water-kefir-guava-lime"
+  ],
+  "tags": [
+    "beginner",
+    "vegan",
+    "probiotic",
+    "kefir",
+    "water-kefir",
+    "mango",
+    "ginger",
+    "tropical",
+    "dairy-free",
+    "seasonal",
+    "second-ferment",
+    "indian"
+  ],
+  "dietaryFlags": [
+    "gluten-free",
+    "vegan"
+  ],
+  "veganAdaptable": true,
+  "containsAllergens": [],
+  "sources": [
+    {
+      "title": "Tibicos — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tibicos",
+      "license": "CC BY-SA"
+    },
+    {
+      "title": "Mango — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mango",
+      "license": "CC BY-SA"
+    }
+  ],
+  "videos": [],
+  "citations": []
+}

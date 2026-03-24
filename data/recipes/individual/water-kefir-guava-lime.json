@@ -1,0 +1,258 @@
+{
+  "id": "water-kefir-guava-lime",
+  "slug": "water-kefir-guava-lime",
+  "name": "Guava Lime Water Kefir",
+  "nameLocal": "ಪೇರಲ ಲಿಂಬೆ ಕೆಫಿರ್",
+  "nameRomanized": "Perala Limbe Kefir",
+  "subtitle": "Latin-inspired guava and lime probiotic soda — sweet, tart, and tropical",
+  "category": "beverage",
+  "subcategory": "probiotic soda",
+  "technique": "culture",
+  "region": "Latin America / South Asia",
+  "country": "Mexico",
+  "countryCode": "MX",
+  "culturalGroup": "Latin American / South Asian",
+  "difficulty": 1,
+  "tier": "beginner",
+  "tierLabel": "Easy Second Ferment",
+  "prepTime": "10 min",
+  "fermentTimeMin": 24,
+  "fermentTimeMax": 48,
+  "fermentTimeUnit": "hours",
+  "totalTimeHuman": "24–48 hours (2F only)",
+  "blrNote": "Guava (peralu/amrood) is one of Bengaluru's most available and affordable fruits — ₹40–80/kg year-round at KR Market, Hopcoms, and pushcart vendors. Pink-fleshed guavas give the most beautiful colour. Limes (nimbu) are ubiquitous. This is one of the most budget-friendly water kefir flavours you can make in Bengaluru. At BLR temps, 24 hours of 2F is usually perfect.",
+  "seasonality": ["all"],
+  "ingredients": [
+    {
+      "name": "Plain water kefir (finished 1F)",
+      "nameLocal": null,
+      "amount": 750,
+      "unit": "ml",
+      "unitMetric": "750ml",
+      "category": "liquid",
+      "essential": true,
+      "substitutions": [],
+      "localAvailability": {
+        "IN": {
+          "ease": "moderate",
+          "where": "Homemade from water kefir grains. See water-kefir-basic recipe."
+        }
+      }
+    },
+    {
+      "name": "Ripe guava (chopped)",
+      "nameLocal": "Peralu / Amrood",
+      "amount": 120,
+      "unit": "g",
+      "unitMetric": "120g (1 medium guava)",
+      "category": "fruit",
+      "essential": true,
+      "substitutions": [
+        "Guava nectar/juice (no preservatives, 100ml)",
+        "Canned guava pulp"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Available year-round at KR Market, Hopcoms, fruit vendors. ₹40–80/kg. Pink-fleshed variety preferred."
+        }
+      }
+    },
+    {
+      "name": "Fresh lime juice",
+      "nameLocal": "Nimbu Rasa",
+      "amount": 20,
+      "unit": "ml",
+      "unitMetric": "20ml (juice of 1 lime)",
+      "category": "citrus",
+      "essential": true,
+      "substitutions": [
+        "Lemon juice"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Every vegetable vendor. ₹2–5 per lime."
+        }
+      }
+    },
+    {
+      "name": "Sugar (optional)",
+      "nameLocal": "Sakkare / Cheeni",
+      "amount": 1,
+      "unit": "tsp",
+      "unitMetric": "5g",
+      "category": "sweetener",
+      "essential": false,
+      "substitutions": [
+        "Jaggery (bella) — adds earthiness"
+      ],
+      "localAvailability": {
+        "IN": {
+          "ease": "easy",
+          "where": "Any kirana store or supermarket"
+        }
+      }
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Swing-top glass bottle (500ml–1L)",
+      "essential": true,
+      "notes": "Pressure-rated for carbonation."
+    },
+    {
+      "name": "Plastic or nylon mesh strainer",
+      "essential": true,
+      "notes": "Fine mesh to strain out guava pulp and seeds."
+    },
+    {
+      "name": "Blender or fork",
+      "essential": false,
+      "notes": "For pureeing or mashing the guava."
+    }
+  ],
+  "tldr": "Blend or mash ripe guava, add lime juice, combine with finished water kefir, seal and ferment 24–48 hours. A pink, tropical, budget-friendly probiotic soda.",
+  "steps": [
+    {
+      "step": 1,
+      "title": "Prepare base water kefir",
+      "instruction": "Make a batch of plain water kefir following the water-kefir-basic recipe. Strain out the grains. You need about 750ml of finished plain water kefir.",
+      "duration": "24–48 hours (done in advance)",
+      "tips": [
+        "The 1F should be mildly tart and lightly sweet.",
+        "Reserve grains in fresh sugar water for your next batch."
+      ],
+      "checkpoint": "750ml of strained, room-temperature plain water kefir"
+    },
+    {
+      "step": 2,
+      "title": "Prepare guava-lime flavoring",
+      "instruction": "Wash and chop 1 medium ripe guava (about 120g) into small pieces. You can mash with a fork or briefly blend. Add the guava pieces/pulp, 20ml fresh lime juice, and optionally 1 tsp sugar to your swing-top bottle.",
+      "duration": "5 min",
+      "tips": [
+        "Pink-fleshed guavas give a beautiful blush colour to the finished drink.",
+        "White-fleshed guavas work too — less colour but equally delicious.",
+        "Guava seeds are edible but hard — they'll be strained out later.",
+        "The lime brightens the guava's sweet muskiness. Don't skip it."
+      ],
+      "checkpoint": "Guava pulp and lime juice in the bottle"
+    },
+    {
+      "step": 3,
+      "title": "Second ferment (2F)",
+      "instruction": "Pour the strained water kefir over the guava-lime mixture. Seal tightly. Place in a warm spot away from direct sunlight for 24–48 hours. Burp every 12 hours.",
+      "duration": "24–48 hours",
+      "tips": [
+        "Guava has moderate sugar content — carbonation builds at a steady pace.",
+        "With pink guava, the colour will be a beautiful soft pink.",
+        "The aroma will be incredibly tropical and musky — classic guava.",
+        "At BLR temps, 24 hours usually gives nice carbonation."
+      ],
+      "checkpoint": "Bottle pressurized, liquid is pink-tinged, aromatic"
+    },
+    {
+      "step": 4,
+      "title": "Strain and serve",
+      "instruction": "Open carefully. Strain through a fine mesh strainer to remove guava pulp and seeds. Serve over ice with a lime wedge. Refrigerate for up to 5 days.",
+      "duration": "3 min",
+      "tips": [
+        "The strained kefir may be slightly thicker than other flavours due to guava's pectin — this is normal.",
+        "A pinch of chaat masala on the rim of the glass makes this incredibly Indian.",
+        "Excellent over crushed ice as an afternoon refresher.",
+        "This is one of the cheapest water kefir flavours to make in India."
+      ],
+      "checkpoint": "Pink, tropical, fizzy guava-lime probiotic soda"
+    }
+  ],
+  "images": [],
+  "culturalContext": {
+    "story": "Guava is beloved across Latin America and South Asia. In Mexico, where water kefir (tibicos) originates, guava agua fresca is a staple. In India, guava (amrood) is a daily fruit eaten with chaat masala at roadside carts. This recipe connects the Mexican origins of water kefir with India's abundant guava culture — a perfect cross-cultural fermentation.",
+    "historicalNote": "Guava is native to Central America and was spread globally by Spanish and Portuguese colonizers. It found a second home in India, which is now the world's largest guava producer. The guava-lime combination is a classic across Latin America, known as guayaba con limón.",
+    "significance": "This is the most budget-friendly water kefir flavour for Indian fermenters. Guava costs ₹40–80/kg in Bengaluru year-round, making this an accessible daily probiotic drink. It connects water kefir back to its Latin American roots while using a deeply Indian fruit.",
+    "relatedTraditions": [
+      "Agua de guayaba (Mexico)",
+      "Guava paste / Goiabada (Brazil)",
+      "Amrood chaat (Indian street food)",
+      "Tepache (fermented pineapple, Mexico)"
+    ],
+    "funFact": "India produces more guava than any other country — over 4 million tonnes per year. A single guava has 4 times the vitamin C of an orange, making your guava kefir a vitamin C powerhouse."
+  },
+  "thingsToAccountFor": [
+    {
+      "title": "Guava thickens the kefir",
+      "description": "Guava is high in pectin, which can make the finished kefir slightly thicker than other flavours. This is normal and pleasant — like a thin guava juice. Straining well helps.",
+      "severity": "info",
+      "appliesTo": ["all"]
+    },
+    {
+      "title": "Guava seeds are very hard",
+      "description": "Always strain the finished kefir. Guava seeds are hard enough to crack a tooth if you're not expecting them. A fine mesh strainer catches them easily.",
+      "severity": "important",
+      "appliesTo": ["all"]
+    }
+  ],
+  "dehydratorIntegration": {
+    "applicable": false,
+    "method": "Not recommended for flavoured water kefir.",
+    "result": "N/A",
+    "shelfLife": "N/A",
+    "tips": [
+      "Freeze into guava-lime popsicles for a tropical probiotic ice treat"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Guava Chili Kefir",
+      "description": "Add a thin slice of green chili or a pinch of Kashmiri chili powder. Sweet-heat combination inspired by Mexican street snacks.",
+      "region": "Mexico / India"
+    },
+    {
+      "name": "Guava Chaat Masala Kefir",
+      "description": "Add a pinch of chaat masala to the finished kefir just before serving. Tangy, spicy, salty — pure Indian street food vibes.",
+      "region": "India"
+    }
+  ],
+  "relatedRecipes": [
+    "water-kefir-basic",
+    "coconut-water-kefir",
+    "water-kefir-mango-ginger",
+    "water-kefir-passion-fruit",
+    "water-kefir-pineapple-turmeric"
+  ],
+  "tags": [
+    "beginner",
+    "vegan",
+    "probiotic",
+    "kefir",
+    "water-kefir",
+    "guava",
+    "lime",
+    "tropical",
+    "budget-friendly",
+    "dairy-free",
+    "year-round",
+    "second-ferment",
+    "latin-american"
+  ],
+  "dietaryFlags": [
+    "gluten-free",
+    "vegan"
+  ],
+  "veganAdaptable": true,
+  "containsAllergens": [],
+  "sources": [
+    {
+      "title": "Tibicos — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tibicos",
+      "license": "CC BY-SA"
+    },
+    {
+      "title": "Guava — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Guava",
+      "license": "CC BY-SA"
+    }
+  ],
+  "videos": [],
+  "citations": []
+}
